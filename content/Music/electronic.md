@@ -3,7 +3,6 @@ title: Electronic music
 ---
 
 I have been a 😎bedroom DJ and producer😎 for a long time now, so surely I have tons of stuff released everywhere, right?
-
 Funnily enough the only finished songs I have are finished because we had to ship a game with a soundtrack while making gamejams (see [[ld43]]).
 
 # Video Game Music
