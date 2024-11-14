@@ -173,11 +173,63 @@ We can also define traits on a generic type `T`, and have trait constraints on `
 As an example, let's imagine we'd like to add a `capitalize` method to everything that can be displayed.
 Something that can be displayed implements `[Display](https://doc.rust-lang.org/std/fmt/trait.Display.html)`, so we can write:
 
-```
+```rs
 trait Capitalize {
-    fn capitalize(&self) -> 
+    fn capitalize(&self) -> String;
+}
+
+impl<T: Display> Capitalize for T {
+    fn capitalize(&self) -> String {
+
+        // .to_string() is provided by the Display trait
+        let s = self.to_string();
+
+        s.chars().map(|c| c.to_uppercase().to_string()).collect()
+    }
 }
 ```
+
+Here, `T: Display` can be read as *Any type, provided it implements `Display`*.
+
+
+With that now in mind, we need another piece of information: the [`Fn` trait(s)](https://doc.rust-lang.org/book/ch13-01-closures.html#moving-captured-values-out-of-closures-and-the-fn-traits).
+
+What is interesting for us here is that functions implement traits. 
+
+```rs
+// this function
+// can be used where T: Fn(&str) -> Option<Reason>!
+fn html(text: &str) -> Option<Reason> {
+    if text.starts_with("<"){
+        Some("is html".into())
+    } else {
+        None
+    }
+}
+```
+
+To convince ourselves of that:
+
+```rs
+trait Greeter {
+    fn greet(&self) -> String;
+}
+
+impl<T> Greeter for T
+where
+    T: Fn(&str) -> Option<Reason>,
+{
+    fn greet(&self) -> String {
+        "hello from filtering functions :)".into()
+    }
+}
+```
+
+And then, we can call `html.greet()` :)! Useless here tho.
+
+-- 
+
+Function
 ```rs
 trait Flt {
     fn flt(&self, item: &str) -> bool;
