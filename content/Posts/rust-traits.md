@@ -14,41 +14,17 @@ Here I'd like to take a concrete example of where traits helped me.
 I have an ordered set of filters that tell me if I should keep or discard a given item. 
 Those filters are run in order, with usually faster filters up in the chain, and more heavy ones down.
 
-To make this more concrete, let's imagine I have 10 sentences that I got from the internet, and that I want to remove crap and keep english sentences only:
-
-```rs
-let sentences = vec![
-"Welcome to our website! Here you’ll find everything you need to know about fashion, lifestyle, health, and beauty... Click here to subscribe to our newsletter and never miss an update!",
-"¡Descubre los mejores destinos de viaje para este verano! Los precios de los vuelos están sujetos a cambios, así que apúrate y reserva ahora. Más detalles en nuestra página principal.",
-"Na pewno nie chcesz przegapić tych 10 najnowszych trendów technologicznych, które zmienią sposób, w jaki pracujesz i bawisz się w 2024 roku!",
-"Don’t miss out on our amazing weekend sale – up to 50% off selected items in our electronics category! Offer valid only while supplies last. Terms and conditions apply.",
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Check out our extensive library of tutorials for programming, web design, and more!",
-"Découvrez notre nouvelle gamme de produits bio ! Profitez d’une réduction de 10% avec le code ‘BIO2024’ – conditions générales s’appliquent.",
-"Looking for a new pet? We have everything from kittens to exotic reptiles! Use our filters to find your perfect companion today!",
-"Здравствуйте! Добро пожаловать на наш сайт. Здесь вы найдете все последние новости и обновления. Подпишитесь, чтобы не пропустить ничего важного.",
-"Anmeldung abgeschlossen! Vielen Dank für Ihre Anfrage. Wir bearbeiten diese so schnell wie möglich, bitte prüfen Sie Ihren E-Mail-Posteingang für weitere Informationen.",
-"Follow us on social media and stay connected! For terms and privacy information, please read our policies or contact customer support at support@ourcompany.com. Don’t forget to like, comment, and subscribe!",
-"Welcome! 🍪 We use cookies for a better experience – Accept or Decline?",
-"Latest News: 3 mins read | COVID-19 updates... learn more *>",
-"<div class='content'>This offer expires soon – act now! <p>Terms apply</p>",
-"¿Cómo llegar? - map coordinates: (34.0522° N, 118.2437° W) – 🚗 Directions",
-"Unsubscribe here | © 2024 Company, Inc. All rights reserved.",
-"Bienvenue sur notre site! CLIQUEZ ICI pour accepter tous les cookies et continuer",
-"<a href='/products/sale'>SALE</a>: up to 70% off selected items! Only until Oct 15th.",
-"404 Error: Page not found. <br> Go to <a href='/home'>Home</a>",
-"Review score: 4.5/5 ★☆☆☆☆ - Highly recommended! (12345 reviews)",
-"Your cart (3 items): subtotal $145.99 checkout > | <a href='/help'>Need help?</a>"];
-```
+In the following, we're dealing with sentences crawled from the internet, and we want clean, English-only sentences.
 
 Let's define some functions/structs to help us with that:
 
 ```rs
-// exclusion reason 
 #[derive(Debug)]
 struct Reason(String);
 ```
 
 We use a [Newtype](https://rust-unofficial.github.io/patterns/patterns/behavioural/newtype.html) pattern here.
+Filters will return `Option<Reason>{:rs}`, which means `None{:rs}` if the sentences gets through, and `Some(reason)` if not, with `reason` telling us why the sentence got filtered out.
 
 
 Some static filtering functions:
@@ -220,14 +196,30 @@ where
     T: Fn(&str) -> Option<Reason>,
 {
     fn greet(&self) -> String {
-        "hello from filtering functions :)".into()
+        "hello from filtering functions 👍".into()
     }
 }
 ```
 
-And then, we can call `html.greet(){:rs}` :)! Useless here tho.
+And then, we can call `html.greet(){:rs}` 🦀! 
 
-## Part 2
+Implementing `Filter{:rs}` on `Fn(&str) -> Option<Reason>{:rs}` is then relatively simple:
+
+```rs
+impl<T> Filter for T
+where
+    T: Fn(&str) -> Option<Reason>,
+{
+    fn filter(&self, item: &str) -> Option<Reason> {
+        self(item) // calls the function on item
+    }
+}
+```
+
+Then we get an equivalence between `func(item){:rs}` and `func.filter(item){:rs}`.
+I wonder if this gets optimized away? Perhaps with an `#[inline]{:rs}` before.
+
+## So what?
 
 With all of that in mind, we can then implement our `Filter` trait on a wide array of different things, and use them interchangeably!
 
@@ -248,17 +240,17 @@ As an example, we can now have a `Vec` containing all of our filters:
 As a last step, we can then _also_ implement `Filter` on a collection of filters:
 
 ```rs
-impl<T: Filter> Filter for &[T] {
-    fn filter(&self, item: &str) -> Option<Reason> {
+impl Filter for &[Box<dyn Filter>] {
+    fn flt(&self, item: &str) -> Option<Reason> {
         self.iter()
-            .map(|flt| flt.filter(item)) // get filter results
-            .find(|res| res.is_some()) // stop at first that is not None
-            .flatten() // we have Option<Option<Reason>> here so we flatten
+            .map(|flt| flt.flt(item))
+            .find(|res| res.is_some())
+            .flatten()
     }
 }
 ```
 
 
-Then, running `filters.filter(item){:rs}` would call all of our filters sequentially!
+Then, running `filters.as_slice().filter(item){:rs}` would call all of our filters sequentially!
 
 Next up: Collecting all filter results rather than only the first one, and doing weird (and possibly bad) things with `iter::once`.
