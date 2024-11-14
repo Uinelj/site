@@ -25,7 +25,7 @@ const config: QuartzConfig = {
       typography: {
         header: "Playwrite GB S",
         body: "Comic Neue",
-        code: "Comic Neue",
+        code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
