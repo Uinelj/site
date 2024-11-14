@@ -124,7 +124,7 @@ if let Some(reason) = html(text) {
 We'd get `text discarded: Reason("is html")` here, all good!
 First step done. 
 
-Now, all of these filters share a common behaviour (and a common signature): filtering stuff, taking `&str` as input and returning `Option<Result>`.
+Now, all of these filters share a common behaviour (and a common signature): filtering stuff, taking `&str{:rs}` as input and returning `Option<Reason>{:rs}`.
 So we can define a trait to group those behaviours and make adding a new filter easy:
 
 ```rs
@@ -133,7 +133,7 @@ trait Filter {
 }
 ```
 
-Now, implementing the `Filter` trait for `LanguageFilter` is easy, as the `langid` method already has everything we need:
+Now, implementing the `Filter{:rs}` trait for `LanguageFilter{:rs}` is easy, as the `langid` method already has everything we need:
 
 ```rs
 impl Filter for LanguageFilter {
@@ -145,7 +145,7 @@ impl Filter for LanguageFilter {
 
 Now, how could we implement this for our simple static functions?
 
-We could make them methods, and then implement the trait as we did for `LanguageFilter`:
+We could make them methods, and then implement the trait as we did for `LanguageFilter{:rs}`:
 
 ```rs
 
@@ -171,7 +171,7 @@ But there is a better way. Traits in Rust are everywhere, and are quite flexible
 
 We can also define traits on a generic type `T`, and have trait constraints on `T`.
 As an example, let's imagine we'd like to add a `capitalize` method to everything that can be displayed.
-Something that can be displayed implements `[Display](https://doc.rust-lang.org/std/fmt/trait.Display.html)`, so we can write:
+Something that can be displayed implements [`Display`](https://doc.rust-lang.org/std/fmt/trait.Display.html), so we can write:
 
 ```rs
 trait Capitalize {
@@ -189,7 +189,7 @@ impl<T: Display> Capitalize for T {
 }
 ```
 
-Here, `T: Display` can be read as *Any type, provided it implements `Display`*.
+Here, `T: Display{:rs}` can be read as *Any type, provided it implements `Display`*.
 
 
 With that now in mind, we need another piece of information: the [`Fn` trait(s)](https://doc.rust-lang.org/book/ch13-01-closures.html#moving-captured-values-out-of-closures-and-the-fn-traits).
@@ -225,9 +225,9 @@ where
 }
 ```
 
-And then, we can call `html.greet()` :)! Useless here tho.
+And then, we can call `html.greet(){:rs}` :)! Useless here tho.
 
--- 
+## Part 2
 
 With all of that in mind, we can then implement our `Filter` trait on a wide array of different things, and use them interchangeably!
 
@@ -256,11 +256,9 @@ impl<T: Filter> Filter for &[T] {
             .flatten() // we have Option<Option<Reason>> here so we flatten
     }
 }
-
-
-//then, we can do this,
-// and have all our filters running on it :)
-let result = filters.filter(item);
 ```
+
+
+Then, running `filters.filter(item){:rs}` would call all of our filters sequentially!
 
 Next up: Collecting all filter results rather than only the first one, and doing weird (and possibly bad) things with `iter::once`.
