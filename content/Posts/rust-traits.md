@@ -194,11 +194,11 @@ Here, `T: Display` can be read as *Any type, provided it implements `Display`*.
 
 With that now in mind, we need another piece of information: the [`Fn` trait(s)](https://doc.rust-lang.org/book/ch13-01-closures.html#moving-captured-values-out-of-closures-and-the-fn-traits).
 
-What is interesting for us here is that functions implement traits. 
+What is interesting for us here is that functions can be passed where generic types implementing `Fn` could pass.
 
 ```rs
 // this function
-// can be used where T: Fn(&str) -> Option<Reason>!
+// can be used where T: Fn(&str) -> Option<Reason> is bound.
 fn html(text: &str) -> Option<Reason> {
     if text.starts_with("<"){
         Some("is html".into())
@@ -229,43 +229,38 @@ And then, we can call `html.greet()` :)! Useless here tho.
 
 -- 
 
-Function
+With all of that in mind, we can then implement our `Filter` trait on a wide array of different things, and use them interchangeably!
+
+As an example, we can now have a `Vec` containing all of our filters: 
+
 ```rs
-trait Flt {
-    fn flt(&self, item: &str) -> bool;
-}
+    let filters: Vec<Box<dyn Filter>> = vec![
+        Box::from(length_filter),
+        Box::from(noise),
+        Box::from(html),
+        Box::from(LanguageFilter {model: ()}),
 
-struct A;
-impl Flt for A {
-    fn flt(&self, item: &str) -> bool {
-        true
-    }
-}
-
-struct B;
-impl Flt for B {
-    fn flt(&self, item: &str) -> bool {
-        false
-    }
-}
-
-impl<T> Flt for T where T: Fn(&str) -> bool {
-    fn flt(&self, item: &str) -> bool {
-        self(item)
-    }
-}
-impl Flt for Vec<Box<dyn Flt>> {
-    fn flt(&self, item: &str) -> bool {
-        self.iter().any(|f| !f.flt(item))
-    }
-}
-fn main() {
-    let filters: Vec<Box<dyn Flt>> = vec![
-        Box::from(A{}),
-        Box::from(B{}),
-        Box::from(|x: &str| if x.len() > 10 {true} else {false})
+        // we can even put a closure there, provided it meets the Fn trait!
+        Box::from(|x: &str| if x.len() > 10 {None} else {Some(Reason("Too short!".into()))})
     ];
-    
-    dbg!(filters.flt("hello"));
-}
 ```
+
+As a last step, we can then _also_ implement `Filter` on a collection of filters:
+
+```rs
+impl<T: Filter> Filter for &[T] {
+    fn filter(&self, item: &str) -> Option<Reason> {
+        self.iter()
+            .map(|flt| flt.filter(item)) // get filter results
+            .find(|res| res.is_some()) // stop at first that is not None
+            .flatten() // we have Option<Option<Reason>> here so we flatten
+    }
+}
+
+
+//then, we can do this,
+// and have all our filters running on it :)
+let result = filters.filter(item);
+```
+
+Next up: Collecting all filter results rather than only the first one, and doing weird (and possibly bad) things with `iter::once`.
