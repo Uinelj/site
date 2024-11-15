@@ -1,20 +1,23 @@
 ---
-title: Rust Traits
+title: Rust traits and functions
 ---
 
 These days I write less Rust code than I used to, and one of the features that I miss the most are traits. 
-Traits are ubiquitous in Rust, and are often described are "interfaces with superpowers". 
+Traits are ubiquitous in Rust, and are often described as "interfaces with superpowers". 
 
-While I could write something about what a trait is and how to use it, I'd prefer linking the fantastic resource that is [The Rust Book](https://doc.rust-lang.org/book/)'s chapter on [traits](https://doc.rust-lang.org/book/ch10-02-traits.html).
+While I could write something about what a trait is and how to use it,
+I'd prefer linking the fantastic resource that is [The Rust Book](https://doc.rust-lang.org/book/)'s chapter on
+[traits](https://doc.rust-lang.org/book/ch10-02-traits.html),
+and show you an interesting, albeit relatively simplistic consequence of their flexibility.
 
-Here I'd like to take a concrete example of where traits helped me. 
+This post assumes some level of familiarity with Rust, but I tried to add explanations for non trivial stuff.
 
-## Problem description:
+## A little bit of context
 
-I have an ordered set of filters that tell me if I should keep or discard a given item. 
-Those filters are run in order, with usually faster filters up in the chain, and more heavy ones down.
+I have a list of filters that tell me if I should keep or discard a given item. 
+Those filters are run in order, with usually faster filters up in the chain, and more heavy ones down the chain.
 
-In the following, we're dealing with sentences crawled from the internet, and we want clean, English-only sentences.
+In the following example, we're dealing with sentences crawled from the internet, and we want clean, English-only sentences.
 
 Let's define some functions/structs to help us with that:
 
@@ -23,8 +26,23 @@ Let's define some functions/structs to help us with that:
 struct Reason(String);
 ```
 
-We use a [Newtype](https://rust-unofficial.github.io/patterns/patterns/behavioural/newtype.html) pattern here.
-Filters will return `Option<Reason>{:rs}`, which means `None{:rs}` if the sentences gets through, and `Some(reason)` if not, with `reason` telling us why the sentence got filtered out.
+Filters will return `Option<Reason>{:rs}`, which means `None{:rs}` if the sentences gets through, and `Some(reason){:rs}` if not, with `reason{:rs}` telling us why the sentence got filtered out.
+
+> [!info]- `Option<T>` in Rust
+> 
+>`Option<T>{:rs}` is this enum:
+>
+> ```rs
+> enum Option<T> {
+>    Some(T),
+>    None
+>}
+> ```
+>
+> It is widely used to tell that a value might not exist. 
+> Imagine a `list.first(){:rs}` method. What would it return if the list was empty?
+>
+> Rather than either returning a null value or raising an exception, `first(){:rs}` would return `None{:rs}` here.
 
 
 Some static filtering functions:
@@ -33,8 +51,10 @@ Some static filtering functions:
 /// Excludes text that is too short
 fn length_filter(text: &str) -> Option<Reason> {
     if text.len() > 50 {
-        None
+        None 
     } else {
+
+        // .into() converts &str to String
         Some("too short".into())
     }
 }
@@ -53,7 +73,7 @@ fn html(text: &str) -> Option<Reason> {
 /// Excludes text that has >50% chars that are non alphabetic
 fn noise(text: &str) -> Option<Reason> {
     let noise_thresh = text.len() / 2;
-    if text.chars().filter(|c| !c.is_alphabetic()).count() > noise_thresh {
+    if text.chars().filter(|c| c.is_alphabetic()).count() < noise_thresh {
         Some("is noisy".into())
     } else {
         None
@@ -78,7 +98,7 @@ impl LanguageFilter {
     pub fn langid(&self, text: &str) -> Option<Reason> {
         let (label, conf) = self.predict(text);
         if label != "en" || conf < 0.9 {
-            Some("langid".into())
+            Some("not english".into())
         } else {
             None
         }
@@ -100,8 +120,10 @@ if let Some(reason) = html(text) {
 We'd get `text discarded: Reason("is html")` here, all good!
 First step done. 
 
+## Defining our `Filter` trait
+
 Now, all of these filters share a common behaviour (and a common signature): filtering stuff, taking `&str{:rs}` as input and returning `Option<Reason>{:rs}`.
-So we can define a trait to group those behaviours and make adding a new filter easy:
+So we can define a trait to express that shared behaviour:
 
 ```rs
 trait Filter {
@@ -112,6 +134,9 @@ trait Filter {
 Now, implementing the `Filter{:rs}` trait for `LanguageFilter{:rs}` is easy, as the `langid` method already has everything we need:
 
 ```rs
+
+// note that you can have multiple impl blocks for your struct,
+// and implementing a trait is done on another impl block aswell :)
 impl Filter for LanguageFilter {
     fn filter(&self, item: &str) -> Option<Reason> {
         self.langid(item)
@@ -120,8 +145,24 @@ impl Filter for LanguageFilter {
 ```
 
 Now, how could we implement this for our simple static functions?
+Traits can be implemented on a lot of stuff: structs, primitive types, references, tuples..
+But not on functions. Or not directly:
 
-We could make them methods, and then implement the trait as we did for `LanguageFilter{:rs}`:
+```rs
+fn foo() {}
+
+impl Filter for foo {} 
+```
+
+```rs
+error[E0573]: expected type, found function `foo`
+  --> src/main.rs:77:17
+   |
+77 | impl Filter for foo {}
+   |                 ^^^ not a type
+```
+
+One workaround we could use is to wrap those functions into a struct, and then implement the trait as we did for `LanguageFilter{:rs}`:
 
 ```rs
 
@@ -138,12 +179,18 @@ impl Filter for LengthFilter {
 ```
 
 This would imply creating a new empty struct for each new filter, or grouping them into a single struct.
+But there is a better way. Traits in Rust are everywhere, and are quite flexible.
 
-But there is a better way. Traits in Rust are everywhere, and are quite flexible. Basically:
-- You can implement your trait on foreign types (be it stdlib or types from other crates)
-- You can implement foreign traits on your types (samesies)
-- You (kinda) cannot implement foreign traits on foreign types (this is known as the [orphan rule](https://doc.rust-lang.org/book/ch10-02-traits.html#implementing-a-trait-on-a-type))
+## Traits rules
 
+Basically:
+- You can implement your trait on foreign types[^1]: `impl Thingy for &str`
+- You can implement foreign traits on your types (samesies): `impl Display for YourStruct`
+- You (kinda[^2]) cannot implement foreign traits on foreign types (this is known as the [orphan rule](https://doc.rust-lang.org/book/ch10-02-traits.html#implementing-a-trait-on-a-type)) There's a good reason for that: Without the rule, two crates could implement the same trait for the same type, and Rust wouldn’t know which implementation to use.[^3]
+
+[^1]: types defined outside of the crate.
+[^2]: Nothing stops you from wrapping the type into a [Newtype] and implementing the foreign trait on it: `struct MyType(ForeignType){:rs}`
+[^3]: Sentence is copied from the aforementioned link. It's a good explanation dontcha think?
 
 We can also define traits on a generic type `T`, and have trait constraints on `T`.
 As an example, let's imagine we'd like to add a `capitalize` method to everything that can be displayed.
@@ -168,9 +215,25 @@ impl<T: Display> Capitalize for T {
 Here, `T: Display{:rs}` can be read as *Any type, provided it implements `Display`*.
 
 
-With that now in mind, we need another piece of information: the [`Fn` trait(s)](https://doc.rust-lang.org/book/ch13-01-closures.html#moving-captured-values-out-of-closures-and-the-fn-traits).
+Now, with that in mind, we need another piece of information: the [`Fn` traits](https://doc.rust-lang.org/book/ch13-01-closures.html#moving-captured-values-out-of-closures-and-the-fn-traits).
 
-What is interesting for us here is that functions can be passed where generic types implementing `Fn` could pass.
+
+`Fn` traits are automatically implemented for functions. A function that has the signature `fn foo(bar: &str) -> i32{:rs}` has a type associated that implements the `Fn(&str) -> i32{:rs}` trait.
+
+This has an interesting consequence: Where we have a generic type `T{:rs}` we can restrict it to functions with a given signature:
+
+```rs
+// we can put functions that take a &str and returns a i32 in here!
+struct FunctionHolder<T>
+where
+    T: Fn(&str) -> i32, // this is where we add the constraint on T.
+                        // this is called a trait bound
+{
+    function: T,
+}
+```
+
+Our filtering functions implement the `Fn(&str) -> Option<Reason>{:rs}` trait:
 
 ```rs
 // this function
@@ -201,9 +264,10 @@ where
 }
 ```
 
-And then, we can call `html.greet(){:rs}` 🦀! 
+And then, we can call `html.greet(){:rs}`! It's completely useless though.
 
-Implementing `Filter{:rs}` on `Fn(&str) -> Option<Reason>{:rs}` is then relatively simple:
+What's less useless now is that we can implement `Filter{:rs}` on our set of filtering functions!
+
 
 ```rs
 impl<T> Filter for T
@@ -216,8 +280,6 @@ where
 }
 ```
 
-Then we get an equivalence between `func(item){:rs}` and `func.filter(item){:rs}`.
-I wonder if this gets optimized away? Perhaps with an `#[inline]{:rs}` before.
 
 ## So what?
 
@@ -226,13 +288,18 @@ With all of that in mind, we can then implement our `Filter` trait on a wide arr
 As an example, we can now have a `Vec` containing all of our filters: 
 
 ```rs
+
+    // We use Box here because we're actually storing trait objects.
+    // It's not that important here. I mean it's an important topic 
+    // but for another time maybe!
     let filters: Vec<Box<dyn Filter>> = vec![
         Box::from(length_filter),
         Box::from(noise),
         Box::from(html),
         Box::from(LanguageFilter {model: ()}),
 
-        // we can even put a closure there, provided it meets the Fn trait!
+        // we can even put a closure that takes &str and returns Option<Reason>!
+        // This is due to the "automatic" implementation of the trait on a whole set of functions,
         Box::from(|x: &str| if x.len() > 10 {None} else {Some(Reason("Too short!".into()))})
     ];
 ```
@@ -240,17 +307,18 @@ As an example, we can now have a `Vec` containing all of our filters:
 As a last step, we can then _also_ implement `Filter` on a collection of filters:
 
 ```rs
-impl Filter for &[Box<dyn Filter>] {
-    fn flt(&self, item: &str) -> Option<Reason> {
-        self.iter()
-            .map(|flt| flt.flt(item))
-            .find(|res| res.is_some())
-            .flatten()
+impl Filter for Vec<Box<dyn Filter>> {
+    fn filter(&self, item: &str) -> Option<Reason> {
+        self.iter()                      // get an iterator over our filters
+            .map(|flt| flt.filter(item)) // map it to an iterator of Option<Reason>
+            .find(|res| res.is_some())   // short-circuit on the first non-None result
+            .flatten()                   // Since find returns Option<Option<Result>> we 
+                                         //remove one level of indirection here.
     }
 }
 ```
 
 
-Then, running `filters.as_slice().filter(item){:rs}` would call all of our filters sequentially!
+Then, running `filters.filter(item){:rs}` would call all of our filters sequentially!
 
 Next up: Collecting all filter results rather than only the first one, and doing weird (and possibly bad) things with `iter::once`.
