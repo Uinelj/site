@@ -319,6 +319,37 @@ impl Filter for Vec<Box<dyn Filter>> {
 ```
 
 
+>[!note]- Why do we need `Box` here?
+>
+>`Vec` accepts a unique generic type `T`, which means you can't have a `Vec` that contains values of different types this way.
+>To circumvent this issue we can rely on [Trait objects](). When you use trait bounds, Rust will guess the concrete types you're using and 
+>create appropriate non generic implementations for those concrete types. Trait objects will _not_ do the same and will do the resolution
+>at runtime. While this might have some overhead at runtime it's usually negligible.
+>
+>Now, if we try to use `Vec<dyn Filter>`, Rust won't be happy:
+>
+>```rs
+>error[E0277]: the size for values of type `dyn Filter` cannot be known at compilation time
+>   --> src/main.rs:96:36
+>    |
+>96  |     let filters: Vec<dyn Filter> = vec![];
+>    |                                    ^^^^^^ doesn't have a size known at compile-time
+>    |
+>    = help: the trait `Sized` is not implemented for `dyn Filter`
+>note: required by an implicit `Sized` bound in `Vec`
+>```
+>
+>TODO: explain why we need to know size at compile time. See https://users.rust-lang.org/t/why-does-rust-need-to-know-the-size-of-types-at-compile-time/67356/2
+>
+>To fix this, let's wrap the `dyn Filter{:rs}` into `Box{:rs}`, which is a fat pointer. 
+>This will get us a fixed size item (since it's a pointer + some metadata) that points to a dynamic memory location stored on the heap.
+
+
 Then, running `filters.filter(item){:rs}` would call all of our filters sequentially!
 
-Next up: Collecting all filter results rather than only the first one, and doing weird (and possibly bad) things with `iter::once`.
+Next up:
+- Explain trait and trait types != generic stuff
+- implementing annotate for `T: Iterator<Item=Option<Reason>>`.
+- avoiding Box by manually building iterators of filters.
+    - is it a good idea? 
+    - profile vs. static Vec
