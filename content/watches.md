@@ -27,9 +27,16 @@ State: Randomly stopping
 
 ### Kelek
 
-Case info: 17 jewels shockprotected waterproof
-Movement: [FHF 96-4](https://17jewels.info/movements/f/fhf/fhf-96-4-st/)
-
-State: Not keeping time :(
+- Case info: 17 jewels shockprotected waterproof
+- Movement: [FHF 96-4](https://17jewels.info/movements/f/fhf/fhf-96-4-st/)
+- State: Not keeping time :(
 
 Seems to be rather complicated (and nice movement) so let's not ruin it? :D
+
+### Soleil
+
+- Case info: 17 jewels
+- Movement: [Cattin 64](https://17jewels.info/movements/c/cattin/cattin-64/)
+- State: Not keeping time :(
+
+Quite a simple movement, albeit being small. P2 after Kelton?
