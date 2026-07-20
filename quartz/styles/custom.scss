@@ -2,16 +2,14 @@
 
 // ============================================================
 // Cozy nerd theme
-//   • Cozette (cozy bitmap) for body text, page title & the "uj" logo
+//   • Cozette (cozy bitmap) for body text + page title
 //   • JetBrains Mono for content headings & code (Google Fonts)
-//   • ascii-art "uj" logo (small Cozette pixels) + quiet pulse
-//   • wider page, minimal ToC (visible), softer game-cards, no pink bar
+//   • self-hosted Cormorant Garamond for a subdued, dithered "uj" logo
+//   • wider + centered layout, minimal ToC, softer game-cards, no pink bar
 //   • rose / pale / ocre palette (quartz.config.yaml)
 // ============================================================
 
-code, pre, pre code {
-  font-feature-settings: "liga" 1, "calt" 1, "clig" 1;
-}
+code, pre, pre code { font-feature-settings: "liga" 1, "calt" 1, "clig" 1; }
 
 @font-face {
   font-family: "CozetteVector";
@@ -21,66 +19,56 @@ code, pre, pre code {
   font-display: swap;
 }
 
-:root {
-  --bodyFont: "CozetteVector", "JetBrains Mono", monospace !important;
+@font-face {
+  font-family: "Cormorant Garamond";
+  src: url("/static/cormorant.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
 }
 
-.article-title {
-  font-family: "CozetteVector", "JetBrains Mono", monospace !important;
-}
+:root { --bodyFont: "CozetteVector", "JetBrains Mono", monospace !important; }
 
-/* ── ascii-art "uj" logo + hidden text title ── */
-.page-title {
-  text-align: center;
-  margin-bottom: 1.5rem;
-}
+.article-title { font-family: "CozetteVector", "JetBrains Mono", monospace !important; }
 
-.page-title a {
-  display: inline-flex;
-  flex-direction: column;
-  align-items: center;
-  font-size: 0;
-}
+/* ── subdued, dithered "uj" logo (Garamond) + hidden text title ── */
+.page-title { text-align: center; margin-bottom: 1.5rem; }
+.page-title a { display: inline-flex; flex-direction: column; align-items: center; font-size: 0; }
 
 .page-title a::before {
-  content: "███ ███\A█ █   █\A█ █ ███\A█ █ █ █\A███ ███";
-  font-family: "CozetteVector", "JetBrains Mono", monospace;
-  font-size: 0.7rem;
-  line-height: 1.05;
-  letter-spacing: 0;
-  white-space: pre;
-  display: block;
+  content: "uj";
+  font-family: "Cormorant Garamond", "Georgia", serif;
+  font-size: 3.4rem;
+  font-weight: 500;
+  letter-spacing: 0.04em;
+  line-height: 1;
   color: var(--secondary, #b85a6a);
-  opacity: 0.85;
-  animation: ujPulse 12s ease-in-out infinite;
+  text-shadow:
+    0 0 6px rgba(0, 0, 0, 0.22),
+    2px 0 0 rgba(255, 255, 255, 0.38),
+    -2px 0 0 rgba(255, 255, 255, 0.38),
+    0 2px 0 rgba(255, 255, 255, 0.38),
+    0 -2px 0 rgba(255, 255, 255, 0.38),
+    2px 2px 0 rgba(0, 0, 0, 0.12),
+    -2px -2px 0 rgba(0, 0, 0, 0.12),
+    2px -2px 0 rgba(0, 0, 0, 0.12),
+    -2px 2px 0 rgba(0, 0, 0, 0.12);
+  opacity: 0.8;
+  animation: ujPulse 16s ease-in-out infinite;
 }
 
 @keyframes ujPulse {
-  0%, 100% { opacity: 0.8; filter: brightness(1) saturate(1); }
-  50%      { opacity: 1;    filter: brightness(1.25) saturate(1.25) drop-shadow(0 0 6px rgba(184, 90, 106, 0.4)); }
+  0%, 100% { opacity: 0.74; filter: brightness(1) saturate(1); }
+  50%      { opacity: 0.9;  filter: brightness(1.15) saturate(1.15) drop-shadow(0 0 4px rgba(184, 90, 106, 0.35)); }
 }
 
-/* wider page (let v5's grid handle the columns — no center-margin which caused the collision) */
-.page > #quartz-body {
-  max-width: 1240px !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-}
+/* wider page (v5 grid handles columns — no center margin to avoid ToC collision) */
+.page > #quartz-body { max-width: 1240px !important; margin-left: auto !important; margin-right: auto !important; }
 
 /* ToC: visible + minimal */
-.toc {
-  display: block !important;
-  font-size: 0.82rem;
-  max-height: 60vh;
-  overflow-y: auto;
-  color: var(--darkgray, #7a6757);
-}
+.toc { display: block !important; font-size: 0.82rem; max-height: 60vh; overflow-y: auto; color: var(--darkgray, #7a6757); }
 .toc a { color: var(--secondary, #b85a6a); }
 .toc ul { margin: 0; }
 
 article.popover-hint { border-radius: 18px; box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06); }
-
-.game-cards .callout {
-  border-radius: 12px !important;
-  border-color: var(--lightgray, #f0e6dc) !important;
-}
+.game-cards .callout { border-radius: 12px !important; border-color: var(--lightgray, #f0e6dc) !important; }
