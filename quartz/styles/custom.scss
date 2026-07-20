@@ -4,8 +4,8 @@
 // Cozy nerd theme
 //   • Cozette (cozy bitmap) for body text + page title
 //   • JetBrains Mono for content headings & code (Google Fonts)
-//   • self-hosted Cormorant Garamond for a subdued, dithered "uj" logo
-//   • wider + centered layout, minimal ToC, softer game-cards, no pink bar
+//   • self-hosted Cormorant Garamond: subdued, dithered "uj" logo
+//   • wider + centered layout, minimal ToC, themed game-cards, no pink bar
 //   • rose / pale / ocre palette (quartz.config.yaml)
 // ============================================================
 
@@ -44,22 +44,22 @@ code, pre, pre code { font-feature-settings: "liga" 1, "calt" 1, "clig" 1; }
   line-height: 1;
   color: var(--secondary, #b85a6a);
   text-shadow:
-    0 0 6px rgba(0, 0, 0, 0.22),
-    2px 0 0 rgba(255, 255, 255, 0.38),
-    -2px 0 0 rgba(255, 255, 255, 0.38),
-    0 2px 0 rgba(255, 255, 255, 0.38),
-    0 -2px 0 rgba(255, 255, 255, 0.38),
+    0 0 4px rgba(0, 0, 0, 0.22),
+    2px 0 0 rgba(255, 255, 255, 0.35),
+    -2px 0 0 rgba(255, 255, 255, 0.35),
+    0 2px 0 rgba(255, 255, 255, 0.35),
+    0 -2px 0 rgba(255, 255, 255, 0.35),
     2px 2px 0 rgba(0, 0, 0, 0.12),
     -2px -2px 0 rgba(0, 0, 0, 0.12),
     2px -2px 0 rgba(0, 0, 0, 0.12),
     -2px 2px 0 rgba(0, 0, 0, 0.12);
-  opacity: 0.8;
+  opacity: 0.82;
   animation: ujPulse 16s ease-in-out infinite;
 }
 
 @keyframes ujPulse {
-  0%, 100% { opacity: 0.74; filter: brightness(1) saturate(1); }
-  50%      { opacity: 0.9;  filter: brightness(1.15) saturate(1.15) drop-shadow(0 0 4px rgba(184, 90, 106, 0.35)); }
+  0%, 100% { opacity: 0.76; filter: brightness(1) saturate(1); }
+  50%      { opacity: 0.92; filter: brightness(1.12) saturate(1.12) drop-shadow(0 0 5px rgba(184, 90, 106, 0.32)); }
 }
 
 /* wider page (v5 grid handles columns — no center margin to avoid ToC collision) */
@@ -70,5 +70,32 @@ code, pre, pre code { font-feature-settings: "liga" 1, "calt" 1, "clig" 1; }
 .toc a { color: var(--secondary, #b85a6a); }
 .toc ul { margin: 0; }
 
+/* page title card */
 article.popover-hint { border-radius: 18px; box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06); }
-.game-cards .callout { border-radius: 12px !important; border-color: var(--lightgray, #f0e6dc) !important; }
+
+/* ── Backlog Picks: looser + smaller images + theme-cohesive cards ── */
+.game-cards .callout {
+  border-radius: 14px !important;
+  border-left: 4px solid var(--secondary, #b85a6a) !important;
+  border-top: 1px solid var(--lightgray, #f0e6dc) !important;
+  border-right: 1px solid var(--lightgray, #f0e6dc) !important;
+  border-bottom: 1px solid var(--lightgray, #f0e6dc) !important;
+  background: var(--light, #fdfcfa) !important;
+  margin-bottom: 1.3rem !important;
+  padding: 1rem 1.15rem !important;
+  box-shadow: 0 5px 16px rgba(0, 0, 0, 0.045);
+}
+.game-cards .callout-title {
+  color: var(--secondary, #b85a6a);
+  border-bottom: 1px solid var(--lightgray, #f0e6dc);
+  padding-bottom: 0.35rem;
+  margin-bottom: 0.5rem;
+}
+.game-cards img {
+  width: 92px !important;
+  max-width: 92px !important;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.06);
+  margin-right: 0.9rem;
+}
