@@ -99,3 +99,21 @@ article.popover-hint { border-radius: 18px; box-shadow: 0 8px 24px rgba(0, 0, 0,
   box-shadow: 0 3px 8px rgba(0, 0, 0, 0.06);
   margin-right: 0.9rem;
 }
+
+/* ── ToC anchor scroll: offset headings clear of the top page-header
+   Fixes the Backlog Picks "click a ToC entry, then click again" jitter
+   (v5 uses scrollIntoView({block:"nearest"}) with no offset) ── */
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3,
+.markdown-preview-view h4,
+.markdown-preview-view h5,
+.markdown-preview-view h6,
+.center h1,
+.center h2,
+.center h3,
+.center h4,
+.center h5,
+.center h6 {
+  scroll-margin-top: 6rem;
+}
