@@ -1,3 +1,72 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+// ============================================================
+// Cozy nerd theme
+//  • JetBrains Mono headers + Comic Neue body + Fira Code code
+//  • rose / pale / ocre palette (configured in quartz.config.yaml)
+//  • animated ASCII logo + blinking "cursor"
+//  • code ligatures (nerdy)
+// ============================================================
+
+// Nerdy ligatures for all code / pre-formatted blocks
+code,
+pre,
+pre code {
+  font-feature-settings: "liga" 1, "calt" 1, "clig" 1;
+}
+
+// ── ASCII-animated logo in the sidebar site title ──
+// A tiny "[uj]" logo (rose) that gently pulses, plus a blinking
+// block cursor after the title for a cozy terminal vibe.
+.page-title a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5em;
+}
+
+.page-title a::before {
+  content: "[uj]";
+  font-family: "JetBrains Mono", "Fira Code", monospace;
+  font-weight: 700;
+  font-size: 1.2em;
+  line-height: 1;
+  letter-spacing: 0.05em;
+  color: var(--secondary, #b85a6a);
+  opacity: 0.9;
+  animation: ujPulse 3.6s ease-in-out infinite;
+}
+
+.page-title a::after {
+  content: "\u2588"; /* FULL BLOCK — the cursor */
+  font-family: "JetBrains Mono", "Fira Code", monospace;
+  font-size: 1em;
+  color: var(--tertiary, #c9984f);
+  animation: ujCursor 1.7s steps(2, jump-none) infinite;
+}
+
+@keyframes ujPulse {
+  0%,
+  100% {
+    opacity: 0.88;
+    transform: scale(1);
+    filter: brightness(1) saturate(1);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1.06);
+    filter: brightness(1.18) saturate(1.25) drop-shadow(0 0 4px rgba(184, 90, 106, 0.55));
+  }
+}
+
+@keyframes ujCursor {
+  0%,
+  46% {
+    opacity: 1;
+  }
+  54%,
+  100% {
+    opacity: 0;
+  }
+}
