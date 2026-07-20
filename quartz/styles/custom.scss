@@ -67,7 +67,7 @@ code, pre, pre code {
   }
 }
 
-.right.sidebar { display: none !important; }
+/* ToC rail kept visible (backlinks disabled, so right rail = ToC only) */
 
 .page > #quartz-body {
   max-width: 1240px !important;
