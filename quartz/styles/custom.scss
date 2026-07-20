@@ -2,10 +2,10 @@
 
 // ============================================================
 // Cozy nerd theme
-//   • JetBrains Mono body, h2-h6 & code (Google Fonts)
-//   • self-hosted Cozette (cozy bitmap) accent on the page title only
-//   • boxed pixel logo + slow fadey pulse (no blink)
-//   • wider + centered layout, minimal ToC rail, no pink accent bar
+//   • Cozette (cozy bitmap) for body text, the page title & the logo
+//   • JetBrains Mono for content headings & code (Google Fonts)
+//   • 4-season bonsai logo (small Cozette pixels): winter→spring→summer→autumn
+//   • wider + centered layout, minimal ToC, softer game-cards
 //   • rose / pale / ocre palette (quartz.config.yaml)
 // ============================================================
 
@@ -21,10 +21,15 @@ code, pre, pre code {
   font-display: swap;
 }
 
+:root {
+  --bodyFont: "CozetteVector", "JetBrains Mono", monospace !important;
+}
+
 .article-title {
   font-family: "CozetteVector", "JetBrains Mono", monospace !important;
 }
 
+/* ── 4-season bonsai logo (tiny Cozette pixels, slow cycle) ── */
 .page-title {
   text-align: center;
   margin-bottom: 1.5rem;
@@ -38,24 +43,26 @@ code, pre, pre code {
 }
 
 .page-title a::before {
-  content: "┌────┐\A│ uj │\A└────┘";
-  font-family: "JetBrains Mono", "Courier New", monospace;
-  font-size: 1.05rem;
+  content: "     \A   | \A  /-/ \A  ----";
+  font-family: "CozetteVector", "JetBrains Mono", monospace;
+  font-size: 0.85rem;
   line-height: 1.1;
   letter-spacing: 0;
   white-space: pre;
   display: block;
-  color: var(--secondary, #b85a6a);
-  opacity: 0.85;
-  animation: ujFadey 11s ease-in-out infinite;
+  opacity: 0.9;
+  animation: bonsaiSeasons 28s ease-in-out infinite;
 }
 
-@keyframes ujFadey {
-  0%, 100% { opacity: 0.75; filter: brightness(1) saturate(1) drop-shadow(0 0 0px rgba(224, 150, 150, 0.3)); }
-  50%      { opacity: 1;    filter: brightness(1.28) saturate(1.35) drop-shadow(0 0 8px rgba(224, 150, 150, 0.55)); }
+@keyframes bonsaiSeasons {
+  0%, 100% { content: "     \A   | \A  /-/ \A  ----"; color: var(--darkgray, #7a6757); }   /* winter — bare */
+  25%      { content: "  * *\A   | \A  /-/ \A  ----"; color: #e7b7d1; }                      /* spring — blossoms */
+  50%      { content: "  o o\A   | \A  /-/ \A  ----"; color: #90c482; }                      /* summer — green */
+  75%      { content: "  o o\A   | \A  /-/ \A  ----"; color: #c9984f; }                      /* autumn — amber */
 }
 
-/* wider + centered */
+.right.sidebar { display: none !important; }
+
 .page > #quartz-body {
   max-width: 1240px !important;
   margin-left: auto !important;
@@ -68,34 +75,17 @@ code, pre, pre code {
   margin-right: auto !important;
 }
 
-/* minimal ToC rail (back, but small + scrollable) */
-.toc {
-  font-size: 0.82rem;
-  max-height: 60vh;
-  overflow-y: auto;
-  color: var(--darkgray, #7a6757);
-}
-.toc a {
-  color: var(--secondary, #b85a6a);
-}
-.toc ul {
-  margin: 0;
-}
-
-/* article card: clean — no pink top bar, just soft corners + shadow */
 article.popover-hint {
   border-radius: 18px;
   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
 }
 
-/* softer game-picks cards */
 .game-cards .callout {
   border-radius: 12px !important;
   border-color: var(--lightgray, #f0e6dc) !important;
 }
 
-/* ── Bring the ToC back, minimal + always visible ──
-   v5 hides the ToC rail by default; reveal it quietly. */
+/* ── ToC: back, but minimal + always visible ── */
 .toc {
   display: block !important;
   font-size: 0.82rem;
