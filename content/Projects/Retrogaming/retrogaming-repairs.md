@@ -1,5 +1,6 @@
 ---
 title: Shopping list
+tags: [gaming, retro]
 ---
 
 - DS Lite upper screen

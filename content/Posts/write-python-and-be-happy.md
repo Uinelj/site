@@ -1,5 +1,6 @@
 ---
 title: Writing Python without losing your mind
+tags: [coding, python]
 ---
 
 I've been writing Python for a long time now. I think it's the language I wrote most during my career. 

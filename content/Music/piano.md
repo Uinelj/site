@@ -1,5 +1,6 @@
 ---
 title: Piano
+tags: [music]
 ---
 
 I've been playing piano for a lot of years now, mostly classical but i had a lot of hiatus.

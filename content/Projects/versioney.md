@@ -1,7 +1,7 @@
 ---
 title: versioney
 date: 2020-06-01
-tags: dev
+tags: [dev]
 ---
 
 I'm currently writing a SSG, like the majority of developers do at some point in their life.

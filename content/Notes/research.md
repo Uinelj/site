@@ -1,5 +1,7 @@
 ---
 title: Research papers
+tags: [research]
+aliases: [research]
 ---
 
 Here are the two research papers I've had the privilege of co-authoring:

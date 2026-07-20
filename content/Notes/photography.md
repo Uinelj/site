@@ -1,5 +1,7 @@
 ---
 title: Photography
+tags: [photos]
+aliases: [photography]
 ---
 
 I'd really like to get back at it. It's a fantastic hobby to get outside and discover stuff.

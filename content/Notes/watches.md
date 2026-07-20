@@ -1,5 +1,7 @@
 ---
 title: Watches
+tags: [watches]
+aliases: [watches]
 ---
 
 ### Roch

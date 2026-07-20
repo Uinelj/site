@@ -1,5 +1,6 @@
 ---
 title: Rust traits and functions
+tags: [coding, rust]
 ---
 
 These days I write less Rust code than I used to, and one of the features that I miss the most are traits. 

@@ -1,6 +1,7 @@
 ---
 title: Now
-tags: 
+tags: [meta]
+aliases: [now]
 ---
 
 ## November 2024

@@ -3,6 +3,7 @@ tags: [gaming, backlog, recommendations]
 source: "https://www.backloggd.com/u/ujj/"
 updated: 2026-07-07
 cssclasses: [game-cards]
+aliases: [Backlog Picks, backlog-picks, "backlog-picks-—-platform-top-10s", "games/backlog-picks-—-platform-top-10s"]
 ---
  
 # 🏆 Platform Power Rankings — Top 10s & Hall of Shame
