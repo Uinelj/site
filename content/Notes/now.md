@@ -1,6 +1,6 @@
 ---
 title: Now
-tags: [meta]
+tags: [meta, human-authored]
 aliases: [now]
 ---
 

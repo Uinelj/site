@@ -1,6 +1,6 @@
 ---
 title: Electronic music
-tags: [music]
+tags: [music, human-authored]
 ---
 
 I have been a 😎bedroom DJ and producer😎 for a long time now, so surely I have tons of stuff released everywhere, right?

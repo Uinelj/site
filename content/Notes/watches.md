@@ -1,6 +1,6 @@
 ---
 title: Watches
-tags: [watches]
+tags: [watches, human-authored]
 aliases: [watches]
 ---
 

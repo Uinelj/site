@@ -1,6 +1,6 @@
 ---
 title: Importing PS3 saves into RPCS3
-tags: [gaming, retro]
+tags: [gaming, retro, human-authored]
 ---
 
 1. Export your save from your PS3 (under games in the XMB, go to saves, export, export to USB).

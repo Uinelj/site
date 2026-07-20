@@ -1,6 +1,6 @@
 ---
 title: Letterstonks
-tags: [movies, dev]
+tags: [movies, dev, human-authored]
 ---
 
 [letterstonks](https://uinelj.github.io/lbxd-stats-v2/)

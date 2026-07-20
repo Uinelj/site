@@ -1,6 +1,6 @@
 ---
 title: Research papers
-tags: [research]
+tags: [research, human-authored]
 aliases: [research]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Photography
-tags: [photos]
+tags: [photos, human-authored]
 aliases: [photography]
 ---
 

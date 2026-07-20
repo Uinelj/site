@@ -1,5 +1,5 @@
 ---
-tags: [gaming, backlog, recommendations]
+tags: [gaming, backlog, recommendations, ai-authored]
 source: "https://www.backloggd.com/u/ujj/"
 updated: 2026-07-07
 cssclasses: [game-cards]

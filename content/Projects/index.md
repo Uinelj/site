@@ -1,6 +1,6 @@
 ---
 title: Projects
-tags: [projects]
+tags: [projects, human-authored]
 ---
 
 Personal projects.

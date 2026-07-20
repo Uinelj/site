@@ -1,6 +1,6 @@
 ---
 title: Hello there 👋
-tags: [meta]
+tags: [meta, human-authored]
 ---
 
 I'm *Julien "uj" Abadji*, currently working at [poolside.ai](https://poolside.ai),
