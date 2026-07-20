@@ -2,10 +2,10 @@
 
 // ============================================================
 // Cozy nerd theme
-//   • Cozette (cozy bitmap) for body text, the page title & the logo
+//   • Cozette (cozy bitmap) for body text, page title & logo
 //   • JetBrains Mono for content headings & code (Google Fonts)
-//   • 4-season bonsai logo (small Cozette pixels): winter→spring→summer→autumn
-//   • wider + centered layout, minimal ToC, softer game-cards
+//   • ascii-art "UJ" monogram logo (small Cozette pixels) + quiet pulse
+//   • wider + centered layout, minimal ToC, softer game-cards, no pink bar
 //   • rose / pale / ocre palette (quartz.config.yaml)
 // ============================================================
 
@@ -29,7 +29,7 @@ code, pre, pre code {
   font-family: "CozetteVector", "JetBrains Mono", monospace !important;
 }
 
-/* ── 4-season bonsai logo (tiny Cozette pixels, slow cycle) ── */
+/* ── ascii-art "UJ" logo + hidden text title ── */
 .page-title {
   text-align: center;
   margin-bottom: 1.5rem;
@@ -43,22 +43,28 @@ code, pre, pre code {
 }
 
 .page-title a::before {
-  content: "     \A   | \A  /-/ \A  ----";
+  content: "███ ███\A█ █   █\A█ █ ███\A█ █ █ █\A███ ███";
   font-family: "CozetteVector", "JetBrains Mono", monospace;
-  font-size: 0.85rem;
-  line-height: 1.1;
+  font-size: 0.7rem;
+  line-height: 1.05;
   letter-spacing: 0;
   white-space: pre;
   display: block;
-  opacity: 0.9;
-  animation: bonsaiSeasons 28s ease-in-out infinite;
+  color: var(--secondary, #b85a6a);
+  opacity: 0.85;
+  animation: ujPulse 12s ease-in-out infinite;
 }
 
-@keyframes bonsaiSeasons {
-  0%, 100% { content: "     \A   | \A  /-/ \A  ----"; color: var(--darkgray, #7a6757); }   /* winter — bare */
-  25%      { content: "  * *\A   | \A  /-/ \A  ----"; color: #e7b7d1; }                      /* spring — blossoms */
-  50%      { content: "  o o\A   | \A  /-/ \A  ----"; color: #90c482; }                      /* summer — green */
-  75%      { content: "  o o\A   | \A  /-/ \A  ----"; color: #c9984f; }                      /* autumn — amber */
+@keyframes ujPulse {
+  0%,
+  100% {
+    opacity: 0.8;
+    filter: brightness(1) saturate(1);
+  }
+  50% {
+    opacity: 1;
+    filter: brightness(1.25) saturate(1.25) drop-shadow(0 0 6px rgba(184, 90, 106, 0.4));
+  }
 }
 
 .right.sidebar { display: none !important; }
@@ -75,6 +81,16 @@ code, pre, pre code {
   margin-right: auto !important;
 }
 
+.toc {
+  display: block !important;
+  font-size: 0.82rem;
+  max-height: 60vh;
+  overflow-y: auto;
+  color: var(--darkgray, #7a6757);
+}
+.toc a { color: var(--secondary, #b85a6a); }
+.toc ul { margin: 0; }
+
 article.popover-hint {
   border-radius: 18px;
   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
@@ -83,19 +99,4 @@ article.popover-hint {
 .game-cards .callout {
   border-radius: 12px !important;
   border-color: var(--lightgray, #f0e6dc) !important;
-}
-
-/* ── ToC: back, but minimal + always visible ── */
-.toc {
-  display: block !important;
-  font-size: 0.82rem;
-  max-height: 60vh;
-  overflow-y: auto;
-  color: var(--darkgray, #7a6757);
-}
-.toc a {
-  color: var(--secondary, #b85a6a);
-}
-.toc ul {
-  margin: 0;
 }
