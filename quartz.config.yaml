@@ -17,8 +17,8 @@ configuration:
     cdnCaching: true
     typography:
       header: JetBrains Mono
-      body: Comic Neue
-      code: Fira Code
+      body: JetBrains Mono
+      code: JetBrains Mono
     colors:
       lightMode:
         light: "#fdfcfa"
@@ -98,7 +98,7 @@ plugins:
     enabled: false
     order: 92
   - source: github:quartz-community/fonts
-    enabled: true
+    enabled: false
   - source: github:quartz-community/remove-draft
     enabled: true
   - source: github:quartz-community/explicit-publish
@@ -157,10 +157,7 @@ plugins:
       groupOptions:
         grow: true
   - source: github:quartz-community/backlinks
-    enabled: true
-    layout:
-      position: right
-      priority: 50
+    enabled: false
   - source: github:quartz-community/article-title
     enabled: true
     layout:
