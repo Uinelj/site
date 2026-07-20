@@ -2,10 +2,10 @@
 
 // ============================================================
 // Cozy nerd theme
-//   • Cozette (cozy bitmap) for body text, page title & logo
+//   • Cozette (cozy bitmap) for body text, page title & the "uj" logo
 //   • JetBrains Mono for content headings & code (Google Fonts)
-//   • ascii-art "UJ" monogram logo (small Cozette pixels) + quiet pulse
-//   • wider + centered layout, minimal ToC, softer game-cards, no pink bar
+//   • ascii-art "uj" logo (small Cozette pixels) + quiet pulse
+//   • wider page, minimal ToC (visible), softer game-cards, no pink bar
 //   • rose / pale / ocre palette (quartz.config.yaml)
 // ============================================================
 
@@ -29,7 +29,7 @@ code, pre, pre code {
   font-family: "CozetteVector", "JetBrains Mono", monospace !important;
 }
 
-/* ── ascii-art "UJ" logo + hidden text title ── */
+/* ── ascii-art "uj" logo + hidden text title ── */
 .page-title {
   text-align: center;
   margin-bottom: 1.5rem;
@@ -56,31 +56,18 @@ code, pre, pre code {
 }
 
 @keyframes ujPulse {
-  0%,
-  100% {
-    opacity: 0.8;
-    filter: brightness(1) saturate(1);
-  }
-  50% {
-    opacity: 1;
-    filter: brightness(1.25) saturate(1.25) drop-shadow(0 0 6px rgba(184, 90, 106, 0.4));
-  }
+  0%, 100% { opacity: 0.8; filter: brightness(1) saturate(1); }
+  50%      { opacity: 1;    filter: brightness(1.25) saturate(1.25) drop-shadow(0 0 6px rgba(184, 90, 106, 0.4)); }
 }
 
-/* ToC rail kept visible (backlinks disabled, so right rail = ToC only) */
-
+/* wider page (let v5's grid handle the columns — no center-margin which caused the collision) */
 .page > #quartz-body {
   max-width: 1240px !important;
   margin-left: auto !important;
   margin-right: auto !important;
 }
 
-.page > #quartz-body .center {
-  max-width: 1000px !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-}
-
+/* ToC: visible + minimal */
 .toc {
   display: block !important;
   font-size: 0.82rem;
@@ -91,10 +78,7 @@ code, pre, pre code {
 .toc a { color: var(--secondary, #b85a6a); }
 .toc ul { margin: 0; }
 
-article.popover-hint {
-  border-radius: 18px;
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
-}
+article.popover-hint { border-radius: 18px; box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06); }
 
 .game-cards .callout {
   border-radius: 12px !important;
