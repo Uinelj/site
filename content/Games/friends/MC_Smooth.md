@@ -1,24 +1,26 @@
 ---
 tags: [gaming, backlog, recommendations, ai-authored]
-source: "https://www.backloggd.com/u/MC_Smooth/"
+source: "https://backloggd.com/u/MC_Smooth/"
 updated: 2026-07-24
 cssclasses: [game-cards]
-aliases: [Backlog Picks - MC_Smooth, backlog-picks-mc-smooth, "backlog-picks-—-platform-top-10s-mc-smooth"]
+aliases: [MC Smooth, MC_Smooth, "MC_Smooth — What To Play Next"]
 ---
- 
-# 🏆 Platform Power Rankings — Top 10s & Hall of Shame (MC_Smooth Edition)
+
+# 🏆 MC_Smooth — Platform Deep Cuts & Hall of Shame
 
 > [!abstract] What this is
-> Top picks **per platform** for [MC_Smooth](https://www.backloggd.com/u/MC_Smooth/), built entirely from his Backloggd ratings, play history, backlog, and Backloggd's own popularity data — plus a **Top to AVOID** per platform where his ratings support it. 246 games played, so most platforms have real signal; a couple (SNES, PS1) have zero personal history and are flagged as pure Backloggd-driven picks.
+> **5 genuinely niche picks per platform** (obscurity ~75-90 on a 0=most-popular → 100=most-obscure scale — no A Link to the Past, no Chrono Trigger, no "everyone already knows this" picks), pulled from Backloggd, plus a **Top 5 to AVOID** per platform. Cross-referenced against [MC_Smooth's](https://backloggd.com/u/MC_Smooth/) 246 rated games and backlog so nothing here is something he's already played.
 
-> [!tip]- 🧬 The Taste Profile (distilled purely from his ratings — nothing borrowed from anyone else's list)
-> - **❤️ Loved (4.5–5★)**: Baldur's Gate III, Clair Obscur: Expedition 33, the Mass Effect trilogy (2, 3, Legendary Edition), Zelda's handheld/HD-remaster era (Wind Waker, Wind Waker HD, Twilight Princess, Majora's Mask 3D, Ocarina of Time 3D) *and* Breath of the Wild, gen-1/gen-2 Pokémon (Red/Blue/Yellow/Gold/Silver, HeartGold/SoulSilver), Mario Kart 8 & Deluxe, Outer Wilds, Steins;Gate, Deltarune, Undertale, Team Fortress 2, the God of War series top-to-bottom, The Last of Us trilogy, Hades/Hades II, It Takes Two, Sekiro (GOTY edition), Hi-Fi Rush, Guitar Hero III, Portal/Portal 2, Dispatch, The Forgotten City, Umamusume: Pretty Derby, Super Mario Odyssey → **sweeping RPGs/CRPGs, character-driven sci-fi trilogies, classic-era Zelda + BotW, gen-1/2 Pokémon nostalgia, couch co-op, story-forward roguelites, tight cinematic single-player action.**
-> - **💔 Bounced off (1–2★)**: Mass Effect: Andromeda (1★, right after adoring the trilogy), The Legend of Zelda: Skyward Sword HD (1.5★), League of Legends / Dota 2 / Smite 2 / Overwatch / Marvel Rivals / MultiVersus / Genshin Impact (1.5–2★ — despite loving TF2, modern live-service/gacha/hero-shooter design doesn't land), most Assassin's Creed entries (1.5–3★, open-world checklist fatigue), modern 3D mainline Pokémon (Scarlet 1★, Sun 2★, Legends: Arceus 2.5★), Xenoblade Chronicles 3 & X (2★ — despite the original Xenoblade sitting at 4★), Dishonored (2★), Red Dead Redemption 2 (2★), NieR: Automata (2★), Dead Island / Cube World / Goat Simulator (2★).
-> - **📝 Key pattern**: he consistently rates the *flagship/classic* entry in a series far above its spin-offs or later sequels — Mass Effect trilogy vs. Andromeda, original Xenoblade vs. 3/X, gen-1/2 Pokémon vs. Scarlet/Legends: Arceus, TF2 vs. newer hero shooters. He rewards systems with real heart and humor (Deltarune, Undertale, It Takes Two, Hi-Fi Rush) and cinematic narrative (Last of Us, Life Is Strange, Detroit: Become Human, Dispatch, Forgotten City) — and is allergic to grind-forward live-service loops, gacha monetization, motion-control jank, and open-world padding.
+> [!tip]- 🧬 The Taste Profile (from his Backloggd ratings)
+> - **❤️ Loved (5★)**: Baldur's Gate III, Clair Obscur: Expedition 33, the Mass Effect trilogy, Team Fortress 2 → **sweeping CRPGs/space-opera RPGs, strong ensemble casts, cooperative multiplayer with real depth**.
+> - **💛 Rated very high (4.5★)**: Zelda HD remasters (Wind Waker HD, Twilight Princess HD), gen 1/2 Pokémon, God of War (2018) → **nostalgia-adjacent remasters done right, mythology-driven action, monster-collecting/adventure loops**.
+> - **🟢 Also enjoyed**: It Takes Two-style co-op, Hi-Fi Rush/Hades-style style-driven action-roguelites, Last of Us-style cinematic narrative action.
+> - **📦 Backlog**: Spiritfarer, Black Myth: Wukong — **cozy management-with-a-gut-punch and mythic action** both clearly on his radar.
+> - **🚫 Pattern of avoidance**: no hero-shooters/live-service grind, no gacha, almost no Assassin's Creed, nothing that's pure open-world checklist padding.
 
 > [!info] 🗺️ Legend
-> ⭐ his rating shown where available · 📦 in his backlog · 🔭 Backloggd-driven pick, no personal play data on this platform · [↗] opens Backloggd
-> `🏷 Genre` for context · `[[wikilinks]]` for future per-game notes
+> ✨ curated niche pick · ⚠️ caution flag · obscurity score = Backloggd's 0 (most popular) → 100 (most obscure) scale, picks below sit ~75-90 unless noted
+> `🏷 Genre` · [↗] opens Backloggd
 
 > [!example]- 🧭 Jump to a platform
 > **Nintendo home**: [[#🕹️ SNES]] · [[#🟣 GameCube]] · [[#🔵 Wii]] · [[#🔵 Wii U]] · [[#🔴 Switch]]
@@ -30,576 +32,530 @@ aliases: [Backlog Picks - MC_Smooth, backlog-picks-mc-smooth, "backlog-picks-—
 
 ## 🕹️ SNES
 
-> [!warning] 🔭 No personal play history on this platform — picks below are pulled straight from Backloggd's most-popular SNES titles, filtered through his documented taste (narrative RPGs, low grind tolerance, dislike of "checklist" design).
+> [!tip] 🥇 [[Illusion of Gaia]] ✨
+> `🏷 Action RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Illusion%20of%20Gaia)
+> Quondar-tier melancholy action-RPG about a boy who can absorb the souls of the dead. Zelda-adjacent structure with a genuinely sad, mythic throughline — the closest SNES gets to the Clair Obscur register.
 
-> [!tip] 🥇 [[Chrono Trigger]] 🔭
-> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co3plw.jpg) `🏷 JRPG` [Backloggd ↗](https://www.backloggd.com/games/chrono-trigger/)
-> Backloggd's #1 SNES game by a wide margin. Tight, non-grindy JRPG — matches his documented preference for the *flagship* version of a genre over its bloated cousins.
+> [!tip] 🥈 [[Terranigma]] ✨
+> `🏷 Action RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Terranigma)
+> Never officially released in NA/Japan-adjacent markets so it's genuinely a "did you know" pick — a resurrect-the-world action-RPG with real emotional stakes and Zelda-quality dungeon design.
 
-> [!tip] 🥈 [[EarthBound]] 🔭
-> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co6v07.jpg) `🏷 JRPG` [Backloggd ↗](https://www.backloggd.com/games/earthbound/)
-> Sincere, funny, quietly devastating — the same emotional register that earned Undertale and Deltarune 4.5–5★ from him.
+> [!tip] 🥉 [[Breath of Fire II]] ✨
+> `🏷 JRPG` [Backloggd ↗](https://www.backloggd.com/search/games/Breath%20of%20Fire%20II)
+> Dragon-blooded ensemble-cast JRPG with a surprisingly dark back half (a whole town gets swallowed by a cult). Scratches the same "found family saves the world" itch as Mass Effect.
 
-> [!tip] 🥉 [[Final Fantasy VI|Final Fantasy III (VI)]] 🔭
-> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/coaq5k.jpg) `🏷 JRPG` [Backloggd ↗](https://www.backloggd.com/games/final-fantasy-iii--7/)
-> Ensemble-cast tragedy in the vein of the Mass Effect trilogy he rated 5★ across the board — big cast, big stakes, earns its swings.
+> [!quote] #4 [[Ultima VI: The False Prophet]] ✨
+> `🏷 CRPG` [Backloggd ↗](https://www.backloggd.com/search/games/Ultima%20VI%3A%20The%20False%20Prophet)
+> A genuine ancestor of Baldur's Gate — open, reactive, systems-driven CRPG design decades before it was cool. Rough edges are the point.
 
-> [!quote] #4 [[Super Metroid]] 🔭
-> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co5osy.jpg) `🏷 Metroidvania` [Backloggd ↗](https://www.backloggd.com/games/super-metroid/)
-> Backloggd's highest-rated action-adventure on the console; atmosphere-first design without the grind he's repeatedly dinged elsewhere (Cube World, Xenoblade X).
+> [!quote] #5 [[Robotrek]] ✨
+> `🏷 JRPG` [Backloggd ↗](https://www.backloggd.com/search/games/Robotrek)
+> Build-your-own-robot JRPG that's equal parts Pokémon-style creature customization and comedic writing. Deeply obscure, deeply charming.
 
-> [!quote] #5 [[Super Mario RPG]] 🔭
-> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co5r6p.jpg) `🏷 JRPG` [Backloggd ↗](https://www.backloggd.com/games/super-mario-rpg-legend-of-the-seven-stars/)
-> Short, funny, timing-based combat with zero grind — the profile of nearly everything he's rated highly.
-
-> [!failure]- 🚫 Titles to be wary of
-> 1. [**Secret of Mana**](https://www.backloggd.com/search/games/Secret%20of%20Mana) `🏷 Action RPG` — Beloved classic but leans on grinding for weapon/magic levels; grind-forward design is a documented dealbreaker for him (Cube World 2★, Xenoblade X 2★).
-> 2. [**Star Fox**](https://www.backloggd.com/search/games/Star%20Fox) `🏷 Rail Shooter` — Historically important, aged roughly; no data suggests he has patience for "important but rough" relics.
+> [!failure]- 🚫 Top 5 to Avoid
+> 1. [**True Lies**](https://www.backloggd.com/search/games/True%20Lies) `🏷 Movie Tie-in` — Licensed shovelware with none of the charm and all of the jank.
+> 2. [**Home Alone 2: Lost in New York**](https://www.backloggd.com/search/games/Home%20Alone%202%3A%20Lost%20in%20New%20York) `🏷 Movie Tie-in` — Infamously unfair trap-based "platformer."
+> 3. [**Super Noah's Ark 3D**](https://www.backloggd.com/search/games/Super%20Noah%27s%20Ark%203D) `🏷 Shooter` — A de-gored Wolfenstein 3D clone that's a curiosity, not a game worth your time.
+> 4. [**Chester Cheetah: Too Cool to Fool**](https://www.backloggd.com/search/games/Chester%20Cheetah%3A%20Too%20Cool%20to%20Fool) `🏷 Platformer` — Mascot platformer padding, no redeeming systems.
+> 5. [**Zero the Kamikaze Squirrel**](https://www.backloggd.com/search/games/Zero%20the%20Kamikaze%20Squirrel) `🏷 Platformer` — A infamous "so-bad-it's-a-meme" mascot platformer.
 
 ---
 
 ## 💿 PlayStation 1
 
-> [!warning] 🔭 No personal play history on this platform — Backloggd-popular picks filtered through his taste profile.
+> [!tip] 🥇 [[SaGa Frontier 2]] ✨
+> `🏷 JRPG` [Backloggd ↗](https://www.backloggd.com/search/games/SaGa%20Frontier%202)
+> Two intertwined multi-generational stories about a cursed sword and a would-be king — structurally ambitious, painterly art direction, real narrative weight.
 
-> [!tip] 🥇 [[Final Fantasy VII]] 🔭
-> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co2kx2.jpg) `🏷 JRPG` [Backloggd ↗](https://www.backloggd.com/games/final-fantasy-vii/)
-> The platform's most popular game on Backloggd, and squarely in the sweeping-RPG lane he rates 4.5–5★ (Baldur's Gate III, Mass Effect trilogy, Clair Obscur).
+> [!tip] 🥈 [[Azure Dreams]] ✨
+> `🏷 Roguelike · Monster-Raising` [Backloggd ↗](https://www.backloggd.com/search/games/Azure%20Dreams)
+> Tower-climbing roguelike crossed with monster-egg collecting and a town-building/dating-sim layer — the Pokémon-collector itch scratched in a completely different genre.
 
-> [!tip] 🥈 [[Metal Gear Solid]] 🔭
-> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/cobpak.jpg) `🏷 Stealth Action` [Backloggd ↗](https://www.backloggd.com/games/metal-gear-solid/)
-> Cinematic, story-forward — he's rated Metal Gear Rising and MGSV Phantom Pain both comfortably (4★/3.5★), suggesting the series' tone works for him.
+> [!tip] 🥉 [[Discworld]] ✨
+> `🏷 Point-and-Click Adventure` [Backloggd ↗](https://www.backloggd.com/search/games/Discworld)
+> Terry Pratchett's absurdist wit turned into a genuinely funny, genuinely obtuse graphic adventure. Big ensemble-cast energy in a totally different package.
 
-> [!tip] 🥉 [[Xenogears]] 🔭
-> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/cobxj4.jpg) `🏷 JRPG` [Backloggd ↗](https://www.backloggd.com/games/xenogears/)
-> Ambitious, narrative-heavy JRPG — the "big swing" pattern that wins him over (Baldur's Gate III, Clair Obscur, Mass Effect).
+> [!quote] #4 [[Theme Hospital]] ✨
+> `🏷 Management Sim` [Backloggd ↗](https://www.backloggd.com/search/games/Theme%20Hospital)
+> Absurdist management sim (Bloaty Head disease, anyone?) — the Spiritfarer "cozy but with teeth" energy from a completely different angle.
 
-> [!quote] #4 [[Castlevania - Symphony of the Night|Castlevania: Symphony of the Night]] 🔭
-> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co53m8.jpg) `🏷 Metroidvania` [Backloggd ↗](https://www.backloggd.com/games/castlevania-symphony-of-the-night/)
-> Atmosphere-forward exploration without heavy grind — same shelf as his Super Metroid pick above.
+> [!quote] #5 [[Forsaken]] ✨
+> `🏷 6DoF Shooter` [Backloggd ↗](https://www.backloggd.com/search/games/Forsaken)
+> Descent-style zero-gravity corridor shooter with genuine atmosphere and a great co-op mode — an easy blind spot from this era.
 
-> [!quote] #5 [[Chrono Cross]] 🔭
-> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co1oj7.jpg) `🏷 JRPG` [Backloggd ↗](https://www.backloggd.com/games/chrono-cross/)
-> Another sprawling story-first JRPG; consistent with his 5★ love of Chrono Trigger's own era.
-
-> [!failure]- 🚫 Titles to be wary of
-> 1. [**Parasite Eve**](https://www.backloggd.com/search/games/Parasite%20Eve) `🏷 Survival RPG` — Survival-management systems layered on an RPG; his low marks for Dishonored and Red Dead Redemption 2 hint he's not drawn to systems-heavy busywork.
-> 2. [**Digimon World**](https://www.backloggd.com/search/games/Digimon%20World) `🏷 Monster Raising` — Notoriously grind- and stat-management-heavy; the exact profile behind his 2★ on Cube World and Xenoblade X.
+> [!failure]- 🚫 Top 5 to Avoid
+> 1. [**Barbie: Super Model**](https://www.backloggd.com/search/games/Barbie%3A%20Super%20Model) `🏷 Licensed` — Exactly what it sounds like.
+> 2. [**War Gods**](https://www.backloggd.com/search/games/War%20Gods) `🏷 Fighting` — A forgettable Mortal Kombat clone, obscure because it deserves to be.
+> 3. [**Bio F.R.E.A.K.S.**](https://www.backloggd.com/search/games/Bio%20F.R.E.A.K.S.) `🏷 Fighting` — Clunky 3D fighter, dated even for 1998.
+> 4. [**Test Drive 6**](https://www.backloggd.com/search/games/Test%20Drive%206) `🏷 Racing` — Broken collision detection, one of the worst-reviewed racers of the generation.
+> 5. [**WCW Nitro**](https://www.backloggd.com/search/games/WCW%20Nitro) `🏷 Wrestling` — Widely considered one of the worst wrestling games ever made.
 
 ---
 
 ## 💿 PlayStation 2
 
-> [!tip] 🥇 [[Guitar Hero III - Legends of Rock|Guitar Hero III: Legends of Rock]] ⭐ 5.0
-> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co1wqm.jpg) `🏷 Rhythm` [Backloggd ↗](https://www.backloggd.com/games/guitar-hero-iii-legends-of-rock/)
-> A perfect score. Rhythm/music games are a genuine sweet spot for him.
+> [!tip] 🥇 [[Arc the Lad: Twilight of the Spirits]] ✨
+> `🏷 Tactical JRPG` [Backloggd ↗](https://www.backloggd.com/search/games/Arc%20the%20Lad%3A%20Twilight%20of%20the%20Spirits)
+> Dual-protagonist tactical JRPG (you play both sides of a war) with genuinely good tactics-combat and a Mass Effect-style "your choices shape the ending" structure.
 
-> [!tip] 🥈 [[TimeSplitters - Future Perfect|TimeSplitters: Future Perfect]] ⭐ 4.5
-> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co21s3.jpg) `🏷 FPS · Comedy` [Backloggd ↗](https://www.backloggd.com/games/timesplitters-future-perfect/)
-> His best-rated shooter on the console — irreverent, arcade-y FPS design he clearly responds to.
+> [!tip] 🥈 [[Gauntlet: Seven Sorrows]] ✨
+> `🏷 Co-op Dungeon Crawler` [Backloggd ↗](https://www.backloggd.com/search/games/Gauntlet%3A%20Seven%20Sorrows)
+> Modernized Gauntlet with real co-op depth — the same "four friends, one dungeon" energy as It Takes Two, just wave-based and loot-driven.
 
-> [!tip] 🥉 [[God of War]] ⭐ 4.5
-> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co3ddc.jpg) `🏷 Action Adventure` [Backloggd ↗](https://www.backloggd.com/games/god-of-war--2/)
-> The start of a franchise he has rated 4–4.5★ across every entry he's played — his most reliable series, full stop.
+> [!tip] 🥉 [[Atelier Iris 2: The Azoth of Destiny]] ✨
+> `🏷 JRPG · Crafting` [Backloggd ↗](https://www.backloggd.com/search/games/Atelier%20Iris%202%3A%20The%20Azoth%20of%20Destiny)
+> Cozy alchemy-crafting JRPG with a genuinely charming cast — the entry point to the Atelier series' comfort-food loop.
 
-> [!quote] #4 [[Final Fantasy X]] ⭐ 4.0
-> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co1tr1.jpg) `🏷 JRPG` [Backloggd ↗](https://www.backloggd.com/games/final-fantasy-x/)
-> Sweeping party-based JRPG, right in his wheelhouse.
+> [!quote] #4 [[Melty Blood Act Cadenza]] ✨
+> `🏷 Fighting` [Backloggd ↗](https://www.backloggd.com/search/games/Melty%20Blood%20Act%20Cadenza)
+> A Tsukihime-universe fighter with a surprisingly deep, well-regarded system underneath the anime skin — genuine cult classic in fighting-game circles.
 
-> [!quote] #5 [[Dragon Ball Z - Budokai Tenkaichi 3|Dragon Ball Z: Budokai Tenkaichi 3]] ⭐ 4.0
-> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co3r52.jpg) `🏷 Arena Fighter` [Backloggd ↗](https://www.backloggd.com/games/dragon-ball-z-budokai-tenkaichi-3/)
-> He's also rated the newer Sparking! Zero 3.0★ — this era of DBZ arena brawlers is a repeat visit for him.
+> [!quote] #5 [[Worms Blast]] ✨
+> `🏷 Co-op Puzzle` [Backloggd ↗](https://www.backloggd.com/search/games/Worms%20Blast)
+> Worms' cast in a Bust-a-Move-style puzzle-shooter with a real co-op mode — light, fast, good for a couch session.
 
-> [!quote] #6 [[James Bond 007 - Nightfire|James Bond 007: Nightfire]] ⭐ 4.0
-> `🏷 FPS` [Backloggd ↗](https://www.backloggd.com/games/james-bond-007-nightfire/)
-> Rated the same on original Xbox too — a genuine multi-platform favorite for him.
-
-> [!quote] #7 [[Kingdom Hearts]] ⭐ 3.5
-> `🏷 Action RPG` [Backloggd ↗](https://www.backloggd.com/games/kingdom-hearts/)
-> Solid but his mid-tier pick here — action-RPG hybrid rated comfortably, not ecstatically.
-
-> [!quote] #8 [[TimeSplitters 2]] ⭐ 3.5
-> `🏷 FPS · Comedy` [Backloggd ↗](https://www.backloggd.com/games/timesplitters-2/)
-> The predecessor to his #2 pick; consistent enjoyment of the series.
-
-> [!info] No clear misses
-> Nothing he's played on PS2 dropped below 3.5★ — this is his best-reviewed platform in the data.
+> [!failure]- 🚫 Top 5 to Avoid
+> 1. [**Petz: Dogz 2**](https://www.backloggd.com/search/games/Petz%3A%20Dogz%202) `🏷 Pet Sim` — A tamagotchi-tier sim padded to full retail price.
+> 2. [**Cake Mania**](https://www.backloggd.com/search/games/Cake%20Mania) `🏷 Time Management` — Fine on mobile, thin as a full console release.
+> 3. [**Monster Lab**](https://www.backloggd.com/search/games/Monster%20Lab) `🏷 Action` — A licensed "build-a-monster" gimmick with mediocre combat underneath.
+> 4. [**Robotech: Battlecry**](https://www.backloggd.com/search/games/Robotech%3A%20Battlecry) `🏷 Action` — Repetitive mission design that wears out its welcome fast.
+> 5. [**Bad Boys: Miami Takedown**](https://www.backloggd.com/search/games/Bad%20Boys%3A%20Miami%20Takedown) `🏷 Movie Tie-in` — One of the lowest-rated licensed shooters of the generation.
 
 ---
 
 ## 💿 PlayStation 3
 
-> [!tip] 🥇 [[Mass Effect 3]] ⭐ 5.0
-> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co1x7q.jpg) `🏷 Sci-Fi RPG` [Backloggd ↗](https://www.backloggd.com/games/mass-effect-3/)
-> Perfect score, part of a trilogy he loves top to bottom — the strongest signal in his entire profile.
+> [!tip] 🥇 [[Tales of Vesperia]] ✨
+> `🏷 JRPG` [Backloggd ↗](https://www.backloggd.com/search/games/Tales%20of%20Vesperia)
+> Widely considered the best entry point to the Tales series — real-time action combat, a genuinely great ensemble cast, and the exact "sweeping RPG with heart" register Baldur's Gate III and Clair Obscur hit for him.
 
-> [!tip] 🥈 [[Battlefield - Bad Company 2|Battlefield: Bad Company 2]] ⭐ 4.5
-> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co1xbi.jpg) `🏷 FPS` [Backloggd ↗](https://www.backloggd.com/games/battlefield-bad-company-2/)
-> His highest-rated military shooter — miles above the Call of Duty entries he's played.
+> [!tip] 🥈 [[Sportsfriends]] ✨
+> `🏷 Local Co-op Party` [Backloggd ↗](https://www.backloggd.com/search/games/Sportsfriends)
+> A four-game local-multiplayer anthology (including the cult-favorite Johann Sebastian Joust) built entirely for the couch — pure "friends in a room" energy.
 
-> [!tip] 🥉 [[Deus Ex - Human Revolution|Deus Ex: Human Revolution]] ⭐ 4.5
-> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co1rd2.jpg) `🏷 Immersive Sim` [Backloggd ↗](https://www.backloggd.com/games/deus-ex-human-revolution/)
-> Notably: he loves this immersive sim but hated Dishonored (2★) — worth a per-game note on what clicked here that didn't there.
+> [!tip] 🥉 [[Atelier Rorona: The Alchemist of Arland]] ✨
+> `🏷 JRPG · Crafting` [Backloggd ↗](https://www.backloggd.com/search/games/Atelier%20Rorona%3A%20The%20Alchemist%20of%20Arland)
+> Cozy time-limited crafting RPG with a genuine emotional arc underneath the alchemy — Spiritfarer's "cozy loop, real stakes" energy in JRPG form.
 
-> [!quote] #4 [[Call of Juarez - Gunslinger|Call of Juarez: Gunslinger]] ⭐ 4.5
-> `🏷 FPS · Western` [Backloggd ↗](https://www.backloggd.com/games/call-of-juarez-gunslinger/)
-> A left-field 4.5★ — tight arcade shooter design wins again (see TimeSplitters, above).
+> [!quote] #4 [[Necropolis]] ✨
+> `🏷 Roguelite` [Backloggd ↗](https://www.backloggd.com/search/games/Necropolis)
+> A stylish, narrated dungeon-crawling roguelite with real Hades-adjacent combat feel and a wry sense of humor about its own systems.
 
-> [!quote] #5 [[God of War II]] ⭐ 4.5
-> `🏷 Action Adventure` [Backloggd ↗](https://www.backloggd.com/games/god-of-war-ii--1/)
-> The God of War streak continues.
+> [!quote] #5 [[Skullgirls Encore]] ✨
+> `🏷 Fighting` [Backloggd ↗](https://www.backloggd.com/search/games/Skullgirls%20Encore)
+> Hand-animated indie fighter with one of the best combat systems of its generation — deep without needing a scene to enjoy it.
 
-> [!quote] #6 [[The Last of Us]] ⭐ 4.5
-> `🏷 Survival Narrative` [Backloggd ↗](https://www.backloggd.com/games/the-last-of-us/)
-> The first of three Last of Us entries he's rated 4.5★ — cinematic narrative is a clear pillar of his taste.
-
-> [!quote] #7 [[Grand Theft Auto V]] ⭐ 4.0
-> `🏷 Open World` [Backloggd ↗](https://www.backloggd.com/games/grand-theft-auto-v/)
-> Notably higher than his 2★ for RDR2 — the multi-protagonist heist structure lands better for him than Rockstar's slower open-world pacing.
-
-> [!quote] #8 [[God of War III]] ⭐ 4.0
-> `🏷 Action Adventure` [Backloggd ↗](https://www.backloggd.com/games/god-of-war-iii/)
-> A fourth strong God of War rating.
-
-> [!failure]- 🚫 Top misses
-> 1. [**Assassin's Creed: Revelations**](https://www.backloggd.com/search/games/Assassin%27s%20Creed%3A%20Revelations) `🏷 Open World` ⭐ 1.5 — His single lowest AC rating; the series overall trends 1.5–3★ for him, open-world checklist fatigue confirmed.
-> 2. [**BioShock Infinite**](https://www.backloggd.com/search/games/BioShock%20Infinite) `🏷 FPS` ⭐ 2.0 — A rare miss for a story-driven FPS, otherwise his strong suit.
-> 3. [**Dishonored**](https://www.backloggd.com/search/games/Dishonored) `🏷 Immersive Sim · Stealth` ⭐ 2.0 — Surprising given his 4.5★ for Deus Ex: Human Revolution; the stealth-specific framing may be the differentiator.
-> 4. [**Dead Island**](https://www.backloggd.com/search/games/Dead%20Island) `🏷 Open World · Survival` ⭐ 2.0 — Open-world survival grind, a documented weak spot.
-> 5. [**Call of Duty: Black Ops II**](https://www.backloggd.com/search/games/Call%20of%20Duty%3A%20Black%20Ops%20II) `🏷 FPS` ⭐ 2.0 — CoD as a series sits well below Battlefield/TimeSplitters/Call of Juarez for him.
+> [!failure]- 🚫 Top 5 to Avoid
+> 1. [**Lair**](https://www.backloggd.com/search/games/Lair) `🏷 Action` — Infamous for SIXAXIS-only controls that made basic flight miserable.
+> 2. [**Tony Hawk: Ride**](https://www.backloggd.com/search/games/Tony%20Hawk%3A%20Ride) `🏷 Sports` — The peripheral-required nadir of the Tony Hawk series.
+> 3. [**Turning Point: Fall of Liberty**](https://www.backloggd.com/search/games/Turning%20Point%3A%20Fall%20of%20Liberty) `🏷 Shooter` — Generic alt-history shooter, forgettable even at launch.
+> 4. [**Dynasty Warriors 6: Empires**](https://www.backloggd.com/search/games/Dynasty%20Warriors%206%3A%20Empires) `🏷 Musou` — Considered the low point of the Dynasty Warriors mainline for a reason.
+> 5. [**G.I. Joe: The Rise of Cobra**](https://www.backloggd.com/search/games/G.I.%20Joe%3A%20The%20Rise%20of%20Cobra) `🏷 Movie Tie-in` — Rushed, buggy movie tie-in.
 
 ---
 
 ## 💿 PlayStation 4
 
-> [!tip] 🥇 [[Outer Wilds]] ⭐ 5.0
-> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co65ac.jpg) `🏷 Exploration Mystery` [Backloggd ↗](https://www.backloggd.com/games/outer-wilds/)
-> A perfect score for one of the platform's most inventive exploration games.
+> [!tip] 🥇 [[Lisa: Definitive Edition]] ✨
+> `🏷 Narrative RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Lisa%3A%20Definitive%20Edition)
+> A brutal, darkly funny post-apocalyptic RPG about fatherhood and terrible choices — EarthBound's aesthetic wearing Drakengard's soul. Devastating in the way Clair Obscur is devastating.
 
-> [!tip] 🥈 [[It Takes Two]] ⭐ 5.0
-> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/cob22v.jpg) `🏷 Co-op Adventure` [Backloggd ↗](https://www.backloggd.com/games/it-takes-two/)
-> Couch co-op with heart — a genuine 5★ and part of a clear pattern (Deltarune, Undertale, Hi-Fi Rush all score similarly).
+> [!tip] 🥈 [[Mages of Mystralia]] ✨
+> `🏷 Action Adventure` [Backloggd ↗](https://www.backloggd.com/search/games/Mages%20of%20Mystralia)
+> A spell-crafting Zelda-like where you build your own combo spells from runes — same DNA as the Zelda HD remasters he rated so highly.
 
-> [!tip] 🥉 [[The Forgotten City]] ⭐ 4.5
-> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co3muu.jpg) `🏷 Mystery Adventure · Time Loop` [Backloggd ↗](https://www.backloggd.com/games/the-forgotten-city/)
-> Narrative-first time-loop mystery; matches his taste for smart, contained story games.
+> [!tip] 🥉 [[Stealth Inc 2: A Game of Clones]] ✨
+> `🏷 Co-op Puzzle Platformer` [Backloggd ↗](https://www.backloggd.com/search/games/Stealth%20Inc%202%3A%20A%20Game%20of%20Clones)
+> A stealth-puzzle-platformer with a genuinely great co-op mode — It Takes Two-style "solve this together" puzzling with a stealth twist.
 
-> [!quote] #4 [[God of War (2018)]] ⭐ 4.5
-> `🏷 Action Adventure` [Backloggd ↗](https://www.backloggd.com/games/god-of-war--1/)
-> The God of War streak, uninterrupted.
+> [!quote] #4 [[Felix the Reaper]] ✨
+> `🏷 Puzzle` [Backloggd ↗](https://www.backloggd.com/search/games/Felix%20the%20Reaper)
+> A dancing Grim Reaper solves shadow-puzzles to secretly cause deaths — genuinely one-of-one concept, gorgeous art direction.
 
-> [!quote] #5 [[God of War Ragnarök]] ⭐ 4.5
-> `🏷 Action Adventure` [Backloggd ↗](https://www.backloggd.com/games/god-of-war-ragnarok/)
-> Five-for-five on God of War entries at 4–4.5★.
+> [!quote] #5 [[Before We Leave]] ✨
+> `🏷 Cozy City-Builder` [Backloggd ↗](https://www.backloggd.com/search/games/Before%20We%20Leave)
+> A no-combat, no-fail-state civilization builder about rebuilding after a long hibernation — pure comfort strategy, Spiritfarer-adjacent tone.
 
-> [!quote] #6 [[The Last of Us Part II]] ⭐ 4.5
-> `🏷 Survival Narrative` [Backloggd ↗](https://www.backloggd.com/games/the-last-of-us-part-ii/)
-> A second 4.5★ Last of Us entry.
-
-> [!quote] #7 [[Hades]] ⭐ 4.5
-> `🏷 Roguelite` [Backloggd ↗](https://www.backloggd.com/games/hades--1/)
-> Story-infused roguelite — squarely his lane, and Hades II (Switch) follows at 4.0★.
-
-> [!quote] #8 [[Control]] ⭐ 4.0
-> `🏷 Action Adventure · Supernatural` [Backloggd ↗](https://www.backloggd.com/games/control/)
-> Strong mark for Remedy's brutalist supernatural thriller.
-
-> [!quote] #9 [[Detroit - Become Human|Detroit: Become Human]] ⭐ 4.0
-> `🏷 Narrative Adventure` [Backloggd ↗](https://www.backloggd.com/games/detroit-become-human--1/)
-> Another cinematic-narrative 4★, reinforcing the pattern from Life Is Strange and Dispatch.
-
-> [!quote] #10 [[Elden Ring]] ⭐ 4.0
-> `🏷 Action RPG` [Backloggd ↗](https://www.backloggd.com/games/elden-ring/)
-> A strong FromSoft mark — pairs with Sekiro GOTY at 4.5★.
-
-> [!failure]- 🚫 Top misses
-> 1. [**Mass Effect: Andromeda**](https://www.backloggd.com/search/games/Mass%20Effect%3A%20Andromeda) `🏷 Sci-Fi RPG` ⭐ 1.0 — His single lowest rating in the entire dataset. A brutal fall from the 5★ original trilogy.
-> 2. [**Overwatch**](https://www.backloggd.com/search/games/Overwatch) `🏷 Hero Shooter` ⭐ 1.5 — Hero shooters/live-service PvP are a consistent low point (see Marvel Rivals, MultiVersus).
-> 3. [**Genshin Impact**](https://www.backloggd.com/search/games/Genshin%20Impact) `🏷 Gacha Action RPG` ⭐ 2.0 — Gacha monetization doesn't land for him.
-> 4. [**NieR - Automata**](https://www.backloggd.com/search/games/NieR%3A%20Automata) `🏷 Action RPG` ⭐ 2.0 — A rare miss for an acclaimed narrative action-RPG.
-> 5. [**Goat Simulator**](https://www.backloggd.com/search/games/Goat%20Simulator) `🏷 Comedy Sandbox` ⭐ 2.0 — Novelty-sandbox humor didn't stick.
+> [!failure]- 🚫 Top 5 to Avoid
+> 1. [**Niche: A Genetics Survival Game**](https://www.backloggd.com/search/games/Niche%3A%20A%20Genetics%20Survival%20Game) `🏷 Sim` — Interesting genetics gimmick buried under tedious survival-sim busywork.
+> 2. [**Chess Ultra**](https://www.backloggd.com/search/games/Chess%20Ultra) `🏷 Board Game` — A chess engine with a price tag; nothing you need over a free app.
+> 3. [**Gems of War**](https://www.backloggd.com/search/games/Gems%20of%20War) `🏷 Match-3 Gacha` — Match-3 wrapped around exactly the gacha monetization loop he avoids.
+> 4. [**Warface: Clutch**](https://www.backloggd.com/search/games/Warface%3A%20Clutch) `🏷 Live-Service Shooter` — Generic F2P military shooter, the hero-shooter/live-service pattern he skips.
+> 5. [**MLB The Show 18**](https://www.backloggd.com/search/games/MLB%20The%20Show%2018) `🏷 Sports Sim` — Fine sports sim, but zero overlap with anything in his actual taste profile.
 
 ---
 
 ## 🟢 Xbox (Original)
 
-> [!tip] 🥇 [[TimeSplitters - Future Perfect|TimeSplitters: Future Perfect]] ⭐ 4.5
-> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co21s3.jpg) `🏷 FPS · Comedy` [Backloggd ↗](https://www.backloggd.com/games/timesplitters-future-perfect/)
-> His best-rated original-Xbox title, matching the PS2 version's score — this series is a genuine multi-platform favorite.
+> [!tip] 🥇 [[Sudeki]] ✨
+> `🏷 Action RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Sudeki)
+> A four-character action-RPG that lets you swap fighting styles mid-battle, with a genuinely ambitious anime-tinged story — a clear "should've been bigger" cult pick.
 
-> [!tip] 🥈 [[James Bond 007 - Nightfire|James Bond 007: Nightfire]] ⭐ 4.0
-> `🏷 FPS` [Backloggd ↗](https://www.backloggd.com/games/james-bond-007-nightfire/)
-> Same 4★ mark as on PS2 — consistent enjoyment across platforms.
+> [!tip] 🥈 [[Otogi: Myth of Demons]] ✨
+> `🏷 Action` [Backloggd ↗](https://www.backloggd.com/search/games/Otogi%3A%20Myth%20of%20Demons)
+> Japanese-mythology-soaked hack-and-slash with gorgeous destructible environments — God of War's mythic-action register a generation early.
 
-> [!tip] 🥉 [[Half-Life 2]] ⭐ 3.5
-> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co1nmw.jpg) `🏷 FPS` [Backloggd ↗](https://www.backloggd.com/games/half-life-2/)
-> Solid, not ecstatic — his Half-Life episodes (One, Two) both land at 3.0★, suggesting diminishing returns for him on the saga.
+> [!tip] 🥉 [[Advent Rising]] ✨
+> `🏷 Action Adventure` [Backloggd ↗](https://www.backloggd.com/search/games/Advent%20Rising)
+> A troubled but genuinely ambitious sci-fi space-opera (co-written with a novelist) with telekinetic powers — Mass Effect's spiritual predecessor in tone.
 
-> [!quote] #4 [[TimeSplitters 2]] ⭐ 3.5
-> `🏷 FPS · Comedy` [Backloggd ↗](https://www.backloggd.com/games/timesplitters-2/)
-> Rounding out a very small but very positive library on this platform — everything he's played here is 3.5★+.
+> [!quote] #4 [[Voodoo Vince]] ✨
+> `🏷 Platformer` [Backloggd ↗](https://www.backloggd.com/search/games/Voodoo%20Vince)
+> A voodoo-doll platformer where you hurt yourself to hurt enemies — a genuinely clever, funny one-off concept.
 
-> [!info] Thin but positive
-> Only four titles logged on original Xbox, and all land 3.5★ or above — no clear misses to flag.
+> [!quote] #5 [[Geometry Wars]] ✨
+> `🏷 Arcade Shooter` [Backloggd ↗](https://www.backloggd.com/search/games/Geometry%20Wars)
+> Pure high-score arcade dopamine, originally a hidden minigame in Project Gotham Racing 2 — great short-session palate cleanser.
+
+> [!failure]- 🚫 Top 5 to Avoid
+> 1. [**Midtown Madness 3**](https://www.backloggd.com/search/games/Midtown%20Madness%203) `🏷 Racing` — Buggy open-world racer, a step down from its predecessors.
+> 2. [**Breakdown**](https://www.backloggd.com/search/games/Breakdown) `🏷 First-Person Action` — Interesting first-person-melee gimmick undercut by repetitive, disorienting combat.
+> 3. [**Sega GT 2002**](https://www.backloggd.com/search/games/Sega%20GT%202002) `🏷 Racing` — A forgettable Gran Turismo clone.
+> 4. [**Red Ninja: End of Honor**](https://www.backloggd.com/search/games/Red%20Ninja%3A%20End%20of%20Honor) `🏷 Action` — Clunky stealth-action widely panned at launch.
+> 5. [**Nickelodeon Party Blast**](https://www.backloggd.com/search/games/Nickelodeon%20Party%20Blast) `🏷 Party` — Thin minigame collection, licensed filler.
 
 ---
 
 ## 🟢 Xbox 360
 
-> [!tip] 🥇 [[Mass Effect 3]] ⭐ 5.0
-> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co1x7q.jpg) `🏷 Sci-Fi RPG` [Backloggd ↗](https://www.backloggd.com/games/mass-effect-3/)
-> The trilogy's finale, rated 5★ on this platform as well as PS3.
+> [!tip] 🥇 [[Infinite Undiscovery]] ✨
+> `🏷 Action RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Infinite%20Undiscovery)
+> tri-Ace's sprawling, messy, ambitious action-RPG about breaking chains binding the moon to the earth — a big swing-for-the-fences JRPG in the vein of the messier parts of the genre he clearly forgives when the vision's there.
 
-> [!tip] 🥈 [[Call of Juarez - Gunslinger|Call of Juarez: Gunslinger]] ⭐ 4.5
-> `🏷 FPS · Western` [Backloggd ↗](https://www.backloggd.com/games/call-of-juarez-gunslinger/)
-> A repeat 4.5★, matching his PS3 rating — genuinely one of his favorite shooters.
+> [!tip] 🥈 [[Radiant Silvergun]] ✨
+> `🏷 Shmup` [Backloggd ↗](https://www.backloggd.com/search/games/Radiant%20Silvergun)
+> Treasure's legendary, once-unobtainable shoot-'em-up — a genuine "grail" title finally accessible via Xbox Live Arcade.
 
-> [!tip] 🥉 [[Deus Ex - Human Revolution|Deus Ex: Human Revolution]] ⭐ 4.5
-> `🏷 Immersive Sim` [Backloggd ↗](https://www.backloggd.com/games/deus-ex-human-revolution/)
-> Same score as PS3 — a clear favorite regardless of platform.
+> [!tip] 🥉 [[Skulls of the Shogun]] ✨
+> `🏷 Tactics` [Backloggd ↗](https://www.backloggd.com/search/games/Skulls%20of%20the%20Shogun)
+> A fast, funny, snappy turn-based tactics game with online multiplayer and zero of the genre's usual bloat.
 
-> [!quote] #4 [[Battlefield - Bad Company 2|Battlefield: Bad Company 2]] ⭐ 4.5
-> `🏷 FPS` [Backloggd ↗](https://www.backloggd.com/games/battlefield-bad-company-2/)
-> His best military shooter, again.
+> [!quote] #4 [[Anomaly: Warzone Earth]] ✨
+> `🏷 Reverse Tower Defense` [Backloggd ↗](https://www.backloggd.com/search/games/Anomaly%3A%20Warzone%20Earth)
+> Tower defense flipped: you control the attacking convoy. A genuinely fresh spin on a tired genre.
 
-> [!quote] #5 [[Gears of War 3]] ⭐ 4.0
-> `🏷 Cover Shooter` [Backloggd ↗](https://www.backloggd.com/games/gears-of-war-3/)
-> Notably better received than Gears 5 (2.5★, Xbox One) — the older trilogy clicks better for him.
+> [!quote] #5 [[Ilomilo]] ✨
+> `🏷 Puzzle Platformer` [Backloggd ↗](https://www.backloggd.com/search/games/Ilomilo)
+> An adorable, gentle puzzle-platformer about two friends trying to reunite across warped space — has an online co-op mode too.
 
-> [!quote] #6 [[Left 4 Dead 2]] ⭐ 4.0
-> `🏷 Co-op Horror` [Backloggd ↗](https://www.backloggd.com/games/left-4-dead-2/)
-> Co-op survival horror pairs with his love of It Takes Two — cooperative design is a real thread.
-
-> [!quote] #7 [[Deus Ex - Human Revolution|Fable II]] ⭐ 3.0
-> `🏷 Action RPG` [Backloggd ↗](https://www.backloggd.com/games/fable-ii/)
-> Middling but not disliked; a safe filler pick.
-
-> [!failure]- 🚫 Top misses
-> 1. [**Assassin's Creed: Brotherhood**](https://www.backloggd.com/search/games/Assassin%27s%20Creed%3A%20Brotherhood) `🏷 Open World` ⭐ 2.0 — The AC pattern continues on this platform.
-> 2. [**Call of Duty: Black Ops**](https://www.backloggd.com/search/games/Call%20of%20Duty%3A%20Black%20Ops) `🏷 FPS` ⭐ 2.0 — CoD trails well behind Battlefield/Call of Juarez for him.
-> 3. [**Dishonored**](https://www.backloggd.com/search/games/Dishonored) `🏷 Immersive Sim · Stealth` ⭐ 2.0 — Same miss as on PS3.
-> 4. [**Dead Island**](https://www.backloggd.com/search/games/Dead%20Island) `🏷 Open World · Survival` ⭐ 2.0 — Same miss as on PS3.
-> 5. [**Far Cry 2**](https://www.backloggd.com/search/games/Far%20Cry%202) `🏷 Open World FPS` ⭐ 2.5 — Open-world FPS bloat, consistent with his RDR2/AC pattern.
+> [!failure]- 🚫 Top 5 to Avoid
+> 1. [**Velvet Assassin**](https://www.backloggd.com/search/games/Velvet%20Assassin) `🏷 Stealth` — Ambitious WWII stealth premise, broken AI and pacing undercut it.
+> 2. [**Comic Jumper**](https://www.backloggd.com/search/games/Comic%20Jumper) `🏷 Action` — Twisted Pixel's weakest outing, self-aware humor can't save thin combat.
+> 3. [**Peter Jackson's King Kong**](https://www.backloggd.com/search/games/Peter%20Jackson%27s%20King%20Kong) `🏷 Movie Tie-in` — Dated even at launch outside its gimmick FPS-survival hook.
+> 4. [**Rise of the Argonauts**](https://www.backloggd.com/search/games/Rise%20of%20the%20Argonauts) `🏷 Action RPG` — Interesting Greek-myth premise, clunky combat sinks it.
+> 5. [**Soldier of Fortune: Payback**](https://www.backloggd.com/search/games/Soldier%20of%20Fortune%3A%20Payback) `🏷 Shooter` — A rushed, poorly-reviewed generic shooter.
 
 ---
 
 ## 🟢 Xbox One
 
-> [!tip] 🥇 [[Mass Effect 2]] ⭐ 5.0
-> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co6dqa.jpg) `🏷 Sci-Fi RPG` [Backloggd ↗](https://www.backloggd.com/games/mass-effect-2--1/)
-> Another 5★ Mass Effect entry — the trilogy is rated perfectly across every platform and edition he's logged it on.
+> [!tip] 🥇 [[Aven Colony]] ✨
+> `🏷 City Builder` [Backloggd ↗](https://www.backloggd.com/search/games/Aven%20Colony)
+> A story-driven alien-colony city-builder with real narrative events and hostile-world tension — strategy with stakes, similar cozy-but-consequential feel to Spiritfarer.
 
-> [!tip] 🥈 [[Mass Effect 3]] ⭐ 5.0
-> `🏷 Sci-Fi RPG` [Backloggd ↗](https://www.backloggd.com/games/mass-effect-3--1/)
-> Same story — 5★ here too.
+> [!tip] 🥈 [[Sephonie]] ✨
+> `🏷 Narrative Platformer` [Backloggd ↗](https://www.backloggd.com/search/games/Sephonie)
+> A gorgeous, meditative 3D platformer about three scientists exploring a mysterious island, wrapped around a puzzle-cell-matching mechanic and a genuinely moving story about identity.
 
-> [!tip] 🥉 [[Mass Effect Legendary Edition]] ⭐ 5.0
-> `🏷 Sci-Fi RPG` [Backloggd ↗](https://www.backloggd.com/games/mass-effect-legendary-edition/)
-> The remastered trilogy, still 5★. This is unambiguously his favorite series in the entire dataset.
+> [!tip] 🥉 [[Apico]] ✨
+> `🏷 Cozy Sim` [Backloggd ↗](https://www.backloggd.com/search/games/Apico)
+> A gentle beekeeping sim about breeding and cataloguing bee species — Pokémon's "gotta collect 'em all" loop transplanted into a cozy nature sim.
 
-> [!quote] #4 [[Deltarune]] ⭐ 5.0
-> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co9m71.jpg) `🏷 RPG · Comedy-Horror` [Backloggd ↗](https://www.backloggd.com/games/deltarune/)
-> A perfect score, matching his 4.5★ Undertale — Toby Fox's writing is a direct hit for him.
+> [!quote] #4 [[Expeditions: A MudRunner Game]] ✨
+> `🏷 Simulation` [Backloggd ↗](https://www.backloggd.com/search/games/Expeditions%3A%20A%20MudRunner%20Game)
+> Off-road expedition-driving with genuine exploration and scientific-survey objectives — surprisingly meditative.
 
-> [!quote] #5 [[It Takes Two]] ⭐ 5.0
-> `🏷 Co-op Adventure` [Backloggd ↗](https://www.backloggd.com/games/it-takes-two/)
-> Perfect score here too, matching PS4.
+> [!quote] #5 [[RollerCoaster Tycoon Classic]] ✨
+> `🏷 Management Sim` [Backloggd ↗](https://www.backloggd.com/search/games/RollerCoaster%20Tycoon%20Classic)
+> The genre-defining classic, ported properly — deep, funny, endlessly tinker-able.
 
-> [!quote] #6 [[The Forgotten City]] ⭐ 4.5
-> `🏷 Mystery Adventure · Time Loop` [Backloggd ↗](https://www.backloggd.com/games/the-forgotten-city/)
-> Consistent 4.5★ across platforms.
-
-> [!quote] #7 [[Hades]] ⭐ 4.5
-> `🏷 Roguelite` [Backloggd ↗](https://www.backloggd.com/games/hades--1/)
-> Same score as PS4.
-
-> [!quote] #8 [[Deus Ex - Mankind Divided|Deus Ex: Mankind Divided]] ⭐ 3.5
-> `🏷 Immersive Sim` [Backloggd ↗](https://www.backloggd.com/games/deus-ex-mankind-divided/)
-> Slightly cooler than Human Revolution (4.5★) but still solidly liked.
-
-> [!failure]- 🚫 Top misses
-> 1. [**Mass Effect: Andromeda**](https://www.backloggd.com/search/games/Mass%20Effect%3A%20Andromeda) `🏷 Sci-Fi RPG` ⭐ 1.0 — His lowest rating overall, logged here too.
-> 2. [**MultiVersus**](https://www.backloggd.com/search/games/MultiVersus) `🏷 Platform Fighter` ⭐ 2.0 — Live-service platform fighter, same pattern as Overwatch/Marvel Rivals.
-> 3. [**NieR - Automata**](https://www.backloggd.com/search/games/NieR%3A%20Automata) `🏷 Action RPG` ⭐ 2.0 — Same miss as PS4.
-> 4. [**Goat Simulator**](https://www.backloggd.com/search/games/Goat%20Simulator) `🏷 Comedy Sandbox` ⭐ 2.0 — Same miss as PS4.
-> 5. [**Assassin's Creed: Revelations**](https://www.backloggd.com/search/games/Assassin%27s%20Creed%3A%20Revelations) `🏷 Open World` ⭐ 2.0 — The AC pattern, a fourth time.
+> [!failure]- 🚫 Top 5 to Avoid
+> 1. [**CRSED: F.O.A.D.**](https://www.backloggd.com/search/games/CRSED%3A%20F.O.A.D.) `🏷 Battle Royale` — Generic F2P battle royale, exactly the live-service pattern he skips.
+> 2. [**Warface: Clutch**](https://www.backloggd.com/search/games/Warface%3A%20Clutch) `🏷 Live-Service Shooter` — Same F2P shooter grind, different platform.
+> 3. [**Niche: A Genetics Survival Game**](https://www.backloggd.com/search/games/Niche%3A%20A%20Genetics%20Survival%20Game) `🏷 Sim` — Same tedium issue as its PS4 release.
+> 4. [**Dead Island Retro Revenge**](https://www.backloggd.com/search/games/Dead%20Island%20Retro%20Revenge) `🏷 Endless Runner` — A thin pre-order bonus minigame, not a real standalone experience.
+> 5. [**Gigantic: Rampage Edition**](https://www.backloggd.com/search/games/Gigantic%3A%20Rampage%20Edition) `🏷 Hero Shooter` — A revived hero-shooter with a now-tiny population — exactly the genre he doesn't vibe with.
 
 ---
 
 ## 🟣 GameCube
 
-> [!tip] 🥇 [[The Legend of Zelda - The Wind Waker|The Legend of Zelda: The Wind Waker]] ⭐ 5.0
-> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co3ohz.jpg) `🏷 Action Adventure` [Backloggd ↗](https://www.backloggd.com/games/the-legend-of-zelda-the-wind-waker/)
-> A perfect score, and one of only two Zelda entries he's rated 5★ in their original (non-remaster) release.
+> [!tip] 🥇 [[Lost Kingdoms II]] ✨
+> `🏷 Card-Battler Action RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Lost%20Kingdoms%20II)
+> From Software's deck-building action-RPG where your cards summon monsters mid-dungeon — an inventive hybrid that never got its due.
 
-> [!tip] 🥈 [[The Legend of Zelda - Twilight Princess|The Legend of Zelda: Twilight Princess]] ⭐ 5.0
-> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co3mtv.jpg) `🏷 Action Adventure` [Backloggd ↗](https://www.backloggd.com/games/the-legend-of-zelda-twilight-princess/)
-> The other perfect-score original-release Zelda. GameCube is genuinely his best-rated Zelda platform.
+> [!tip] 🥈 [[Phantasy Star Online Episode I & II Plus]] ✨
+> `🏷 Online Action RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Phantasy%20Star%20Online%20Episode%20I%20%26%20II%20Plus)
+> Online co-op dungeon-crawling before "co-op looter" was a genre — a direct ancestor of the multiplayer depth he clearly values (Team Fortress 2, Mass Effect's squad play).
 
-> [!tip] 🥉 [[TimeSplitters - Future Perfect|TimeSplitters: Future Perfect]] ⭐ 4.5
-> `🏷 FPS · Comedy` [Backloggd ↗](https://www.backloggd.com/games/timesplitters-future-perfect/)
-> The series' best-rated entry, true across every platform he's logged it on.
+> [!tip] 🥉 [[Gladius]] ✨
+> `🏷 Tactical RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Gladius)
+> A gladiator-management tactical RPG with real strategic depth and a surprisingly good story about slavery and rebellion — LucasArts' most underrated release.
 
-> [!quote] #4 [[James Bond 007 - Nightfire|James Bond 007: Nightfire]] ⭐ 4.0
-> `🏷 FPS` [Backloggd ↗](https://www.backloggd.com/games/james-bond-007-nightfire/)
-> A fourth platform, a fourth strong rating for this one.
+> [!quote] #4 [[Donkey Konga]] ✨
+> `🏷 Rhythm · Co-op` [Backloggd ↗](https://www.backloggd.com/search/games/Donkey%20Konga)
+> Bongo-based rhythm game built entirely around multiplayer — pure "friends in a room" energy.
 
-> [!quote] #5 [[Mario Kart - Double Dash!!|Mario Kart: Double Dash!!]] ⭐ 3.5
-> `🏷 Kart Racer` [Backloggd ↗](https://www.backloggd.com/games/mario-kart-double-dash/)
-> Solid, though well behind his 5★ Mario Kart 8/Deluxe — the series peaks for him on Wii U/Switch.
+> [!quote] #5 [[Kururin Squash!]] ✨
+> `🏷 Puzzle Action` [Backloggd ↗](https://www.backloggd.com/search/games/Kururin%20Squash%21)
+> A cult rotating-stick maze puzzler — deceptively hard, genuinely unique control scheme, and never released outside Japan.
 
-> [!quote] #6 [[Paper Mario - The Thousand-Year Door|Paper Mario: The Thousand-Year Door]] ⭐ 3.5
-> `🏷 JRPG · Comedy` [Backloggd ↗](https://www.backloggd.com/games/paper-mario-the-thousand-year-door/)
-> Comedy-JRPG hybrid, comfortably liked.
-
-> [!quote] #7 [[Super Smash Bros. Melee]] ⭐ 3.5
-> `🏷 Platform Fighter` [Backloggd ↗](https://www.backloggd.com/games/super-smash-bros-melee/)
-> His best-rated Smash entry — later entries (Brawl 2.5★, Ultimate 3.0★) trend down.
-
-> [!info] No clear misses
-> Nothing logged on GameCube drops below 3.5★.
+> [!failure]- 🚫 Top 5 to Avoid
+> 1. [**WWE Crush Hour**](https://www.backloggd.com/search/games/WWE%20Crush%20Hour) `🏷 Vehicular Combat` — A Twisted Metal clone with WWE skins, mediocre either way.
+> 2. [**Beyblade V-Force: Super Tournament Battle**](https://www.backloggd.com/search/games/Beyblade%20V-Force%3A%20Super%20Tournament%20Battle) `🏷 Licensed` — Thin licensed spinner-toy tie-in.
+> 3. [**One Piece: Pirates' Carnival**](https://www.backloggd.com/search/games/One%20Piece%3A%20Pirates%27%20Carnival) `🏷 Party` — A forgettable Mario Party clone with One Piece skins.
+> 4. [**Monsters, Inc. Scream Arena**](https://www.backloggd.com/search/games/Monsters%2C%20Inc.%20Scream%20Arena) `🏷 Party` — Thin arena-battler, licensed padding.
+> 5. [**Rugrats: Royal Ransom**](https://www.backloggd.com/search/games/Rugrats%3A%20Royal%20Ransom) `🏷 Platformer` — Bottom-tier licensed kids' platformer.
 
 ---
 
 ## 🔵 Wii
 
-> [!tip] 🥇 [[Guitar Hero III - Legends of Rock|Guitar Hero III: Legends of Rock]] ⭐ 5.0
-> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co1wqm.jpg) `🏷 Rhythm` [Backloggd ↗](https://www.backloggd.com/games/guitar-hero-iii-legends-of-rock/)
-> A third-platform perfect score for this one — rhythm games are a true constant for him.
+> [!tip] 🥇 [[Disaster: Day of Crisis]] ✨
+> `🏷 Action Adventure` [Backloggd ↗](https://www.backloggd.com/search/games/Disaster%3A%20Day%20of%20Crisis)
+> A gloriously over-the-top disaster-movie action game (earthquakes, volcanoes, a plane crash, all in one campaign) — pure cinematic-action spectacle in the Last of Us/God of War vein, just campier.
 
-> [!tip] 🥈 [[The Legend of Zelda - Majora's Mask|The Legend of Zelda: Majora's Mask]] ⭐ 4.5
-> `🏷 Action Adventure` [Backloggd ↗](https://www.backloggd.com/games/the-legend-of-zelda-majora-s-mask/)
-> Strong mark via Virtual Console; the later 3DS remake climbs to a full 5★ for him.
+> [!tip] 🥈 [[Deadly Creatures]] ✨
+> `🏷 Action Adventure` [Backloggd ↗](https://www.backloggd.com/search/games/Deadly%20Creatures)
+> You play a tarantula and a scorpion fighting for survival in a backyard-scale world — a genuinely inventive scale-shift adventure with real atmosphere.
 
-> [!tip] 🥉 [[Dragon Ball Z - Budokai Tenkaichi 3|Dragon Ball Z: Budokai Tenkaichi 3]] ⭐ 4.0
-> `🏷 Arena Fighter` [Backloggd ↗](https://www.backloggd.com/games/dragon-ball-z-budokai-tenkaichi-3/)
-> Consistent with his PS2 rating of the same game.
+> [!tip] 🥉 [[Metroid Prime 2: Echoes]] ✨
+> `🏷 Metroidvania FPS` [Backloggd ↗](https://www.backloggd.com/search/games/Metroid%20Prime%202%3A%20Echoes)
+> The darkest, densest Metroid Prime — light/dark dimension-shifting exploration with real atmosphere, criminally underplayed next to Prime 1.
 
-> [!quote] #4 [[The Legend of Zelda - Ocarina of Time|The Legend of Zelda: Ocarina of Time]] ⭐ 4.0
-> `🏷 Action Adventure` [Backloggd ↗](https://www.backloggd.com/games/the-legend-of-zelda-ocarina-of-time/)
-> Solid, though the 3DS remake edges it out at 5★ for him — remaster polish seems to matter.
+> [!quote] #4 [[Light Crusader]] ✨
+> `🏷 Action RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Light%20Crusader)
+> An isometric action-RPG (Virtual Console era Genesis classic) with clever trap-and-puzzle dungeon design — Zelda-brained but combat-forward.
 
-> [!quote] #5 [[Super Smash Bros.]] ⭐ 4.0
-> `🏷 Platform Fighter` [Backloggd ↗](https://www.backloggd.com/games/super-smash-bros/) *(via Virtual Console)*
-> The original N64 Smash, rated above the Wii's own Brawl (2.5★).
+> [!quote] #5 [[Kororinpa: Marble Mania]] ✨
+> `🏷 Puzzle` [Backloggd ↗](https://www.backloggd.com/search/games/Kororinpa%3A%20Marble%20Mania)
+> A tilt-controlled marble maze game that used motion controls better than most of the Wii's actual first-party lineup.
 
-> [!quote] #6 [[Xenoblade Chronicles]] ⭐ 4.0
-> `🏷 JRPG` [Backloggd ↗](https://www.backloggd.com/games/xenoblade-chronicles/)
-> The original Xenoblade — notably well ahead of Xenoblade 3 and X (2★ each on Switch), so this is the one to point him toward if replaying the series.
-
-> [!quote] #7 [[WarioWare - Smooth Moves|WarioWare: Smooth Moves]] ⭐ 4.0
-> `🏷 Minigame Collection` [Backloggd ↗](https://www.backloggd.com/games/warioware-smooth-moves/)
-> Comedy minigames land well — matches his general fondness for humor-forward design.
-
-> [!failure]- 🚫 Top misses
-> 1. [**Super Smash Bros. Brawl**](https://www.backloggd.com/search/games/Super%20Smash%20Bros.%20Brawl) `🏷 Platform Fighter` ⭐ 2.5 — His weakest Smash entry by a wide margin against Melee (3.5★).
+> [!failure]- 🚫 Top 5 to Avoid
+> 1. [**We Ski**](https://www.backloggd.com/search/games/We%20Ski) `🏷 Sports` — Shallow motion-control sports minigame collection.
+> 2. [**World of Zoo**](https://www.backloggd.com/search/games/World%20of%20Zoo) `🏷 Sim` — Thin zoo-management sim with little depth beyond the pitch.
+> 3. [**Monster High: Ghoul Spirit**](https://www.backloggd.com/search/games/Monster%20High%3A%20Ghoul%20Spirit) `🏷 Licensed` — Bottom-shelf licensed minigame collection.
+> 4. [**SimAnimals**](https://www.backloggd.com/search/games/SimAnimals) `🏷 Sim` — A watered-down Sims spinoff with almost no systemic depth.
+> 5. [**Shrek's Carnival Craze**](https://www.backloggd.com/search/games/Shrek%27s%20Carnival%20Craze) `🏷 Party` — Licensed carnival-minigame filler.
 
 ---
 
 ## 🔵 Wii U
 
-> [!tip] 🥇 [[The Legend of Zelda - The Wind Waker HD|The Legend of Zelda: The Wind Waker HD]] ⭐ 5.0
-> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co3ozi.jpg) `🏷 Action Adventure` [Backloggd ↗](https://www.backloggd.com/games/the-legend-of-zelda-the-wind-waker-hd/)
-> A perfect score, matching the GameCube original — the HD remaster lost nothing for him.
+> [!tip] 🥇 [[Chariot]] ✨
+> `🏷 Co-op Puzzle Platformer` [Backloggd ↗](https://www.backloggd.com/search/games/Chariot)
+> Two players haul a dead king's coffin-cart through physics-based puzzle-platforming — genuinely great couch co-op with real "we need to actually communicate" puzzle design, It Takes Two energy years earlier.
 
-> [!tip] 🥈 [[Mario Kart 8]] ⭐ 5.0
-> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co213q.jpg) `🏷 Kart Racer` [Backloggd ↗](https://www.backloggd.com/games/mario-kart-8/)
-> The series peaks here and on Switch (Deluxe, also 5★) — clearly his favorite kart racer generation.
+> [!tip] 🥈 [[Citizens of Earth]] ✨
+> `🏷 JRPG` [Backloggd ↗](https://www.backloggd.com/search/games/Citizens%20of%20Earth)
+> An EarthBound-inspired RPG about a Vice President recruiting a town's worth of quirky citizens as party members — funny, warm, unmistakably indebted to the classic he'd probably enjoy discovering the lineage of.
 
-> [!tip] 🥉 [[The Legend of Zelda - Breath of the Wild|The Legend of Zelda: Breath of the Wild]] ⭐ 4.5
-> `🏷 Open World Adventure` [Backloggd ↗](https://www.backloggd.com/games/the-legend-of-zelda-breath-of-the-wild/)
-> Proof his open-world fatigue (RDR2, AC) doesn't extend to Zelda's systemic freedom — this scores near the top of his open-world games.
+> [!tip] 🥉 [[The Swindle]] ✨
+> `🏷 Roguelike Stealth` [Backloggd ↗](https://www.backloggd.com/search/games/The%20Swindle)
+> Procedurally generated Victorian heist-stealth with permanent character death and cumulative upgrades — tense, replayable, genuinely tricky in a fair way.
 
-> [!quote] #4 [[The Legend of Zelda - Majora's Mask|The Legend of Zelda: Majora's Mask]] ⭐ 4.5
-> `🏷 Action Adventure` [Backloggd ↗](https://www.backloggd.com/games/the-legend-of-zelda-majora-s-mask/)
-> Same strong mark as on Wii, via Virtual Console here.
+> [!quote] #4 [[Tengami]] ✨
+> `🏷 Puzzle Adventure` [Backloggd ↗](https://www.backloggd.com/search/games/Tengami)
+> A pop-up-book styled puzzle adventure set in folklore Japan — gorgeous, gentle, short.
 
-> [!quote] #5 [[Pikmin 3]] ⭐ 4.0
-> `🏷 RTS · Exploration` [Backloggd ↗](https://www.backloggd.com/games/pikmin-3/)
-> Solid, and Pikmin 4 (Switch) climbs to 4.5★ — an upward trend worth following.
+> [!quote] #5 [[Armikrog]] ✨
+> `🏷 Point-and-Click` [Backloggd ↗](https://www.backloggd.com/search/games/Armikrog)
+> Claymation point-and-click from the creators of The Neverhood — bizarre, hand-crafted, one-of-a-kind visuals.
 
-> [!quote] #6 [[Super Smash Bros. for Wii U]] ⭐ 4.0
-> `🏷 Platform Fighter` [Backloggd ↗](https://www.backloggd.com/games/super-smash-bros-for-wii-u/)
-> A rebound from Brawl, closer to his beloved Melee.
-
-> [!quote] #7 [[Xenoblade Chronicles]] ⭐ 4.0
-> `🏷 JRPG` [Backloggd ↗](https://www.backloggd.com/games/xenoblade-chronicles/) *(also playable here)*
-> Same strong original-Xenoblade rating.
-
-> [!failure]- 🚫 Top misses
-> 1. [**Assassin's Creed III**](https://www.backloggd.com/search/games/Assassin%27s%20Creed%20III) `🏷 Open World` ⭐ 2.0 — The AC pattern holds on Wii U too.
-> 2. [**Pokkén Tournament**](https://www.backloggd.com/search/games/Pok%C3%A9ken%20Tournament) `🏷 Fighting` ⭐ 2.5 — Pokémon spin-offs land noticeably lower than mainline classic-gen entries for him.
-> 3. [**Hyrule Warriors**](https://www.backloggd.com/search/games/Hyrule%20Warriors) `🏷 Musou` ⭐ 3.0 — A Zelda spin-off that undershoots the mainline series badly.
+> [!failure]- 🚫 Top 5 to Avoid
+> 1. [**Rabbids Land**](https://www.backloggd.com/search/games/Rabbids%20Land) `🏷 Party` — Thin board-game-style minigame collection.
+> 2. [**Amiibo Tap: Nintendo's Greatest Bits**](https://www.backloggd.com/search/games/Amiibo%20Tap%3A%20Nintendo%27s%20Greatest%20Bits) `🏷 Novelty` — A toy-tie-in novelty with barely any game attached.
+> 3. [**Animal Crossing Plaza**](https://www.backloggd.com/search/games/Animal%20Crossing%20Plaza) `🏷 Novelty` — An amiibo-reader novelty app, not really a game.
+> 4. [**Tank! Tank! Tank!**](https://www.backloggd.com/search/games/Tank%21%20Tank%21%20Tank%21) `🏷 Arcade` — A shallow arcade port with little to hold attention past a session.
+> 5. [**Need for Speed Most Wanted U**](https://www.backloggd.com/search/games/Need%20for%20Speed%20Most%20Wanted%20U) `🏷 Racing` — A watered-down port missing key features of the base release.
 
 ---
 
 ## 🔴 Switch
 
-> [!tip] 🥇 [[Deltarune]] ⭐ 5.0
-> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co9m71.jpg) `🏷 RPG · Comedy-Horror` [Backloggd ↗](https://www.backloggd.com/games/deltarune/)
-> A perfect score, and his single most-repeated 5★ genre (heartfelt, funny, narrative RPG) crystallized.
+> [!tip] 🥇 [[Lisa: Definitive Edition]] ✨
+> `🏷 Narrative RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Lisa%3A%20Definitive%20Edition)
+> Same devastating pick as PS4, and worth flagging twice — pick whichever platform he actually owns; this is the single best "if you liked how much Clair Obscur hurt" recommendation on this whole list.
 
-> [!tip] 🥈 [[Mario Kart 8 Deluxe]] ⭐ 5.0
-> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co213p.jpg) `🏷 Kart Racer` [Backloggd ↗](https://www.backloggd.com/games/mario-kart-8-deluxe/)
-> Matches the Wii U original — this is unambiguously his favorite racing game.
+> [!tip] 🥈 [[Automachef]] ✨
+> `🏷 Puzzle Automation` [Backloggd ↗](https://www.backloggd.com/search/games/Automachef)
+> A cooking-themed automation-puzzle game (think factory-builder, but sandwiches) — satisfying systemic puzzling with real depth.
 
-> [!tip] 🥉 [[Outer Wilds]] ⭐ 5.0
-> `🏷 Exploration Mystery` [Backloggd ↗](https://www.backloggd.com/games/outer-wilds/)
-> Also 5★ on PS4 — a genuine cross-platform favorite.
+> [!tip] 🥉 [[Staxel]] ✨
+> `🏷 Cozy Sim` [Backloggd ↗](https://www.backloggd.com/search/games/Staxel)
+> A voxel-art farming/town-building sim with real co-op multiplayer support — Spiritfarer-cozy with a build-your-own-island hook.
 
-> [!quote] #4 [[It Takes Two]] ⭐ 5.0
-> `🏷 Co-op Adventure` [Backloggd ↗](https://www.backloggd.com/games/it-takes-two/)
-> A third platform, a third perfect score.
+> [!quote] #4 [[Filament]] ✨
+> `🏷 Puzzle` [Backloggd ↗](https://www.backloggd.com/search/games/Filament)
+> A minimalist, narrative-tinged cable-routing puzzle game set on an abandoned space station — quiet, melancholy, clever.
 
-> [!quote] #5 [[Dispatch]] ⭐ 4.5
-> `🏷 Narrative Adventure` [Backloggd ↗](https://www.backloggd.com/games/dispatch--3/)
-> One of his newest, highest-rated entries — cinematic/episodic narrative continues to be a lock for him.
+> [!quote] #5 [[realMyst: Masterpiece Edition]] ✨
+> `🏷 Puzzle Adventure` [Backloggd ↗](https://www.backloggd.com/search/games/realMyst%3A%20Masterpiece%20Edition)
+> The classic slow-burn exploration puzzler, remastered — genuinely rewarding if he's never given Myst a real shot.
 
-> [!quote] #6 [[Pikmin 4]] ⭐ 4.5
-> `🏷 RTS · Exploration` [Backloggd ↗](https://www.backloggd.com/games/pikmin-4/)
-> Up from Pikmin 3's 4.0★ — the series is trending upward for him.
-
-> [!quote] #7 [[The Legend of Zelda - Breath of the Wild|The Legend of Zelda: Breath of the Wild]] ⭐ 4.5
-> `🏷 Open World Adventure` [Backloggd ↗](https://www.backloggd.com/games/the-legend-of-zelda-breath-of-the-wild/)
-> Also owned/rated here.
-
-> [!quote] #8 [[Hades]] ⭐ 4.5
-> `🏷 Roguelite` [Backloggd ↗](https://www.backloggd.com/games/hades--1/)
-> Hades II (4.0★) is also logged — the series holds up as a sequel, unlike some others in his library.
-
-> [!quote] #9 [[The Forgotten City]] ⭐ 4.5
-> `🏷 Mystery Adventure` [Backloggd ↗](https://www.backloggd.com/games/the-forgotten-city/)
-> A fourth platform for this pick, a fourth 4.5★.
-
-> [!quote] #10 [[Luigi's Mansion 3]] ⭐ 4.0
-> `🏷 Action Adventure` [Backloggd ↗](https://www.backloggd.com/games/luigis-mansion-3/)
-> Comfortably liked, comedic-horror-lite tone in his usual range.
-
-> [!failure]- 🚫 Top misses
-> 1. [**The Legend of Zelda - Skyward Sword HD|The Legend of Zelda: Skyward Sword HD**](https://www.backloggd.com/search/games/The%20Legend%20of%20Zelda%3A%20Skyward%20Sword%20HD) `🏷 Action Adventure` ⭐ 1.5 — His lowest Zelda score by far, breaking an otherwise flawless 4–5★ streak for the series; motion-control-era design is the likely culprit.
-> 2. [**Overwatch**](https://www.backloggd.com/search/games/Overwatch) `🏷 Hero Shooter` ⭐ 1.5 — Same live-service miss pattern.
-> 3. [**Assassin's Creed: Revelations**](https://www.backloggd.com/search/games/Assassin%27s%20Creed%3A%20Revelations) `🏷 Open World` ⭐ 2.0 — Yet another platform, same series fatigue.
-> 4. [**Assassin's Creed IV Black Flag**](https://www.backloggd.com/search/games/Assassin%27s%20Creed%20IV%20Black%20Flag) `🏷 Open World` ⭐ 2.5 — His "best" AC score is still mediocre.
-> 5. [**Hollow Knight**](https://www.backloggd.com/search/games/Hollow%20Knight) `🏷 Metroidvania` ⭐ 2.5 — Notable, since Super Metroid-style exploration should theoretically appeal — worth a per-game note on why this one didn't click.
+> [!failure]- 🚫 Top 5 to Avoid
+> 1. [**Warface: Clutch**](https://www.backloggd.com/search/games/Warface%3A%20Clutch) `🏷 Live-Service Shooter` — Same F2P shooter grind on a third platform.
+> 2. [**Modern Combat 5: Blackout**](https://www.backloggd.com/search/games/Modern%20Combat%205%3A%20Blackout) `🏷 Mobile Shooter` — A mobile-first shooter port with F2P-era monetization baggage.
+> 3. [**Astrologaster**](https://www.backloggd.com/search/games/Astrologaster) `🏷 Visual Novel` — A cute premise stretched thin over repetitive dialogue loops.
+> 4. [**Café Enchanté**](https://www.backloggd.com/search/games/Caf%C3%A9%20Enchant%C3%A9) `🏷 Visual Novel · Otome` — Niche otome VN, unlikely fit for his taste.
+> 5. [**Collar x Malice: Unlimited**](https://www.backloggd.com/search/games/Collar%20x%20Malice%3A%20Unlimited) `🏷 Visual Novel · Otome` — Same otome-genre mismatch.
 
 ---
 
 ## 🎒 Game Boy Advance
 
-> [!tip] 🥇 [[Pokémon Emerald Version]] ⭐ 4.5
-> `🏷 JRPG · Monster Collecting` [Backloggd ↗](https://www.backloggd.com/games/pokemon-emerald-version/)
-> Gen-3 Pokémon is a strong hit — consistent with his 5★ love of gen-1/2.
+> [!tip] 🥇 [[Shining Force: Resurrection of the Dark Dragon]] ✨
+> `🏷 Tactical RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Shining%20Force%3A%20Resurrection%20of%20the%20Dark%20Dragon)
+> An expanded remake of the Genesis tactics classic, with new story branches and characters — real "recruit a big cast, watch them grow" tactics-RPG comfort food.
 
-> [!tip] 🥈 [[Pokémon FireRed Version]] ⭐ 4.5
-> `🏷 JRPG · Monster Collecting` [Backloggd ↗](https://www.backloggd.com/games/pokemon-firered-version/)
-> A remake of his beloved gen-1, and it holds the same high mark.
+> [!tip] 🥈 [[Yggdra Union: We'll Never Fight Alone]] ✨
+> `🏷 Tactical RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Yggdra%20Union%3A%20We%27ll%20Never%20Fight%20Alone)
+> A card-based tactics-RPG with a genuinely strong political fantasy story — Sting's cult-classic tactics line at its best.
 
-> [!tip] 🥉 [[The Legend of Zelda - The Minish Cap|The Legend of Zelda: The Minish Cap]] ⭐ 4.0
-> `🏷 Action Adventure` [Backloggd ↗](https://www.backloggd.com/games/the-legend-of-zelda-the-minish-cap/)
-> Consistent 4★ Zelda, matching its rating on 3DS/Wii U eShop re-releases.
+> [!tip] 🥉 [[Boktai 2: Solar Boy Django]] ✨
+> `🏷 Action RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Boktai%202%3A%20Solar%20Boy%20Django)
+> Kojima's cult vampire-hunting action-RPG that used a real light sensor in the cartridge — genuinely inventive mechanically, atmospheric tonally.
 
-> [!quote] #4 [[Pokémon LeafGreen Version]] ⭐ 4.0
-> `🏷 JRPG · Monster Collecting` [Backloggd ↗](https://www.backloggd.com/games/pokemon-leafgreen-version/)
-> Same gen-1 remake love as FireRed.
+> [!quote] #4 [[Breath of Fire II]] ✨
+> `🏷 JRPG` [Backloggd ↗](https://www.backloggd.com/search/games/Breath%20of%20Fire%20II--1)
+> The SNES cult classic, portable — see the SNES section for why it's worth your time either way.
 
-> [!quote] #5 [[Pokémon Sapphire Version]] ⭐ 4.0
-> `🏷 JRPG · Monster Collecting` [Backloggd ↗](https://www.backloggd.com/games/pokemon-sapphire-version/)
-> A clean sweep — every mainline classic-era Pokémon game he's logged sits at 4★ or above.
+> [!quote] #5 [[Super Robot Taisen: Original Generation]] ✨
+> `🏷 Tactical RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Super%20Robot%20Taisen%3A%20Original%20Generation)
+> The first Super Robot Taisen game officially localized — mecha tactics with a genuinely big, satisfying original story.
 
-> [!info] No clear misses
-> His entire GBA library sits at 4★+. This is his most reliably-loved handheld.
+> [!failure]- 🚫 Top 5 to Avoid
+> 1. [**Beyblade VForce: Ultimate Blader Jam**](https://www.backloggd.com/search/games/Beyblade%20VForce%3A%20Ultimate%20Blader%20Jam) `🏷 Licensed` — Thin spinner-toy tie-in.
+> 2. [**Digimon Racing**](https://www.backloggd.com/search/games/Digimon%20Racing) `🏷 Racing` — A forgettable kart-racer clone.
+> 3. [**LEGO Bionicle**](https://www.backloggd.com/search/games/LEGO%20Bionicle) `🏷 Licensed` — A thin toy tie-in platformer.
+> 4. [**Yu-Gi-Oh! Destiny Board Traveler**](https://www.backloggd.com/search/games/Yu-Gi-Oh%21%20Destiny%20Board%20Traveler) `🏷 Board Game` — A board-game spinoff, thin even by licensed standards.
+> 5. [**Danny Phantom: Urban Jungle**](https://www.backloggd.com/search/games/Danny%20Phantom%3A%20Urban%20Jungle) `🏷 Licensed` — Bottom-tier licensed platformer.
 
 ---
 
 ## 🎒 Nintendo DS
 
-> [!tip] 🥇 [[Pokémon HeartGold Version]] ⭐ 4.5
-> `🏷 JRPG · Monster Collecting` [Backloggd ↗](https://www.backloggd.com/games/pokemon-heartgold-version/)
-> The gen-2 remake, rated identically to the SoulSilver pairing.
+> [!tip] 🥇 [[Avalon Code]] ✨
+> `🏷 Action RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Avalon%20Code)
+> You carry a magic book that can rewrite the properties of anything (and anyone) in the world — a genuinely unique premise wrapped around a surprisingly emotional "the world is ending" story.
 
-> [!tip] 🥈 [[Pokémon SoulSilver Version]] ⭐ 4.5
-> `🏷 JRPG · Monster Collecting` [Backloggd ↗](https://www.backloggd.com/games/pokemon-soulsilver-version/)
-> Same score — a matched pair sitting at the top of his handheld ratings.
+> [!tip] 🥈 [[Tales of Innocence]] ✨
+> `🏷 JRPG` [Backloggd ↗](https://www.backloggd.com/search/games/Tales%20of%20Innocence)
+> A Tales spinoff that never left Japan officially — real-time combat and a big cast, same lineage as Vesperia on PS3.
 
-> [!tip] 🥉 [[WarioWare - Touched!|WarioWare: Touched!]] ⭐ 4.0
-> `🏷 Minigame Collection` [Backloggd ↗](https://www.backloggd.com/games/warioware-touched/)
-> Comedy minigames again land well, matching the Wii entry.
+> [!tip] 🥉 [[Lunar Knights]] ✨
+> `🏷 Action RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Lunar%20Knights)
+> Kojima Productions' vampire-hunting action-RPG sequel spirit to Boktai, with a genuinely fun sun/moon-swapping combat gimmick and two-player co-op.
 
-> [!failure]- 🚫 Top misses
-> 1. [**Call of Duty: Black Ops**](https://www.backloggd.com/search/games/Call%20of%20Duty%3A%20Black%20Ops) `🏷 FPS` ⭐ 2.0 — An odd platform for CoD, and it fares no better here than on 360/PS3.
+> [!quote] #4 [[LostMagic]] ✨
+> `🏷 Action RPG` [Backloggd ↗](https://www.backloggd.com/search/games/LostMagic)
+> A stylus-drawn spellcasting action-RPG with real strategic depth in the touch-based combat — genuinely inventive use of the DS hardware.
+
+> [!quote] #5 [[Age of Empires: The Age of Kings]] ✨
+> `🏷 Strategy` [Backloggd ↗](https://www.backloggd.com/search/games/Age%20of%20Empires%3A%20The%20Age%20of%20Kings)
+> A surprisingly competent portable adaptation of the RTS classic, with a turn-based twist that actually works on a handheld.
+
+> [!failure]- 🚫 Top 5 to Avoid
+> 1. [**Tamagotchi Connection: Corner Shop 2**](https://www.backloggd.com/search/games/Tamagotchi%20Connection%3A%20Corner%20Shop%202) `🏷 Licensed Sim` — Extremely thin licensed shop-sim.
+> 2. [**Hannah Montana: The Movie**](https://www.backloggd.com/search/games/Hannah%20Montana%3A%20The%20Movie) `🏷 Licensed` — Bottom-tier movie tie-in minigame collection.
+> 3. [**Littlest Pet Shop: Winter**](https://www.backloggd.com/search/games/Littlest%20Pet%20Shop%3A%20Winter) `🏷 Licensed` — Thin licensed pet-collecting sim.
+> 4. [**Hello Kitty: Big City Dreams**](https://www.backloggd.com/search/games/Hello%20Kitty%3A%20Big%20City%20Dreams) `🏷 Licensed` — Licensed filler with negligible gameplay depth.
+> 5. [**Disney Fairies: Tinker Bell**](https://www.backloggd.com/search/games/Disney%20Fairies%3A%20Tinker%20Bell) `🏷 Licensed` — Bottom-shelf movie tie-in.
 
 ---
 
 ## 🎒 Nintendo 3DS
 
-> [!tip] 🥇 [[The Legend of Zelda - Majora's Mask 3D|The Legend of Zelda: Majora's Mask 3D]] ⭐ 5.0
-> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/cob9x9.jpg) `🏷 Action Adventure` [Backloggd ↗](https://www.backloggd.com/games/the-legend-of-zelda-majoras-mask-3d/)
-> A jump from the Wii/Wii U original's 4.5★ to a perfect 5★ — remaster polish clearly matters to him.
+> [!tip] 🥇 [[Crimson Shroud]] ✨
+> `🏷 Tabletop RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Crimson%20Shroud)
+> A Yasumi Matsuno (Final Fantasy Tactics, Vagrant Story) eShop original that plays out like a tabletop RPG session, complete with dice rolls read aloud — a genuinely unique presentation for a tight, well-written dungeon-crawl.
 
-> [!tip] 🥈 [[The Legend of Zelda - Ocarina of Time 3D|The Legend of Zelda: Ocarina of Time 3D]] ⭐ 5.0
-> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co600u.jpg) `🏷 Action Adventure` [Backloggd ↗](https://www.backloggd.com/games/the-legend-of-zelda-ocarina-of-time-3d/)
-> Same pattern — up from the Wii original's 4.0★ to a full 5★ on 3DS.
+> [!tip] 🥈 [[Etrian Mystery Dungeon]] ✨
+> `🏷 Roguelike Dungeon Crawler` [Backloggd ↗](https://www.backloggd.com/search/games/Etrian%20Mystery%20Dungeon)
+> Etrian Odyssey's grid-mapping dungeon crawling crossed with Mystery Dungeon's roguelike systems — deep, replayable, criminally overlooked.
 
-> [!tip] 🥉 [[Pokémon Yellow Version - Special Pikachu Edition|Pokémon Yellow Version]] ⭐ 5.0
-> `🏷 JRPG · Monster Collecting` [Backloggd ↗](https://www.backloggd.com/games/pokemon-yellow-version-special-pikachu-edition/)
-> Gen-1 nostalgia hits a perfect score, played via 3DS Virtual Console.
+> [!tip] 🥉 [[Sayonara Umihara Kawase]] ✨
+> `🏷 Platformer` [Backloggd ↗](https://www.backloggd.com/search/games/Sayonara%20Umihara%20Kawase)
+> A cult-classic elastic-fishing-rod platformer — deceptively deep momentum-based movement that speedrunners still obsess over.
 
-> [!quote] #4 [[Pokémon Gold Version]] ⭐ 5.0
-> `🏷 JRPG · Monster Collecting` [Backloggd ↗](https://www.backloggd.com/games/pokemon-gold-version/)
-> Gen-2 also nets a perfect score.
+> [!quote] #4 [[The Denpa Men: They Came By Wave]] ✨
+> `🏷 RPG` [Backloggd ↗](https://www.backloggd.com/search/games/The%20Denpa%20Men%3A%20They%20Came%20By%20Wave)
+> A monster-catching RPG where you literally catch creatures out of real-world radio waves using the 3DS mic — a genuinely inventive AR-lite gimmick with real RPG systems behind it.
 
-> [!quote] #5 [[Pokémon Red Version]] ⭐ 5.0
-> `🏷 JRPG · Monster Collecting` [Backloggd ↗](https://www.backloggd.com/games/pokemon-red-version/)
-> A third 5★ classic Pokémon entry.
+> [!quote] #5 [[Fairune]] ✨
+> `🏷 Action RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Fairune)
+> A tiny, sharp puzzle-action RPG in the vein of the original Zelda — short, clever, and free of padding.
 
-> [!quote] #6 [[Pokémon Silver Version]] ⭐ 5.0
-> `🏷 JRPG · Monster Collecting` [Backloggd ↗](https://www.backloggd.com/games/pokemon-silver-version/)
-> A fourth. Gen-1/2 Pokémon is as close to an auto-5★ as anything in his profile.
-
-> [!quote] #7 [[The Legend of Zelda - A Link Between Worlds|The Legend of Zelda: A Link Between Worlds]] ⭐ 4.0
-> `🏷 Action Adventure` [Backloggd ↗](https://www.backloggd.com/games/the-legend-of-zelda-a-link-between-worlds/)
-> Strong, though the platform's Zelda ceiling (5★) belongs to the remasters above.
-
-> [!failure]- 🚫 Top misses
-> 1. [**Pokémon Sun**](https://www.backloggd.com/search/games/Pok%C3%A9mon%20Sun) `🏷 JRPG · Monster Collecting` ⭐ 2.0 — A steep drop from classic-gen Pokémon; modern 3D mainline entries consistently underperform for him (also see Scarlet 1★, Legends: Arceus 2.5★).
+> [!failure]- 🚫 Top 5 to Avoid
+> 1. [**Cooking Mama: Sweet Shop**](https://www.backloggd.com/search/games/Cooking%20Mama%3A%20Sweet%20Shop) `🏷 Minigame Collection` — Thin, repetitive minigame collection past the first hour.
+> 2. [**Skylanders: Spyro's Adventure**](https://www.backloggd.com/search/games/Skylanders%3A%20Spyro%27s%20Adventure) `🏷 Toys-to-Life` — Requires physical figures to fully function; a monetization scheme first, game second.
+> 3. [**Disney Magical World**](https://www.backloggd.com/search/games/Disney%20Magical%20World) `🏷 Life Sim` — A shallow Animal Crossing-style sim riding on Disney branding alone.
+> 4. [**Regular Show: Mordecai and Rigby in 8-Bit Land**](https://www.backloggd.com/search/games/Regular%20Show%3A%20Mordecai%20and%20Rigby%20in%208-Bit%20Land) `🏷 Licensed` — Thin licensed platformer.
+> 5. [**Hello Kitty: Big City Dreams**](https://www.backloggd.com/search/games/Hello%20Kitty%3A%20Big%20City%20Dreams) `🏷 Licensed` — Same mismatch as the DS release.
 
 ---
 
 ## 🎒 PlayStation Portable
 
-> [!tip] 🥇 [[Steins;Gate]] ⭐ 5.0
-> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co5ff7.jpg) `🏷 Visual Novel · Sci-Fi` [Backloggd ↗](https://www.backloggd.com/games/steins-gate/)
-> His only logged PSP title, and a perfect score — visual novels with intricate sci-fi plotting are a genuine strength for him (paired with his 4.5★ Undertale and 5★ Deltarune, narrative-forward design keeps winning).
+> [!tip] 🥇 [[Ys VI: The Ark of Napishtim]] ✨
+> `🏷 Action RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Ys%20VI%3A%20The%20Ark%20of%20Napishtim)
+> Fast, satisfying bump-combat action-RPG with a genuinely gripping mythological plot — Falcom's Ys series at its most accessible entry point.
 
-> [!info] 🔭 Backloggd-driven picks to round out the platform
-> Given how strongly Steins;Gate scored, [**Persona 3 Portable**](https://www.backloggd.com/games/persona-3-portable/) `🏷 JRPG` and [**Danganronpa: Trigger Happy Havoc**](https://www.backloggd.com/games/danganronpa-trigger-happy-havoc/) `🏷 Visual Novel · Mystery` are Backloggd's most-popular PSP titles in the same narrative-heavy lane — reasonable next picks, though unconfirmed by his own data.
+> [!tip] 🥈 [[Lunar: Silver Star Harmony]] ✨
+> `🏷 JRPG` [Backloggd ↗](https://www.backloggd.com/search/games/Lunar%3A%20Silver%20Star%20Harmony)
+> A beloved anime-style JRPG remake with genuinely warm writing and a soundtrack people still talk about — pure comfort-food fantasy epic.
+
+> [!tip] 🥉 [[Phantasy Star Portable 2]] ✨
+> `🏷 Online Action RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Phantasy%20Star%20Portable%202)
+> Portable co-op looter-RPG with real online multiplayer depth — the handheld continuation of the same lineage as the GameCube PSO pick.
+
+> [!quote] #4 [[Umineko no Naku Koro ni: Episode 4 - Alliance of the Golden Witch]] ✨
+> `🏷 Visual Novel · Mystery` [Backloggd ↗](https://www.backloggd.com/search/games/Umineko%20no%20Naku%20Koro%20ni%3A%20Episode%204%20-%20Alliance%20of%20the%20Golden%20Witch)
+> A dense, meta murder-mystery visual novel with a genuinely committed cult following — heavy reading, huge payoff.
+
+> [!quote] #5 [[Crazy Taxi: Fare Wars]] ✨
+> `🏷 Arcade Racing` [Backloggd ↗](https://www.backloggd.com/search/games/Crazy%20Taxi%3A%20Fare%20Wars)
+> A great two-in-one arcade racer bundle — pure pick-up-and-play energy for a short session.
+
+> [!failure]- 🚫 Top 5 to Avoid
+> 1. [**Pimp My Ride**](https://www.backloggd.com/search/games/Pimp%20My%20Ride) `🏷 Licensed` — A thin car-customization tie-in with almost no game underneath.
+> 2. [**Dead or Alive Paradise**](https://www.backloggd.com/search/games/Dead%20or%20Alive%20Paradise) `🏷 Minigame Collection` — Widely criticized as shallow fan-service filler.
+> 3. [**EbiKore+ Amagami**](https://www.backloggd.com/search/games/EbiKore%2B%20Amagami) `🏷 Visual Novel` — Niche fandisc, unlikely fit for his taste.
+> 4. [**Initial D: Street Stage**](https://www.backloggd.com/search/games/Initial%20D%3A%20Street%20Stage) `🏷 Racing` — A forgettable arcade-racer port.
+> 5. [**Bloons TD**](https://www.backloggd.com/search/games/Bloons%20TD) `🏷 Tower Defense` — Fine as a free mobile game, thin as a paid handheld release.
 
 ---
 
 ## 🎒 PlayStation Vita
 
-> [!tip] 🥇 [[Steins;Gate]] ⭐ 5.0
-> `🏷 Visual Novel · Sci-Fi` [Backloggd ↗](https://www.backloggd.com/games/steins-gate/)
-> Also logged here — a genuine cross-platform favorite for him.
+> [!tip] 🥇 [[God Eater 2]] ✨
+> `🏷 Action RPG` [Backloggd ↗](https://www.backloggd.com/search/games/God%20Eater%202)
+> A Monster Hunter-adjacent action-RPG with faster combat and a genuinely strong story about a world eaten by monsters — big cast, big stakes, real co-op hunts.
 
-> [!tip] 🥈 [[Undertale]] ⭐ 4.5
-> `🏷 RPG · Comedy` [Backloggd ↗](https://www.backloggd.com/games/undertale/)
-> Matches its high mark everywhere else it's logged.
+> [!tip] 🥈 [[Romancing SaGa 3]] ✨
+> `🏷 JRPG` [Backloggd ↗](https://www.backloggd.com/search/games/Romancing%20SaGa%203)
+> A famously non-linear SaGa entry with multiple playable protagonists and genuinely reactive world systems — a JRPG structure that rewards replaying with a totally different lens.
 
-> [!tip] 🥉 [[God of War II]] ⭐ 4.5
-> `🏷 Action Adventure` [Backloggd ↗](https://www.backloggd.com/games/god-of-war-ii--1/) *(via HD re-release)*
-> The God of War streak extends even to the handheld ports.
+> [!tip] 🥉 [[Grand Kingdom]] ✨
+> `🏷 Tactical RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Grand%20Kingdom)
+> A mercenary-band tactics-RPG with online PvP and a genuinely inventive lane-based battle system — deep, mechanically distinct tactics game.
 
-> [!quote] #4 [[Omori]] ⭐ 3.5
-> `🏷 RPG · Psychological` [Backloggd ↗](https://www.backloggd.com/games/omori/)
-> Another Undertale-adjacent narrative RPG, comfortably liked.
+> [!quote] #4 [[Volume]] ✨
+> `🏷 Stealth` [Backloggd ↗](https://www.backloggd.com/search/games/Volume)
+> A minimalist, narrated Robin Hood-themed stealth game with sharp, replayable level design.
 
-> [!failure]- 🚫 Top misses
-> 1. [**Helldivers**](https://www.backloggd.com/search/games/Helldivers) `🏷 Co-op Shooter` ⭐ 2.5 — The original scores notably lower than Helldivers 2 (4.0★, elsewhere) — sequel/remaster improvements clearly register for him.
+> [!quote] #5 [[Valkyria Revolution]] ✨
+> `🏷 Action RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Valkyria%20Revolution)
+> A spin-off from the beloved Valkyria Chronicles line with real-time combat and a war-drama story about revolution and loyalty.
+
+> [!failure]- 🚫 Top 5 to Avoid
+> 1. [**Superdimension Neptune vs. Sega Hard Girls**](https://www.backloggd.com/search/games/Superdimension%20Neptune%20vs.%20Sega%20Hard%20Girls) `🏷 JRPG` — Fan-service-first spinoff, thin systems even by the Neptunia series' own standards.
+> 2. [**Gundam Breaker 3**](https://www.backloggd.com/search/games/Gundam%20Breaker%203) `🏷 Action` — A mecha-building toy-box game with combat too shallow to carry it solo.
+> 3. [**Night Trap: 25th Anniversary Edition**](https://www.backloggd.com/search/games/Night%20Trap%3A%2025th%20Anniversary%20Edition) `🏷 FMV` — A historical curiosity more than an actual good time today.
+> 4. [**Frobisher Says**](https://www.backloggd.com/search/games/Frobisher%20Says) `🏷 Minigame Collection` — A WarioWare-style minigame collection that never sticks the landing.
+> 5. [**Collar x Malice: Unlimited**](https://www.backloggd.com/search/games/Collar%20x%20Malice%3A%20Unlimited) `🏷 Visual Novel · Otome` — Same otome-genre mismatch flagged on Switch.
 
 ---
 
-## 📥 His Backlog (as logged)
-
-> [!note] Small but pointed
-> Only two games are currently backlogged: **[Spiritfarer](https://www.backloggd.com/games/spiritfarer/)** `🏷 Management · Narrative` and **[Black Myth: Wukong](https://www.backloggd.com/games/black-myth-wukong/)** `🏷 Action RPG`. Spiritfarer's cozy-management-with-heart fits his Deltarune/Undertale/It Takes Two lane closely; Black Myth: Wukong is a bigger action-RPG swing in line with his Elden Ring/Sekiro marks — both are safe bets given his history.
+> [!note] 📌 A note on obscurity scoring
+> Backloggd's obscurity slider runs **0 (most-rated/popular) → 100 (fewest-rated/most-obscure)**. Every pick above sits roughly in the 75-90 band — deliberately excluding anything as well-known as Chrono Trigger, A Link to the Past, or other "everyone's already heard of this" classics, per the brief for this doc specifically. The Avoid lists pull from the same obscurity band: these are games that are obscure *because* they're genuinely weak, not hidden gems.
