@@ -33,23 +33,23 @@ aliases: [MC Smooth, MC_Smooth, "MC_Smooth — What To Play Next"]
 ## 🕹️ SNES
 
 > [!tip] 🥇 [[Illusion of Gaia]] ✨
-> `🏷 Action RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Illusion%20of%20Gaia)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co8kyi.jpg) `🏷 Action RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Illusion%20of%20Gaia)
 > Quondar-tier melancholy action-RPG about a boy who can absorb the souls of the dead. Zelda-adjacent structure with a genuinely sad, mythic throughline — the closest SNES gets to the Clair Obscur register.
 
 > [!tip] 🥈 [[Terranigma]] ✨
-> `🏷 Action RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Terranigma)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co26g4.jpg) `🏷 Action RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Terranigma)
 > Never officially released in NA/Japan-adjacent markets so it's genuinely a "did you know" pick — a resurrect-the-world action-RPG with real emotional stakes and Zelda-quality dungeon design.
 
 > [!tip] 🥉 [[Breath of Fire II]] ✨
-> `🏷 JRPG` [Backloggd ↗](https://www.backloggd.com/search/games/Breath%20of%20Fire%20II)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co9m7u.jpg) `🏷 JRPG` [Backloggd ↗](https://www.backloggd.com/search/games/Breath%20of%20Fire%20II)
 > Dragon-blooded ensemble-cast JRPG with a surprisingly dark back half (a whole town gets swallowed by a cult). Scratches the same "found family saves the world" itch as Mass Effect.
 
 > [!quote] #4 [[Ultima VI: The False Prophet]] ✨
-> `🏷 CRPG` [Backloggd ↗](https://www.backloggd.com/search/games/Ultima%20VI%3A%20The%20False%20Prophet)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co2zq6.jpg) `🏷 CRPG` [Backloggd ↗](https://www.backloggd.com/search/games/Ultima%20VI%3A%20The%20False%20Prophet)
 > A genuine ancestor of Baldur's Gate — open, reactive, systems-driven CRPG design decades before it was cool. Rough edges are the point.
 
 > [!quote] #5 [[Robotrek]] ✨
-> `🏷 JRPG` [Backloggd ↗](https://www.backloggd.com/search/games/Robotrek)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co3bcm.jpg) `🏷 JRPG` [Backloggd ↗](https://www.backloggd.com/search/games/Robotrek)
 > Build-your-own-robot JRPG that's equal parts Pokémon-style creature customization and comedic writing. Deeply obscure, deeply charming.
 
 > [!failure]- 🚫 Top 5 to Avoid
@@ -64,23 +64,23 @@ aliases: [MC Smooth, MC_Smooth, "MC_Smooth — What To Play Next"]
 ## 💿 PlayStation 1
 
 > [!tip] 🥇 [[SaGa Frontier 2]] ✨
-> `🏷 JRPG` [Backloggd ↗](https://www.backloggd.com/search/games/SaGa%20Frontier%202)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co2r88.jpg) `🏷 JRPG` [Backloggd ↗](https://www.backloggd.com/search/games/SaGa%20Frontier%202)
 > Two intertwined multi-generational stories about a cursed sword and a would-be king — structurally ambitious, painterly art direction, real narrative weight.
 
 > [!tip] 🥈 [[Azure Dreams]] ✨
-> `🏷 Roguelike · Monster-Raising` [Backloggd ↗](https://www.backloggd.com/search/games/Azure%20Dreams)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co3bsc.jpg) `🏷 Roguelike · Monster-Raising` [Backloggd ↗](https://www.backloggd.com/search/games/Azure%20Dreams)
 > Tower-climbing roguelike crossed with monster-egg collecting and a town-building/dating-sim layer — the Pokémon-collector itch scratched in a completely different genre.
 
 > [!tip] 🥉 [[Discworld]] ✨
-> `🏷 Point-and-Click Adventure` [Backloggd ↗](https://www.backloggd.com/search/games/Discworld)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co4z82.jpg) `🏷 Point-and-Click Adventure` [Backloggd ↗](https://www.backloggd.com/search/games/Discworld)
 > Terry Pratchett's absurdist wit turned into a genuinely funny, genuinely obtuse graphic adventure. Big ensemble-cast energy in a totally different package.
 
 > [!quote] #4 [[Theme Hospital]] ✨
-> `🏷 Management Sim` [Backloggd ↗](https://www.backloggd.com/search/games/Theme%20Hospital)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co56ml.jpg) `🏷 Management Sim` [Backloggd ↗](https://www.backloggd.com/search/games/Theme%20Hospital)
 > Absurdist management sim (Bloaty Head disease, anyone?) — the Spiritfarer "cozy but with teeth" energy from a completely different angle.
 
 > [!quote] #5 [[Forsaken]] ✨
-> `🏷 6DoF Shooter` [Backloggd ↗](https://www.backloggd.com/search/games/Forsaken)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/coc4x7.jpg) `🏷 6DoF Shooter` [Backloggd ↗](https://www.backloggd.com/search/games/Forsaken)
 > Descent-style zero-gravity corridor shooter with genuine atmosphere and a great co-op mode — an easy blind spot from this era.
 
 > [!failure]- 🚫 Top 5 to Avoid
@@ -95,23 +95,23 @@ aliases: [MC Smooth, MC_Smooth, "MC_Smooth — What To Play Next"]
 ## 💿 PlayStation 2
 
 > [!tip] 🥇 [[Arc the Lad: Twilight of the Spirits]] ✨
-> `🏷 Tactical JRPG` [Backloggd ↗](https://www.backloggd.com/search/games/Arc%20the%20Lad%3A%20Twilight%20of%20the%20Spirits)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co1osr.jpg) `🏷 Tactical JRPG` [Backloggd ↗](https://www.backloggd.com/search/games/Arc%20the%20Lad%3A%20Twilight%20of%20the%20Spirits)
 > Dual-protagonist tactical JRPG (you play both sides of a war) with genuinely good tactics-combat and a Mass Effect-style "your choices shape the ending" structure.
 
 > [!tip] 🥈 [[Gauntlet: Seven Sorrows]] ✨
-> `🏷 Co-op Dungeon Crawler` [Backloggd ↗](https://www.backloggd.com/search/games/Gauntlet%3A%20Seven%20Sorrows)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co5j83.jpg) `🏷 Co-op Dungeon Crawler` [Backloggd ↗](https://www.backloggd.com/search/games/Gauntlet%3A%20Seven%20Sorrows)
 > Modernized Gauntlet with real co-op depth — the same "four friends, one dungeon" energy as It Takes Two, just wave-based and loot-driven.
 
 > [!tip] 🥉 [[Atelier Iris 2: The Azoth of Destiny]] ✨
-> `🏷 JRPG · Crafting` [Backloggd ↗](https://www.backloggd.com/search/games/Atelier%20Iris%202%3A%20The%20Azoth%20of%20Destiny)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co2ph9.jpg) `🏷 JRPG · Crafting` [Backloggd ↗](https://www.backloggd.com/search/games/Atelier%20Iris%202%3A%20The%20Azoth%20of%20Destiny)
 > Cozy alchemy-crafting JRPG with a genuinely charming cast — the entry point to the Atelier series' comfort-food loop.
 
 > [!quote] #4 [[Melty Blood Act Cadenza]] ✨
-> `🏷 Fighting` [Backloggd ↗](https://www.backloggd.com/search/games/Melty%20Blood%20Act%20Cadenza)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co2wp7.jpg) `🏷 Fighting` [Backloggd ↗](https://www.backloggd.com/search/games/Melty%20Blood%20Act%20Cadenza)
 > A Tsukihime-universe fighter with a surprisingly deep, well-regarded system underneath the anime skin — genuine cult classic in fighting-game circles.
 
 > [!quote] #5 [[Worms Blast]] ✨
-> `🏷 Co-op Puzzle` [Backloggd ↗](https://www.backloggd.com/search/games/Worms%20Blast)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co1xmg.jpg) `🏷 Co-op Puzzle` [Backloggd ↗](https://www.backloggd.com/search/games/Worms%20Blast)
 > Worms' cast in a Bust-a-Move-style puzzle-shooter with a real co-op mode — light, fast, good for a couch session.
 
 > [!failure]- 🚫 Top 5 to Avoid
@@ -126,23 +126,23 @@ aliases: [MC Smooth, MC_Smooth, "MC_Smooth — What To Play Next"]
 ## 💿 PlayStation 3
 
 > [!tip] 🥇 [[Tales of Vesperia]] ✨
-> `🏷 JRPG` [Backloggd ↗](https://www.backloggd.com/search/games/Tales%20of%20Vesperia)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co5gb1.jpg) `🏷 JRPG` [Backloggd ↗](https://www.backloggd.com/search/games/Tales%20of%20Vesperia)
 > Widely considered the best entry point to the Tales series — real-time action combat, a genuinely great ensemble cast, and the exact "sweeping RPG with heart" register Baldur's Gate III and Clair Obscur hit for him.
 
 > [!tip] 🥈 [[Sportsfriends]] ✨
-> `🏷 Local Co-op Party` [Backloggd ↗](https://www.backloggd.com/search/games/Sportsfriends)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/coazws.jpg) `🏷 Local Co-op Party` [Backloggd ↗](https://www.backloggd.com/search/games/Sportsfriends)
 > A four-game local-multiplayer anthology (including the cult-favorite Johann Sebastian Joust) built entirely for the couch — pure "friends in a room" energy.
 
 > [!tip] 🥉 [[Atelier Rorona: The Alchemist of Arland]] ✨
-> `🏷 JRPG · Crafting` [Backloggd ↗](https://www.backloggd.com/search/games/Atelier%20Rorona%3A%20The%20Alchemist%20of%20Arland)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co2phc.jpg) `🏷 JRPG · Crafting` [Backloggd ↗](https://www.backloggd.com/search/games/Atelier%20Rorona%3A%20The%20Alchemist%20of%20Arland)
 > Cozy time-limited crafting RPG with a genuine emotional arc underneath the alchemy — Spiritfarer's "cozy loop, real stakes" energy in JRPG form.
 
 > [!quote] #4 [[Necropolis]] ✨
-> `🏷 Roguelite` [Backloggd ↗](https://www.backloggd.com/search/games/Necropolis)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co2qtc.jpg) `🏷 Roguelite` [Backloggd ↗](https://www.backloggd.com/search/games/Necropolis)
 > A stylish, narrated dungeon-crawling roguelite with real Hades-adjacent combat feel and a wry sense of humor about its own systems.
 
 > [!quote] #5 [[Skullgirls Encore]] ✨
-> `🏷 Fighting` [Backloggd ↗](https://www.backloggd.com/search/games/Skullgirls%20Encore)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co3j91.jpg) `🏷 Fighting` [Backloggd ↗](https://www.backloggd.com/search/games/Skullgirls%20Encore)
 > Hand-animated indie fighter with one of the best combat systems of its generation — deep without needing a scene to enjoy it.
 
 > [!failure]- 🚫 Top 5 to Avoid
@@ -157,23 +157,23 @@ aliases: [MC Smooth, MC_Smooth, "MC_Smooth — What To Play Next"]
 ## 💿 PlayStation 4
 
 > [!tip] 🥇 [[Lisa: Definitive Edition]] ✨
-> `🏷 Narrative RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Lisa%3A%20Definitive%20Edition)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co6l8z.jpg) `🏷 Narrative RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Lisa%3A%20Definitive%20Edition)
 > A brutal, darkly funny post-apocalyptic RPG about fatherhood and terrible choices — EarthBound's aesthetic wearing Drakengard's soul. Devastating in the way Clair Obscur is devastating.
 
 > [!tip] 🥈 [[Mages of Mystralia]] ✨
-> `🏷 Action Adventure` [Backloggd ↗](https://www.backloggd.com/search/games/Mages%20of%20Mystralia)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/dkqoabfj9ka5p0vbeqie.jpg) `🏷 Action Adventure` [Backloggd ↗](https://www.backloggd.com/search/games/Mages%20of%20Mystralia)
 > A spell-crafting Zelda-like where you build your own combo spells from runes — same DNA as the Zelda HD remasters he rated so highly.
 
 > [!tip] 🥉 [[Stealth Inc 2: A Game of Clones]] ✨
-> `🏷 Co-op Puzzle Platformer` [Backloggd ↗](https://www.backloggd.com/search/games/Stealth%20Inc%202%3A%20A%20Game%20of%20Clones)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co2dr6.jpg) `🏷 Co-op Puzzle Platformer` [Backloggd ↗](https://www.backloggd.com/search/games/Stealth%20Inc%202%3A%20A%20Game%20of%20Clones)
 > A stealth-puzzle-platformer with a genuinely great co-op mode — It Takes Two-style "solve this together" puzzling with a stealth twist.
 
 > [!quote] #4 [[Felix the Reaper]] ✨
-> `🏷 Puzzle` [Backloggd ↗](https://www.backloggd.com/search/games/Felix%20the%20Reaper)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co3wlt.jpg) `🏷 Puzzle` [Backloggd ↗](https://www.backloggd.com/search/games/Felix%20the%20Reaper)
 > A dancing Grim Reaper solves shadow-puzzles to secretly cause deaths — genuinely one-of-one concept, gorgeous art direction.
 
 > [!quote] #5 [[Before We Leave]] ✨
-> `🏷 Cozy City-Builder` [Backloggd ↗](https://www.backloggd.com/search/games/Before%20We%20Leave)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co7k34.jpg) `🏷 Cozy City-Builder` [Backloggd ↗](https://www.backloggd.com/search/games/Before%20We%20Leave)
 > A no-combat, no-fail-state civilization builder about rebuilding after a long hibernation — pure comfort strategy, Spiritfarer-adjacent tone.
 
 > [!failure]- 🚫 Top 5 to Avoid
@@ -188,23 +188,23 @@ aliases: [MC Smooth, MC_Smooth, "MC_Smooth — What To Play Next"]
 ## 🟢 Xbox (Original)
 
 > [!tip] 🥇 [[Sudeki]] ✨
-> `🏷 Action RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Sudeki)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co2h0u.jpg) `🏷 Action RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Sudeki)
 > A four-character action-RPG that lets you swap fighting styles mid-battle, with a genuinely ambitious anime-tinged story — a clear "should've been bigger" cult pick.
 
 > [!tip] 🥈 [[Otogi: Myth of Demons]] ✨
-> `🏷 Action` [Backloggd ↗](https://www.backloggd.com/search/games/Otogi%3A%20Myth%20of%20Demons)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co48qb.jpg) `🏷 Action` [Backloggd ↗](https://www.backloggd.com/search/games/Otogi%3A%20Myth%20of%20Demons)
 > Japanese-mythology-soaked hack-and-slash with gorgeous destructible environments — God of War's mythic-action register a generation early.
 
 > [!tip] 🥉 [[Advent Rising]] ✨
-> `🏷 Action Adventure` [Backloggd ↗](https://www.backloggd.com/search/games/Advent%20Rising)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co2l5x.jpg) `🏷 Action Adventure` [Backloggd ↗](https://www.backloggd.com/search/games/Advent%20Rising)
 > A troubled but genuinely ambitious sci-fi space-opera (co-written with a novelist) with telekinetic powers — Mass Effect's spiritual predecessor in tone.
 
 > [!quote] #4 [[Voodoo Vince]] ✨
-> `🏷 Platformer` [Backloggd ↗](https://www.backloggd.com/search/games/Voodoo%20Vince)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co3wjd.jpg) `🏷 Platformer` [Backloggd ↗](https://www.backloggd.com/search/games/Voodoo%20Vince)
 > A voodoo-doll platformer where you hurt yourself to hurt enemies — a genuinely clever, funny one-off concept.
 
 > [!quote] #5 [[Geometry Wars]] ✨
-> `🏷 Arcade Shooter` [Backloggd ↗](https://www.backloggd.com/search/games/Geometry%20Wars)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/cob4m7.jpg) `🏷 Arcade Shooter` [Backloggd ↗](https://www.backloggd.com/search/games/Geometry%20Wars)
 > Pure high-score arcade dopamine, originally a hidden minigame in Project Gotham Racing 2 — great short-session palate cleanser.
 
 > [!failure]- 🚫 Top 5 to Avoid
@@ -219,23 +219,23 @@ aliases: [MC Smooth, MC_Smooth, "MC_Smooth — What To Play Next"]
 ## 🟢 Xbox 360
 
 > [!tip] 🥇 [[Infinite Undiscovery]] ✨
-> `🏷 Action RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Infinite%20Undiscovery)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co3ddr.jpg) `🏷 Action RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Infinite%20Undiscovery)
 > tri-Ace's sprawling, messy, ambitious action-RPG about breaking chains binding the moon to the earth — a big swing-for-the-fences JRPG in the vein of the messier parts of the genre he clearly forgives when the vision's there.
 
 > [!tip] 🥈 [[Radiant Silvergun]] ✨
-> `🏷 Shmup` [Backloggd ↗](https://www.backloggd.com/search/games/Radiant%20Silvergun)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co7anl.jpg) `🏷 Shmup` [Backloggd ↗](https://www.backloggd.com/search/games/Radiant%20Silvergun)
 > Treasure's legendary, once-unobtainable shoot-'em-up — a genuine "grail" title finally accessible via Xbox Live Arcade.
 
 > [!tip] 🥉 [[Skulls of the Shogun]] ✨
-> `🏷 Tactics` [Backloggd ↗](https://www.backloggd.com/search/games/Skulls%20of%20the%20Shogun)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co2e3v.jpg) `🏷 Tactics` [Backloggd ↗](https://www.backloggd.com/search/games/Skulls%20of%20the%20Shogun)
 > A fast, funny, snappy turn-based tactics game with online multiplayer and zero of the genre's usual bloat.
 
 > [!quote] #4 [[Anomaly: Warzone Earth]] ✨
-> `🏷 Reverse Tower Defense` [Backloggd ↗](https://www.backloggd.com/search/games/Anomaly%3A%20Warzone%20Earth)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co1rkx.jpg) `🏷 Reverse Tower Defense` [Backloggd ↗](https://www.backloggd.com/search/games/Anomaly%3A%20Warzone%20Earth)
 > Tower defense flipped: you control the attacking convoy. A genuinely fresh spin on a tired genre.
 
 > [!quote] #5 [[Ilomilo]] ✨
-> `🏷 Puzzle Platformer` [Backloggd ↗](https://www.backloggd.com/search/games/Ilomilo)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co8yku.jpg) `🏷 Puzzle Platformer` [Backloggd ↗](https://www.backloggd.com/search/games/Ilomilo)
 > An adorable, gentle puzzle-platformer about two friends trying to reunite across warped space — has an online co-op mode too.
 
 > [!failure]- 🚫 Top 5 to Avoid
@@ -250,23 +250,23 @@ aliases: [MC Smooth, MC_Smooth, "MC_Smooth — What To Play Next"]
 ## 🟢 Xbox One
 
 > [!tip] 🥇 [[Aven Colony]] ✨
-> `🏷 City Builder` [Backloggd ↗](https://www.backloggd.com/search/games/Aven%20Colony)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co234w.jpg) `🏷 City Builder` [Backloggd ↗](https://www.backloggd.com/search/games/Aven%20Colony)
 > A story-driven alien-colony city-builder with real narrative events and hostile-world tension — strategy with stakes, similar cozy-but-consequential feel to Spiritfarer.
 
 > [!tip] 🥈 [[Sephonie]] ✨
-> `🏷 Narrative Platformer` [Backloggd ↗](https://www.backloggd.com/search/games/Sephonie)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co7v7e.jpg) `🏷 Narrative Platformer` [Backloggd ↗](https://www.backloggd.com/search/games/Sephonie)
 > A gorgeous, meditative 3D platformer about three scientists exploring a mysterious island, wrapped around a puzzle-cell-matching mechanic and a genuinely moving story about identity.
 
 > [!tip] 🥉 [[Apico]] ✨
-> `🏷 Cozy Sim` [Backloggd ↗](https://www.backloggd.com/search/games/Apico)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co48vu.jpg) `🏷 Cozy Sim` [Backloggd ↗](https://www.backloggd.com/search/games/Apico)
 > A gentle beekeeping sim about breeding and cataloguing bee species — Pokémon's "gotta collect 'em all" loop transplanted into a cozy nature sim.
 
 > [!quote] #4 [[Expeditions: A MudRunner Game]] ✨
-> `🏷 Simulation` [Backloggd ↗](https://www.backloggd.com/search/games/Expeditions%3A%20A%20MudRunner%20Game)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co6ywx.jpg) `🏷 Simulation` [Backloggd ↗](https://www.backloggd.com/search/games/Expeditions%3A%20A%20MudRunner%20Game)
 > Off-road expedition-driving with genuine exploration and scientific-survey objectives — surprisingly meditative.
 
 > [!quote] #5 [[RollerCoaster Tycoon Classic]] ✨
-> `🏷 Management Sim` [Backloggd ↗](https://www.backloggd.com/search/games/RollerCoaster%20Tycoon%20Classic)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co24oc.jpg) `🏷 Management Sim` [Backloggd ↗](https://www.backloggd.com/search/games/RollerCoaster%20Tycoon%20Classic)
 > The genre-defining classic, ported properly — deep, funny, endlessly tinker-able.
 
 > [!failure]- 🚫 Top 5 to Avoid
@@ -281,23 +281,23 @@ aliases: [MC Smooth, MC_Smooth, "MC_Smooth — What To Play Next"]
 ## 🟣 GameCube
 
 > [!tip] 🥇 [[Lost Kingdoms II]] ✨
-> `🏷 Card-Battler Action RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Lost%20Kingdoms%20II)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co30sj.jpg) `🏷 Card-Battler Action RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Lost%20Kingdoms%20II)
 > From Software's deck-building action-RPG where your cards summon monsters mid-dungeon — an inventive hybrid that never got its due.
 
 > [!tip] 🥈 [[Phantasy Star Online Episode I & II Plus]] ✨
-> `🏷 Online Action RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Phantasy%20Star%20Online%20Episode%20I%20%26%20II%20Plus)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co7g3z.jpg) `🏷 Online Action RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Phantasy%20Star%20Online%20Episode%20I%20%26%20II%20Plus)
 > Online co-op dungeon-crawling before "co-op looter" was a genre — a direct ancestor of the multiplayer depth he clearly values (Team Fortress 2, Mass Effect's squad play).
 
 > [!tip] 🥉 [[Gladius]] ✨
-> `🏷 Tactical RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Gladius)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co2q8t.jpg) `🏷 Tactical RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Gladius)
 > A gladiator-management tactical RPG with real strategic depth and a surprisingly good story about slavery and rebellion — LucasArts' most underrated release.
 
 > [!quote] #4 [[Donkey Konga]] ✨
-> `🏷 Rhythm · Co-op` [Backloggd ↗](https://www.backloggd.com/search/games/Donkey%20Konga)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co6rdk.jpg) `🏷 Rhythm · Co-op` [Backloggd ↗](https://www.backloggd.com/search/games/Donkey%20Konga)
 > Bongo-based rhythm game built entirely around multiplayer — pure "friends in a room" energy.
 
 > [!quote] #5 [[Kururin Squash!]] ✨
-> `🏷 Puzzle Action` [Backloggd ↗](https://www.backloggd.com/search/games/Kururin%20Squash%21)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co4snp.jpg) `🏷 Puzzle Action` [Backloggd ↗](https://www.backloggd.com/search/games/Kururin%20Squash%21)
 > A cult rotating-stick maze puzzler — deceptively hard, genuinely unique control scheme, and never released outside Japan.
 
 > [!failure]- 🚫 Top 5 to Avoid
@@ -312,23 +312,23 @@ aliases: [MC Smooth, MC_Smooth, "MC_Smooth — What To Play Next"]
 ## 🔵 Wii
 
 > [!tip] 🥇 [[Disaster: Day of Crisis]] ✨
-> `🏷 Action Adventure` [Backloggd ↗](https://www.backloggd.com/search/games/Disaster%3A%20Day%20of%20Crisis)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co8ra0.jpg) `🏷 Action Adventure` [Backloggd ↗](https://www.backloggd.com/search/games/Disaster%3A%20Day%20of%20Crisis)
 > A gloriously over-the-top disaster-movie action game (earthquakes, volcanoes, a plane crash, all in one campaign) — pure cinematic-action spectacle in the Last of Us/God of War vein, just campier.
 
 > [!tip] 🥈 [[Deadly Creatures]] ✨
-> `🏷 Action Adventure` [Backloggd ↗](https://www.backloggd.com/search/games/Deadly%20Creatures)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co21yc.jpg) `🏷 Action Adventure` [Backloggd ↗](https://www.backloggd.com/search/games/Deadly%20Creatures)
 > You play a tarantula and a scorpion fighting for survival in a backyard-scale world — a genuinely inventive scale-shift adventure with real atmosphere.
 
 > [!tip] 🥉 [[Metroid Prime 2: Echoes]] ✨
-> `🏷 Metroidvania FPS` [Backloggd ↗](https://www.backloggd.com/search/games/Metroid%20Prime%202%3A%20Echoes)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co6m4o.jpg) `🏷 Metroidvania FPS` [Backloggd ↗](https://www.backloggd.com/search/games/Metroid%20Prime%202%3A%20Echoes)
 > The darkest, densest Metroid Prime — light/dark dimension-shifting exploration with real atmosphere, criminally underplayed next to Prime 1.
 
 > [!quote] #4 [[Light Crusader]] ✨
-> `🏷 Action RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Light%20Crusader)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co3ghs.jpg) `🏷 Action RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Light%20Crusader)
 > An isometric action-RPG (Virtual Console era Genesis classic) with clever trap-and-puzzle dungeon design — Zelda-brained but combat-forward.
 
 > [!quote] #5 [[Kororinpa: Marble Mania]] ✨
-> `🏷 Puzzle` [Backloggd ↗](https://www.backloggd.com/search/games/Kororinpa%3A%20Marble%20Mania)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/coa6s0.jpg) `🏷 Puzzle` [Backloggd ↗](https://www.backloggd.com/search/games/Kororinpa%3A%20Marble%20Mania)
 > A tilt-controlled marble maze game that used motion controls better than most of the Wii's actual first-party lineup.
 
 > [!failure]- 🚫 Top 5 to Avoid
@@ -343,23 +343,23 @@ aliases: [MC Smooth, MC_Smooth, "MC_Smooth — What To Play Next"]
 ## 🔵 Wii U
 
 > [!tip] 🥇 [[Chariot]] ✨
-> `🏷 Co-op Puzzle Platformer` [Backloggd ↗](https://www.backloggd.com/search/games/Chariot)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co1quk.jpg) `🏷 Co-op Puzzle Platformer` [Backloggd ↗](https://www.backloggd.com/search/games/Chariot)
 > Two players haul a dead king's coffin-cart through physics-based puzzle-platforming — genuinely great couch co-op with real "we need to actually communicate" puzzle design, It Takes Two energy years earlier.
 
 > [!tip] 🥈 [[Citizens of Earth]] ✨
-> `🏷 JRPG` [Backloggd ↗](https://www.backloggd.com/search/games/Citizens%20of%20Earth)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co1qlr.jpg) `🏷 JRPG` [Backloggd ↗](https://www.backloggd.com/search/games/Citizens%20of%20Earth)
 > An EarthBound-inspired RPG about a Vice President recruiting a town's worth of quirky citizens as party members — funny, warm, unmistakably indebted to the classic he'd probably enjoy discovering the lineage of.
 
 > [!tip] 🥉 [[The Swindle]] ✨
-> `🏷 Roguelike Stealth` [Backloggd ↗](https://www.backloggd.com/search/games/The%20Swindle)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co23tb.jpg) `🏷 Roguelike Stealth` [Backloggd ↗](https://www.backloggd.com/search/games/The%20Swindle)
 > Procedurally generated Victorian heist-stealth with permanent character death and cumulative upgrades — tense, replayable, genuinely tricky in a fair way.
 
 > [!quote] #4 [[Tengami]] ✨
-> `🏷 Puzzle Adventure` [Backloggd ↗](https://www.backloggd.com/search/games/Tengami)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co42ze.jpg) `🏷 Puzzle Adventure` [Backloggd ↗](https://www.backloggd.com/search/games/Tengami)
 > A pop-up-book styled puzzle adventure set in folklore Japan — gorgeous, gentle, short.
 
 > [!quote] #5 [[Armikrog]] ✨
-> `🏷 Point-and-Click` [Backloggd ↗](https://www.backloggd.com/search/games/Armikrog)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co2pg7.jpg) `🏷 Point-and-Click` [Backloggd ↗](https://www.backloggd.com/search/games/Armikrog)
 > Claymation point-and-click from the creators of The Neverhood — bizarre, hand-crafted, one-of-a-kind visuals.
 
 > [!failure]- 🚫 Top 5 to Avoid
@@ -374,23 +374,23 @@ aliases: [MC Smooth, MC_Smooth, "MC_Smooth — What To Play Next"]
 ## 🔴 Switch
 
 > [!tip] 🥇 [[Lisa: Definitive Edition]] ✨
-> `🏷 Narrative RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Lisa%3A%20Definitive%20Edition)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co6l8z.jpg) `🏷 Narrative RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Lisa%3A%20Definitive%20Edition)
 > Same devastating pick as PS4, and worth flagging twice — pick whichever platform he actually owns; this is the single best "if you liked how much Clair Obscur hurt" recommendation on this whole list.
 
 > [!tip] 🥈 [[Automachef]] ✨
-> `🏷 Puzzle Automation` [Backloggd ↗](https://www.backloggd.com/search/games/Automachef)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co1o3b.jpg) `🏷 Puzzle Automation` [Backloggd ↗](https://www.backloggd.com/search/games/Automachef)
 > A cooking-themed automation-puzzle game (think factory-builder, but sandwiches) — satisfying systemic puzzling with real depth.
 
 > [!tip] 🥉 [[Staxel]] ✨
-> `🏷 Cozy Sim` [Backloggd ↗](https://www.backloggd.com/search/games/Staxel)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co86z7.jpg) `🏷 Cozy Sim` [Backloggd ↗](https://www.backloggd.com/search/games/Staxel)
 > A voxel-art farming/town-building sim with real co-op multiplayer support — Spiritfarer-cozy with a build-your-own-island hook.
 
 > [!quote] #4 [[Filament]] ✨
-> `🏷 Puzzle` [Backloggd ↗](https://www.backloggd.com/search/games/Filament)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co1xlm.jpg) `🏷 Puzzle` [Backloggd ↗](https://www.backloggd.com/search/games/Filament)
 > A minimalist, narrative-tinged cable-routing puzzle game set on an abandoned space station — quiet, melancholy, clever.
 
 > [!quote] #5 [[realMyst: Masterpiece Edition]] ✨
-> `🏷 Puzzle Adventure` [Backloggd ↗](https://www.backloggd.com/search/games/realMyst%3A%20Masterpiece%20Edition)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co263b.jpg) `🏷 Puzzle Adventure` [Backloggd ↗](https://www.backloggd.com/search/games/realMyst%3A%20Masterpiece%20Edition)
 > The classic slow-burn exploration puzzler, remastered — genuinely rewarding if he's never given Myst a real shot.
 
 > [!failure]- 🚫 Top 5 to Avoid
@@ -405,23 +405,23 @@ aliases: [MC Smooth, MC_Smooth, "MC_Smooth — What To Play Next"]
 ## 🎒 Game Boy Advance
 
 > [!tip] 🥇 [[Shining Force: Resurrection of the Dark Dragon]] ✨
-> `🏷 Tactical RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Shining%20Force%3A%20Resurrection%20of%20the%20Dark%20Dragon)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co6gbq.jpg) `🏷 Tactical RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Shining%20Force%3A%20Resurrection%20of%20the%20Dark%20Dragon)
 > An expanded remake of the Genesis tactics classic, with new story branches and characters — real "recruit a big cast, watch them grow" tactics-RPG comfort food.
 
 > [!tip] 🥈 [[Yggdra Union: We'll Never Fight Alone]] ✨
-> `🏷 Tactical RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Yggdra%20Union%3A%20We%27ll%20Never%20Fight%20Alone)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co3bsf.jpg) `🏷 Tactical RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Yggdra%20Union%3A%20We%27ll%20Never%20Fight%20Alone)
 > A card-based tactics-RPG with a genuinely strong political fantasy story — Sting's cult-classic tactics line at its best.
 
 > [!tip] 🥉 [[Boktai 2: Solar Boy Django]] ✨
-> `🏷 Action RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Boktai%202%3A%20Solar%20Boy%20Django)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co2hbu.jpg) `🏷 Action RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Boktai%202%3A%20Solar%20Boy%20Django)
 > Kojima's cult vampire-hunting action-RPG that used a real light sensor in the cartridge — genuinely inventive mechanically, atmospheric tonally.
 
 > [!quote] #4 [[Breath of Fire II]] ✨
-> `🏷 JRPG` [Backloggd ↗](https://www.backloggd.com/search/games/Breath%20of%20Fire%20II--1)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co8dq3.jpg) `🏷 JRPG` [Backloggd ↗](https://www.backloggd.com/search/games/Breath%20of%20Fire%20II--1)
 > The SNES cult classic, portable — see the SNES section for why it's worth your time either way.
 
 > [!quote] #5 [[Super Robot Taisen: Original Generation]] ✨
-> `🏷 Tactical RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Super%20Robot%20Taisen%3A%20Original%20Generation)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co2fo3.jpg) `🏷 Tactical RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Super%20Robot%20Taisen%3A%20Original%20Generation)
 > The first Super Robot Taisen game officially localized — mecha tactics with a genuinely big, satisfying original story.
 
 > [!failure]- 🚫 Top 5 to Avoid
@@ -436,23 +436,23 @@ aliases: [MC Smooth, MC_Smooth, "MC_Smooth — What To Play Next"]
 ## 🎒 Nintendo DS
 
 > [!tip] 🥇 [[Avalon Code]] ✨
-> `🏷 Action RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Avalon%20Code)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co2gad.jpg) `🏷 Action RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Avalon%20Code)
 > You carry a magic book that can rewrite the properties of anything (and anyone) in the world — a genuinely unique premise wrapped around a surprisingly emotional "the world is ending" story.
 
 > [!tip] 🥈 [[Tales of Innocence]] ✨
-> `🏷 JRPG` [Backloggd ↗](https://www.backloggd.com/search/games/Tales%20of%20Innocence)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co2kxp.jpg) `🏷 JRPG` [Backloggd ↗](https://www.backloggd.com/search/games/Tales%20of%20Innocence)
 > A Tales spinoff that never left Japan officially — real-time combat and a big cast, same lineage as Vesperia on PS3.
 
 > [!tip] 🥉 [[Lunar Knights]] ✨
-> `🏷 Action RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Lunar%20Knights)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co25t4.jpg) `🏷 Action RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Lunar%20Knights)
 > Kojima Productions' vampire-hunting action-RPG sequel spirit to Boktai, with a genuinely fun sun/moon-swapping combat gimmick and two-player co-op.
 
 > [!quote] #4 [[LostMagic]] ✨
-> `🏷 Action RPG` [Backloggd ↗](https://www.backloggd.com/search/games/LostMagic)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co6epz.jpg) `🏷 Action RPG` [Backloggd ↗](https://www.backloggd.com/search/games/LostMagic)
 > A stylus-drawn spellcasting action-RPG with real strategic depth in the touch-based combat — genuinely inventive use of the DS hardware.
 
 > [!quote] #5 [[Age of Empires: The Age of Kings]] ✨
-> `🏷 Strategy` [Backloggd ↗](https://www.backloggd.com/search/games/Age%20of%20Empires%3A%20The%20Age%20of%20Kings)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co1xy3.jpg) `🏷 Strategy` [Backloggd ↗](https://www.backloggd.com/search/games/Age%20of%20Empires%3A%20The%20Age%20of%20Kings)
 > A surprisingly competent portable adaptation of the RTS classic, with a turn-based twist that actually works on a handheld.
 
 > [!failure]- 🚫 Top 5 to Avoid
@@ -467,23 +467,23 @@ aliases: [MC Smooth, MC_Smooth, "MC_Smooth — What To Play Next"]
 ## 🎒 Nintendo 3DS
 
 > [!tip] 🥇 [[Crimson Shroud]] ✨
-> `🏷 Tabletop RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Crimson%20Shroud)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co2gxy.jpg) `🏷 Tabletop RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Crimson%20Shroud)
 > A Yasumi Matsuno (Final Fantasy Tactics, Vagrant Story) eShop original that plays out like a tabletop RPG session, complete with dice rolls read aloud — a genuinely unique presentation for a tight, well-written dungeon-crawl.
 
 > [!tip] 🥈 [[Etrian Mystery Dungeon]] ✨
-> `🏷 Roguelike Dungeon Crawler` [Backloggd ↗](https://www.backloggd.com/search/games/Etrian%20Mystery%20Dungeon)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co2w77.jpg) `🏷 Roguelike Dungeon Crawler` [Backloggd ↗](https://www.backloggd.com/search/games/Etrian%20Mystery%20Dungeon)
 > Etrian Odyssey's grid-mapping dungeon crawling crossed with Mystery Dungeon's roguelike systems — deep, replayable, criminally overlooked.
 
 > [!tip] 🥉 [[Sayonara Umihara Kawase]] ✨
-> `🏷 Platformer` [Backloggd ↗](https://www.backloggd.com/search/games/Sayonara%20Umihara%20Kawase)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co2mhy.jpg) `🏷 Platformer` [Backloggd ↗](https://www.backloggd.com/search/games/Sayonara%20Umihara%20Kawase)
 > A cult-classic elastic-fishing-rod platformer — deceptively deep momentum-based movement that speedrunners still obsess over.
 
 > [!quote] #4 [[The Denpa Men: They Came By Wave]] ✨
-> `🏷 RPG` [Backloggd ↗](https://www.backloggd.com/search/games/The%20Denpa%20Men%3A%20They%20Came%20By%20Wave)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co4wgw.jpg) `🏷 RPG` [Backloggd ↗](https://www.backloggd.com/search/games/The%20Denpa%20Men%3A%20They%20Came%20By%20Wave)
 > A monster-catching RPG where you literally catch creatures out of real-world radio waves using the 3DS mic — a genuinely inventive AR-lite gimmick with real RPG systems behind it.
 
 > [!quote] #5 [[Fairune]] ✨
-> `🏷 Action RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Fairune)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co237c.jpg) `🏷 Action RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Fairune)
 > A tiny, sharp puzzle-action RPG in the vein of the original Zelda — short, clever, and free of padding.
 
 > [!failure]- 🚫 Top 5 to Avoid
@@ -498,23 +498,23 @@ aliases: [MC Smooth, MC_Smooth, "MC_Smooth — What To Play Next"]
 ## 🎒 PlayStation Portable
 
 > [!tip] 🥇 [[Ys VI: The Ark of Napishtim]] ✨
-> `🏷 Action RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Ys%20VI%3A%20The%20Ark%20of%20Napishtim)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co5tx0.jpg) `🏷 Action RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Ys%20VI%3A%20The%20Ark%20of%20Napishtim)
 > Fast, satisfying bump-combat action-RPG with a genuinely gripping mythological plot — Falcom's Ys series at its most accessible entry point.
 
 > [!tip] 🥈 [[Lunar: Silver Star Harmony]] ✨
-> `🏷 JRPG` [Backloggd ↗](https://www.backloggd.com/search/games/Lunar%3A%20Silver%20Star%20Harmony)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co1pnn.jpg) `🏷 JRPG` [Backloggd ↗](https://www.backloggd.com/search/games/Lunar%3A%20Silver%20Star%20Harmony)
 > A beloved anime-style JRPG remake with genuinely warm writing and a soundtrack people still talk about — pure comfort-food fantasy epic.
 
 > [!tip] 🥉 [[Phantasy Star Portable 2]] ✨
-> `🏷 Online Action RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Phantasy%20Star%20Portable%202)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co2379.jpg) `🏷 Online Action RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Phantasy%20Star%20Portable%202)
 > Portable co-op looter-RPG with real online multiplayer depth — the handheld continuation of the same lineage as the GameCube PSO pick.
 
 > [!quote] #4 [[Umineko no Naku Koro ni: Episode 4 - Alliance of the Golden Witch]] ✨
-> `🏷 Visual Novel · Mystery` [Backloggd ↗](https://www.backloggd.com/search/games/Umineko%20no%20Naku%20Koro%20ni%3A%20Episode%204%20-%20Alliance%20of%20the%20Golden%20Witch)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co78nf.jpg) `🏷 Visual Novel · Mystery` [Backloggd ↗](https://www.backloggd.com/search/games/Umineko%20no%20Naku%20Koro%20ni%3A%20Episode%204%20-%20Alliance%20of%20the%20Golden%20Witch)
 > A dense, meta murder-mystery visual novel with a genuinely committed cult following — heavy reading, huge payoff.
 
 > [!quote] #5 [[Crazy Taxi: Fare Wars]] ✨
-> `🏷 Arcade Racing` [Backloggd ↗](https://www.backloggd.com/search/games/Crazy%20Taxi%3A%20Fare%20Wars)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co4nwr.jpg) `🏷 Arcade Racing` [Backloggd ↗](https://www.backloggd.com/search/games/Crazy%20Taxi%3A%20Fare%20Wars)
 > A great two-in-one arcade racer bundle — pure pick-up-and-play energy for a short session.
 
 > [!failure]- 🚫 Top 5 to Avoid
@@ -529,23 +529,23 @@ aliases: [MC Smooth, MC_Smooth, "MC_Smooth — What To Play Next"]
 ## 🎒 PlayStation Vita
 
 > [!tip] 🥇 [[God Eater 2]] ✨
-> `🏷 Action RPG` [Backloggd ↗](https://www.backloggd.com/search/games/God%20Eater%202)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co2q8y.jpg) `🏷 Action RPG` [Backloggd ↗](https://www.backloggd.com/search/games/God%20Eater%202)
 > A Monster Hunter-adjacent action-RPG with faster combat and a genuinely strong story about a world eaten by monsters — big cast, big stakes, real co-op hunts.
 
 > [!tip] 🥈 [[Romancing SaGa 3]] ✨
-> `🏷 JRPG` [Backloggd ↗](https://www.backloggd.com/search/games/Romancing%20SaGa%203)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co1sxo.jpg) `🏷 JRPG` [Backloggd ↗](https://www.backloggd.com/search/games/Romancing%20SaGa%203)
 > A famously non-linear SaGa entry with multiple playable protagonists and genuinely reactive world systems — a JRPG structure that rewards replaying with a totally different lens.
 
 > [!tip] 🥉 [[Grand Kingdom]] ✨
-> `🏷 Tactical RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Grand%20Kingdom)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co2q9m.jpg) `🏷 Tactical RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Grand%20Kingdom)
 > A mercenary-band tactics-RPG with online PvP and a genuinely inventive lane-based battle system — deep, mechanically distinct tactics game.
 
 > [!quote] #4 [[Volume]] ✨
-> `🏷 Stealth` [Backloggd ↗](https://www.backloggd.com/search/games/Volume)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co7kfr.jpg) `🏷 Stealth` [Backloggd ↗](https://www.backloggd.com/search/games/Volume)
 > A minimalist, narrated Robin Hood-themed stealth game with sharp, replayable level design.
 
 > [!quote] #5 [[Valkyria Revolution]] ✨
-> `🏷 Action RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Valkyria%20Revolution)
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co1z4k.jpg) `🏷 Action RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Valkyria%20Revolution)
 > A spin-off from the beloved Valkyria Chronicles line with real-time combat and a war-drama story about revolution and loyalty.
 
 > [!failure]- 🚫 Top 5 to Avoid
