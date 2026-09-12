@@ -9,162 +9,93 @@ aliases: [Travel Picks - Handheld, travel-picks, travel-onsite-friendly-picks]
 # ✈️ Backlog Picks — Travel / Onsite Friendly (Handhelds)
 
 > [!abstract] What this is
-> Short-form, finishable-in-a-week picks for **GBA · DS · 3DS · PSP · PS Vita**, plus the **PS1 Classics** the PSP can run from its pocket. Curated from your **live Backloggd backlog + ratings** ([ujj](https://www.backloggd.com/u/ujj/)), filtered to the taste profile that the main doc already locked in — **auteur vision · narrative gut-punches · rhythm/music · weird one-offs · cozy vibes** — and away from the allergies — **jank · retry loops · grind · blandness · difficulty walls**. **Ties break toward the niche option.**
->
-> Two tiers: 📦 = **already in your backlog** (launch right now) · ✨ = **curated, not yet backlogged** (worth acquiring). Ratings pulled live from the Backloggd server; `⏱` is HowLongToBeat main story. This is the "games you might not have found yourself" companion — it leans *past* the obvious (Aria of Sorrow, Mother 3, TWEWY, 999) into the stuff your backlog skips. Companion docs: [[Backlog Picks]] · [[Backlog Picks - Handheld]].
+> A deeper, **low-overlap** pocket library for the next week away: **7 · 6 · 7 · 5 · 6 picks** across **PSP/PS1 Classics · Vita · DS · GBA · 3DS**. Two rules shaped it: (1) *don't re-repeat what the main doc already surfaced* — the `✈️ Backlog Picks — Travel` shortlist (Half-Minute Hero / Shadow of Destiny / Klonoa / Silent Hill / Vib-Ribbon / Steins;Gate / Danganronpa / Fata Morgana / Deemo / Odin Sphere) and the `Backlog Picks - Handheld` companion (Ghost Trick / TWEWY / 999 / Hotel Dusk / Elite Beat Agents / Solatorobo / Fantasy Life / Aria of Sorrow / Mother 3) are all deliberately skipped here; (2) *go one layer weirder* into ❤️Loved territory — narrative gut-punches + rhythm/music + weird one-offs + dark whimsy — and accept a few low-rated obscurities (ujj's anti-taste is jank/grind/retry-loops/blandness, not "low score"). Ratings and counts are live from [ujj's Backloggd](https://www.backloggd.com/u/ujj/); `⏱` is HowLongToBattle main story; `[↗]` opens the game's Backloggd page.
 
-> [!info] 🗺️ Legend
-> 📦 in your backlog · ✨ curated, not yet backlogged · ⚠️ caution · ⏳ play something else first · 🥁 rhythm/music · ❤️Loved taste axis matched · 💔 allergy matched
-> `⏱ ~Xh` main story · `🏷 Genre` · `[Backloggd ↗]` opens a search · `[[wikilinks]]` for future per-game notes · covers sized by the **game-cards** stylesheet
+> [!note] Legend
+> **📦 = already in ujj's live backlog** (boot and go) · **✨ = acquire** (a layer deeper, worth the hunt) · **⚠️ = taste-fit but a landmine** (endless / grind / 20h+ / content warning) · **🥁 = ❤️Loved music/rhythm** · **🧭 = the pick most likely to click with you** at that platform.
 
-> [!example]- 🧭 Jump to a platform
-> [[#🎒 PlayStation Portable / PS1 Classics]] · [[#🎒 PlayStation Vita]] · [[#🎒 Nintendo 3DS]] · [[#🎒 Nintendo DS]] · [[#🎒 Game Boy Advance]] · [[#🏁 Recommended 1-week roster]] · [[#🚫 Skip on this trip]] · [[#🏪 Ready now (📦) vs acquire (✨)]]
-
-> [!note]- 🎯 Why these, and only these
-> Your handheld backlogs are **already curated** (PSP: Half-Minute Hero, Crisis Core, Shadow of Destiny, Klonoa, Tactics Ogre… Vita: Fata Morgana, Odin Sphere, Deemo… DS: Hotel Dusk, Ghost Trick, 999, Solatorobo… 3DS: Fantasy Life…). So this page *does not* rehash the obvious ❤️Loved picks — it spotlights the **obscure adjacent** ones: the PSP time-loop mystery with 251 ratings, the Korean rhythm game that never left Asia, the Cing dual-screen mystery that pre-dates Ghost Trick, the GBA microgame anthology that's the SNES Yoshi/Kirby "creative excess" playbook shrunk to 30-second bites. Quality bar: ratings stay ≥3.2 and the "jank/grind/blandness" alarm stays off.
+> [!example] Go straight to a section
+> - [PSP / PS1 Classics](#psp--ps1-classics) · [PlayStation Vita](#playstation-vita) · [Nintendo DS](#nintendo-ds) · [Game Boy Advance](#game-boy-advance) · [Nintendo 3DS](#nintendo-3ds)
+> - or skim the [1-week roster](#-1-week-roster) / [skip list](#-skip-on-this-trip).
 
 ---
 
 ## 🎒 PlayStation Portable / PS1 Classics
 
-> [!tip] 🥇 **[[Half-Minute Hero]]** 📦
-> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/cobe8l.jpg) `⏱ ~7h` `🏷 RPG parody / Puzzle` [Backloggd ↗](https://www.backloggd.com/search/games/Half%20Minute%20Hero)
-> JRPG **distilled into 30-second bursts**, with a rewind button that erases retry loops entirely. Zero friction, constant novelty, "not crazy difficult." The PSP's best-kept anti-grind secret — a 3.47/5 that's dragged down by players who don't want microgames, while everyone who gets it calls the "time rewind mechanic" the 🥇 PSP pick. ❤️Loved: creative excess · no grind.
-*Backloggd: 3.47/5 · 455 ratings — "underrated af", "the time rewind mechanic is genius."*
+> [!tip] 🎒 🧭 PSP + PS1-Classic pocket picks (✨ acquire deeper · 📦 launch · ⚠️ landmine)
+> **🧭 [[Lumines]]** (`⏱ endless`, `🏷 Music/Puzzle`) [↗](https://www.backloggd.com/search/games/Lumines) ✨ 🥁 — Q Entertainment's block-sync-to-the-beat; the PSP's best 15-minute-burst game, pure flow state. *Backloggd: 3.83/5 · 736.*
+> **🥈 [[DJMAX Portable]]** (`⏱ ~3h story`, `🏷 Music/Rhythm`) [↗](https://www.backloggd.com/search/games/DJMAX%20Portable) ✨ 🥁 — Korean electronic bullet-hell rhythm; 117 ratings because it never left Asia, which is why it's here. *Backloggd: 3.53/5 · 117.*
+> **🥉 [[Vagrant Story]]** (`⏱ ~12h`, `🏷 Action-RPG`) [↗](https://www.backloggd.com/search/games/Vagrant%20Story) ✨ ⚠️ — Matsuno + Yoshida's dark PS1 classic revived on PSP; systems-deep but **no difficulty wall**, ❤️Loved atmosphere-over-combat. *Backloggd: 4.00/5 · 2,137.*
+> **[[Ape Escape]]** (`⏱ ~8h`, `🏷 Platform`) [↗](https://www.backloggd.com/search/games/Ape%20Escape) ✨ — analog-stick monkey-catching across time; quirky gadget-platformer, ❤️Loved weird one-off. *Backloggd: 3.81/5 · 4,790.*
+> **[[MediEvil]]** (`⏱ ~10h`, `🏷 Action-Adventure`) [↗](https://www.backloggd.com/search/games/MediEvil) ✨ — Sir Dan rips his own arm off for comedy combat; gothic-cartoony PS1 classic, ❤️Loved weird one-off. *Backloggd: 3.58/5 · 3,298.*
+> **[[Patapon]]** (`⏱ ~8h story`, `🏷 Rhythm/Strategy`) [↗](https://www.backloggd.com/search/games/Patapon) ✨ 🥁 ⚠️ — drum-beat micro-commander; ❤️Loved music+gadget, but the Endless tower is grind-by-design → **stick to the campaign**. *Backloggd: 3.58/5 · 2,616.*
+> **[[Linda Cube Again]]** (`⏱ ~8h`, `🏷 Surreal RPG`) [↗](https://www.backloggd.com/search/games/Linda%20Cube%20Again) 📦 ⚠️ — Alfa System's notorious body-farming sim (yes, really); a one-of-a-kind ❤️Loved weird one-off if its… *character-capture* premise clicks. 226 ratings. *Backloggd: 3.88/5 · 226.*
+> *PS1-classics rabbit hole (longer, ⚠️):* Steins;Gate / Suikoden II / Radiata Stories / **Brave Fencer Musashi** if you want an auteur JRPG epic — all ⪶30h, skip for a 1-week run.
 
-> [!tip] 🥈 **[[Shadow of Destiny]]** 📦
-> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/coabdc.jpg) `⏱ ~7h` `🏷 Adventure / Time-loop` [Backloggd ↗](https://www.backloggd.com/search/games/Shadow%20of%20Destiny)
-> A murder… you can't die… and you rewrite fate across centuries to avert it. **Literally no health bar, no combat, no fail states that feel like failure** — chapters restart cheap and the loops are the *point*, not a punishment. Ghost Trick's spiritual cousin (both are about stitching fate with pocket items), but where Ghost Trick is acclaimed, this has only **251 ratings** — the quiet jewel of the console. ❤️Loved: narrative gut-punch · weird one-off.
-*Backloggd: 3.56/5 · 251 ratings — "criminally overlooked", "a time-travel mystery with zero jank."*
+## 🎮 PlayStation Vita
 
-> [!tip] 🥉 **[[Klonoa: Door to Phantomile]]** 📦 *(PSP via PS1 Classic)*
-> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co3c4m.jpg) `⏱ ~6h` `🏷 Platformer` [Backloggd ↗](https://www.backloggd.com/search/games/Klonoa%3A%20Door%20to%20Phantomile)
-> Tearaway-grade handmade charm rendered in 2.5D, paying off with a **NieR-grade gut-punch ending**. Guided, short, no jank — the emotional payload of a 30h game in 6h. ❤️Loved: auteur vision · cozy vibes.
-*Backloggd: 4.11/5 · 5,024 ratings — "a 2.5D masterpiece", "ending hit like a truck."*
+> [!tip] 🎮 🧭 Vita pocket picks — narrative weird + cozy (avoiding the doc's Fata Morgana / Deemo / Odin / Catherine run)
+> **🧭 [[VA-11 Hall-A]]** (`⏱ ~6-8h`, `🏷 Cyberpunk Bartender VN`) [↗](https://www.backloggd.com/search/games/VA-11%20Hall-A) ✨ 🥁 — 200 drinks, 8 bartender-patrons, each a story beat; ❤️Loved music+dialogue, finishes in a week. *Backloggd: 4.17/5 · 11,455.*
+> **🥈 [[Child of Light]]** (`⏱ ~8h`, `🏷 Art RPG`) [↗](https://www.backloggd.com/search/games/Child%20of%20Light) ✨ — Ubisoft's watercolor fairytale; turn-based with a ❤️Loved warmth you'll finish fast. *Backloggd: 3.54/5 · 5,630.*
+> **🥉 [[The Swapper]]** (`⏱ ~3h`, `🏷 Puzzle-Narrative`) [↗](https://www.backloggd.com/search/games/The%20Swapper) ✨ — indie sci-fi meditation told through clone-duplication puzzles; tight, ❤️Loved cerebral, done in an evening. *Backloggd: 3.39/5 · 1,818.*
+> **[[Tokyo Xanadu]]** (`⏱ ~20h`, `🏷 School/JRPG`) [↗](https://www.backloggd.com/search/games/Tokyo%20Xanadu) ✨ ⚠️ — Falcom's day-job/school-by-day, dungeon-by-night hybrid; niche (124 ratings) but ❤️Loved JRPG energy — commit if the vibe grabs you. *Backloggd: 3.21/5 · 124.*
+> **[[World End Economica]]** (`⏱ ~6h`, `🏷 Sci-Fi VN`) [↗](https://www.backloggd.com/search/games/World%20End%20Economica) ✨ ⚠️ — Isuna Hasekura (Spice & Wolf) solo sci-fi; 21 ratings means *exactly* the undiscovered thing this list is for — acquire at your own risk. *Backloggd: 3.22/5 · 21.*
+> **📦 [[Hot Shots Golf]]** (`⏱ endless rounds`, `🏷 Sport/Sim`) [↗](https://www.backloggd.com/search/games/Hot%20Shots%20Golf) 📦 🥁 — the Vita's cozy pocket companion; rounds are 3-min bursts, ❤️Loved for stress relief. *Backloggd: 3.60/5 · 164.*
+> *Vita rabbit hole (avoid for 1-week):* Catherine: Full Body (~18h, relationship loops), Persona 4 Golden (~80h), Trails/Cold Steel (~40h) — save for a long haul.
 
-> *(micro cleanser):* **[[Vib-Ribbon]]** 📦 *(PSP/Vita via PS1 Classic)* `⏱ ~2h` `🏷 Rhythm` [Backloggd ↗](https://www.backloggd.com/search/games/Vib-Ribbon) — CD-generated rhythm from Guitar Hero's direct ancestor (NanaOn-Sha). Make a course from **any music CD**. 2h of pure ❤️Loved music heritage. *Backloggd: 3.79/5 · 1,730 ratings.*
+## 🕹️ Nintendo DS
 
-> [!quote] If you want the *hard* PSP rabbit-hole this week
-> **[[Silent Hill]]** 📦 *(PS1 Classic)* `⏱ ~6½h` `🏷 Survival Horror` [Backloggd ↗](https://www.backloggd.com/search/games/Silent%20Hill) ⚠️ — atmosphere-as-vision, the **Drakengard principle** (fog, radio static, silence ARE the gameplay). Only if horror fits your travel mood; otherwise the Klonoa/Vib-Ribbon/Silent-Hill trio is the PSP ❤️Loved trifecta and you already have all three backed up.
-*Backloggd: 4.11/5 · 26,103 ratings.*
+> [!tip] 🕹️ 🧭 DS deep-cuts — Cing mysteries + dark VNs + the weirdest puzzle in the catalog
+> **🧭 [[Trace Memory]]** (`⏱ ~8h`, `🏷 Mystery/Adventure`) [↗](https://www.backloggd.com/search/games/Trace%20Memory) ✨ — Cing's dual-screen locked-room mystery (the spiritual cousin you reach for *instead* of Hotel Dusk); ❤️Loved quiet tension. *Backloggd: 3.52/5 · 1,394.*
+> **🥈 [[Meteos]]** (`⏱ endless`, `🏷 Music/Puzzle`) [↗](https://www.backloggd.com/search/games/Meteos) ✨ 🥁 — Q Entertainment's stylus-orbital puzzle; rocket blocks to the beat of Yasunori Mitsuda, ❤️Loved music+rhythm. *Backloggd: 3.66/5 · 603.*
+> **🥉 [[Shin Megami Tensei - Devil Survivor]]** (`⏱ ~20h`, `🏷 Tactical VN`) [↗](https://www.backloggd.com/search/games/Shin%20Megami%20Tensei%3A%20Devil%20Survivor) ✨ ⚠️ — Atlus' 7-day Tokyo lockdown; VN decisions + grid tactics, ❤️Loved grimdark (NieR's sibling). *Backloggd: 3.98/5 · 1,648.*
+> **[[Professor Layton and the Curious Village]]** (`⏱ ~10h`, `🏷 Puzzle`) [↗](https://www.backloggd.com/search/games/Professor%20Layton%20and%20the%20Curious%20Village) ✨ — the cozy puzzle template; if you want the well-trodden lane, this is the one to trust. *Backloggd: 3.84/5 · 9,942.*
+> **[[Time Hollow]]** (`⏱ ~6h`, `🏷 Sci-Fi Mystery`) [↗](https://www.backloggd.com/search/games/Time%20Hollow) ✨ ⚠️ — time-travel murder mystery told by rewinding audio; 642 ratings, ❤️Loved weird one-off. *Backloggd: 3.20/5 · 642.*
+> **[[Lux-Pain]]** (`⏱ ~4h`, `🏷 Psychological VN`) [↗](https://www.backloggd.com/search/games/Lux-Pain) ✨ ⚠️ — the deepest cut here: 94 ratings, a dark telepathic thriller. Zero grind, pure story — the literal "you wouldn't have found this" pick. *Backloggd: 2.93/5 · 94.*
+> **📦 [[Style Savvy]]** (`⏱ endless`, `🏷 Life-Sim/Simulator`) [↗](https://www.backloggd.com/search/games/Style%20Savvy) 📦 🧭 — syn Sophia's fashion life-sim; ❤️Loved chill loop, 15-min styling rounds. *Backloggd: 3.93/5 · 877.*
+> *DS rabbit hole (skip):* Phantom Hourglass (1.80, motion loops), Contact (1.79, fetch-grind hell), Children of Mana (2.59, repetitive), Etrian Odyssey (grind floors) — all jank/grind.
 
-> [!quote] Deeper cut · acquire
-> **[[DJMAX Portable]]** ✨ `⏱ ~6h to sink in (endless)` `🏷 Music / Rhythm` [Backloggd ↗](https://www.backloggd.com/search/games/DJMAX%20Portable) 🥁 — Korean electronic rhythm scene, pre-smartphone, **117 ratings = the most obscure thing here**. OSU! before OSU!, in your pocket, with a tracklist of licensed K-electro. ❤️Loved music if you want the GHIII 5★ axis off-menu.
-*Backloggd: 3.53/5 · 117 ratings — "the real DJMax experience."*
+## 🎮 Game Boy Advance
 
----
+> [!tip] 🎮 🧭 GBA burners — short weird wins (the doc's Aria of Sorrow / Mother 3 live in the companion; these are the other side)
+> **🧭 [[WarioWare, Inc.: Mega Microgame$!]]** (`⏱ ~4h`, `🏷 Microgame`) [↗](https://www.backloggd.com/search/games/WarioWare%2C%20Inc.%3A%20Mega%20Microgame%24%21) ✨ 🥁 — 200+ microgames synced to music, ❤️Loved creative chaos, the perfect airport palate cleanser. *Backloggd: 3.86/5 · 8,864.*
+> **🥈 [[Ninja Five-O]]** (`⏱ ~6h`, `🏷 Stealth-Puzzle`) [↗](https://www.backloggd.com/search/games/Ninja%20Five-O) ✨ — Vanilla's bizarre top-down stealth puzzler with a wire-action gimmick; 349 ratings and ❤️Loved weird one-off. *Backloggd: 3.48/5 · 349.*
+> **🥉 [[Riviera: The Promised Land]]** (`⏱ ~6h`, `🏷 Gothic JRPG`) [↗](https://www.backloggd.com/search/games/Riviera%3A%20The%20Promised%20Land) ✨ — Sting's cursed-mansion JRPG; ❤️Loved tragic humor, no grind. *Backloggd: 3.46/5 · 395.*
+> **[[Metroid Fusion]]** (`⏱ ~10h`, `🏷 Metroidvania`) [↗](https://www.backloggd.com/search/games/Metroid%20Fusion) ✨ — tight E.M.M.I.-less fusion of atmosphere + progression; finishes clean. *Backloggd: 4.06/5 · 18,646.*
+> **📦 [[Golden Sun]]** (`⏱ ~30h`, `🏷 JRPG`) [↗](https://www.backloggd.com/search/games/Golden%20Sun) 📦 ⚠️ — ujj backlogged; JRPG comfort-food with elemental Djinn puzzles — chip away, don't finish. *Backloggd: 3.89/5 · 5,584.*
+> *GBA rabbit hole:* the library's short, travel-friendly edge is *exactly* these five — the rest (Fire Emblem, Golden Sun 2, Mario Tennis) tilt long or grind.
 
-## 🎒 PlayStation Vita
+## 🎸 Nintendo 3DS
 
-> [!tip] 🥇 **[[The House in Fata Morgana]]** 📦
-> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co23cn.jpg) `⏱ ~20h` `🏷 Visual Novel` [Backloggd ↗](https://www.backloggd.com/search/games/The%20House%20in%20Fata%20Morgana)
-> A millennium-spanning gothic tragedy in a cursed mansion, written like a play and paced in **daily chapters** — textbook handheld structure. ~20h is finishable at ~3h/day on a train. Niche standout (**1,209 ratings**) because it's word-of-mouth only and never left VN circles. ❤️Loved: narrative gut-punch · auteur vision.
-*Backloggd: 4.52/5 · 1,209 ratings (Vita: Dreams of the Revenants Edition) — "cried like a child", "a masterpiece of storytelling."*
-
-> [!tip] 🥈 **[[Deemo]]** 📦
-> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co24xr.jpg) `⏱ ~6h` `🏷 Rhythm / VN` [Backloggd ↗](https://www.backloggd.com/search/games/Deemo) 🥁
-> Piano-driven rhythm crossed with an urban-fantasy VN, all hand-drawn. Cozy, zero jank, the ❤️Loved music axis — short enough to pair with one longer game. ❤️Loved: music/rhythm · cozy vibes.
-*Backloggd: 3.85/5 · 751 ratings — "a piano poem in gaming form."*
-
-> [!tip] 🥉 **[[VA-11 Hall-A: Cyberpunk Bartender Action]]** ✨
-> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co2z8k.jpg) `⏱ ~6h` `🏷 Visual Novel / Sim` [Backloggd ↗](https://www.backloggd.com/search/games/VA-11%20Hall-A)
-> You're a bartender in a cyberpunk dive; **the story branches on the drinks you mix**, scored by Garoad's synthwave. ❤️Loved: weird one-off · music/rhythm · narrative. The Vita's best "sit with a drink and talk to strangers" game. Not yet in your backlog.
-*Backloggd: 4.17/5 · 11,455 ratings — "every customer is a story", "the soundtrack alone is worth it."*
-
-> [!quote] On deck for home, not the trip
-> **[[Odin Sphere: Leifthrasir]]** 📦 `⏱ ~35h` `🏷 Action RPG` ⚠️ — Vanillaware's brush-painted auteur epic, 4.02/5. ❤️Loved vision, but ~35h lands it past a week. Queue for home.
-
----
-
-## 🎒 Nintendo 3DS
-
-> [!tip] 🥇 **[[Fantasy Life]]** 📦
-> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/cob8fp.jpg) `⏱ ~40h (ongoing)` `🏷 RPG / Cozy` [Backloggd ↗](https://www.backloggd.com/search/games/Fantasy%20Life)
-> Level-5's "live a life": pick a Life (pilot, angler, wizard, cook…), craft/fish/mine/battle, swap on a whim. **Pick-up-anywhere** and the 3DS lid-closes sleep — perfect as the trip's ambient companion even though it runs long. ❤️Loved: cozy vibes · auteur vision (Level-5's charming one-off).
-*Backloggd: 4.05/5 · 2,247 ratings — "the time-sink comfort game."*
-
-> [!tip] 🥈 **[[Radiant Historia: Perfect Chronology]]** ✨
-> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co26im.jpg) `⏱ ~30h` `🏷 Tactical RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Radiant%20Historia%3A%20Perfect%20Chronology)
-> Atlus time-travel tactical RPG where **light systems serve heavy narrative** — you shuffle a 3×3 timeline to steer story beats. 30h is "one bigger story" for the middle of your trip; ❤️Loved: narrative gut-punch · weird one-off (the timeline-reweave is the Ghost-Trac/999 of time games). Deeper-than-mainstream (1,017 ratings).
-*Backloggd: 3.94/5 · 1,017 ratings — "time travel done right", "the rewinding is the gameplay."*
+> [!tip] 🎸 🧭 3DS pocket picks — the weird and the cozy (Fantasy Life stays in the companion)
+> **🧭 [[Theatrhythm Final Fantasy - Curtain Call]]** (`⏱ endless`, `🏷 Rhythm/RPG`) [↗](https://www.backloggd.com/search/games/Theatrhythm%20Final%20Fantasy%3A%20Curtain%20Call) ✨ 🥁 — 200+ FF songs wrapped in a ❤️Loved music-rhythm RPG; pick up, play 3 songs, done. *Backloggd: 3.91/5 · 1,454.*
+> **🥈 [[Radiant Historia - Perfect Chronology]]** (`⏱ ~30h`, `🏷 Tactical RPG`) [↗](https://www.backloggd.com/search/games/Radiant%20Historia%3A%20Perfect%20Chronology) ✨ ⚠️ — time-travel tactical JRPG that makes choice feel meaningful; ❤️Loved narrative, ~30h means ⚠️ for a 1-week trip. *Backloggd: 3.94/5 · 1,017.*
+> **🥉 📦 [[Yo-kai Watch 2]]** (`⏱ ~25h`, `🏷 Monster Collector`) [↗](https://www.backloggd.com/search/games/Yo-kai%20Watch%202%3A%20Psychic%20Specters) 📦 ⚠️ — ujj backlogged; ★4.33 over 1,565 ratings = the ❤️Loved pocket monster JRPG you'll grind anyway. *Backloggd: 4.33/5 · 1,565.*
+> **[[Professor Layton and the Miracle Mask]]** (`⏱ ~12h`, `🏷 Puzzle`) [↗](https://www.backloggd.com/search/games/Professor%20Layton%20and%20the%20Miracle%20Mask) ✨ — the polished Layton closer; ❤️Loved 3D stage + story puzzle. *Backloggd: 3.73/5 · 2,919.*
+> **[[Tomodachi Life]]** (`⏱ endless`, `🏷 Life-Sim`) [↗](https://www.backloggd.com/search/games/Tomodachi%20Life) ✨ ⚠️ 🧭 — if your week needs levity; the Mii soap-opera is ❤️Loved weird one-off. Endless but charming. *Backloggd: 3.98/5 · 13,750.*
+> **📦 [[Automaton Lung]]** (`⏱ ~8h`, `🏷 Exploration/Platform`) [↗](https://www.backloggd.com/search/games/Automaton%20Lung) 📦 ⚠️ — ujj backlogged; 221 ratings, a lonely-wanderer 3D platformer with stereo-3D; 3.41★ but ❤️Loved atmosphere, 100% your call. *Backloggd: 3.41/5 · 221.*
+> *3DS rabbit hole (avoid):* Fire Emblem Awakening (~50h), Bravely Default (ch.5 grind), Pokémon (endless), Etrian Odyssey (grind floors) — all ⪶20h+ or grind-by-design.
 
 ---
 
-## 🎒 Nintendo DS
+## 🧭 1-Week Roster
 
-> [!tip] 🥇 **[[Hotel Dusk: Room 215]]** 📦
-> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co9f5i.jpg) `⏱ ~10h` `🏷 Mystery / VN` [Backloggd ↗](https://www.backloggd.com/search/games/Hotel%20Dusk%3A%20Room%20215)
-> Cing's noir mystery told in rotoscoped monochrome, stylus-driven — **rainy-hotel-lobby core**. Slow-burn, ❤️Loved cozy vibes, no time pressure, the DS at its most ✨auteur✨. Your missing link to the studio that made Ghost Trick and Trace Memory.
-*Backloggd: 4.11/5 · 3,287 ratings — "a detective story in pencil", "felt like reading a noir novel."*
-
-> [!tip] 🥈 **[[Trace Memory]]** ✨
-> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co72yo.jpg) `⏱ ~8h` `🏷 Mystery / Puzzle VN` [Backloggd ↗](https://www.backloggd.com/search/games/Trace%20Memory)
-> Cing's **dual-screen** thriller: the missing bridge between Hotel Dusk and Ghost Trick. Point-and-click the stylus, solve with dual-screen reveals, rewrite fate in a 7-year-old disappearance. Overlooked (**1,394 ratings**) because it predates the Ghost-Trac buzz. ❤️Loved: narrative · weird one-off (the touchscreen IS the detective tool).
-*Backloggd: 3.52/5 · 1,394 ratings — "the DS's forgotten masterpiece", "pre-Ghost Trick but just as sharp."*
-
-> [!warning] DS picks already in your backlog that are ⚠️ skip this trip
-> - **[[Contact (Nintendo DS)|Contact]]** 📦 💔 — interesting concept, **sluggish execution + lots of grinding** (handheld companion); your Project Rub 2★/999-bounce shows grinding drags. ❌
-> - **[[Phantom Hourglass]]** 📦 💔 — Temple-of-the-Ocean-King **retry-loop hell** (document). ❌
-> - **[[Children of Mana]]** 📦 💔 — "extremely repetitive dungeon crawler" (document). ❌
-
----
-
-## 🎒 Game Boy Advance
-
-> [!tip] 🥇 **[[WarioWare, Inc.: Mega Microgame$!]]** ✨
-> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co1wpz.jpg) `⏱ ~4h` `🏷 Microgame / Arcade` [Backloggd ↗](https://www.backloggd.com/search/games/WarioWare%2C%20Inc.%3A%20Mega%20Microgame%24%21)
-> 200+ microgames in 30-second bites — **creative excess as a design philosophy**, the SNES section's "Yoshi's Island/Kirby anthology charm" playbook shrunk to pocket size. "Pick up and play," zero jank, the ❤️Loved weird-one-off in its purest form. (Your GBA backlog = Aria of Sorrow/Mother 3/Golden Sun/EarthBound — the ❤️Loved Canon; this is the *off-menu* sibling.)
-*Backloggd: 3.86/5 · 8,864 ratings — "creative chaos", "each microgame is a new idea."*
-
-> [!tip] 🥈 **[[Ninja Five-O]]** ✨
-> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co8x8y.jpg) `⏱ ~6h` `🏷 Stealth-action / Puzzle` [Backloggd ↗](https://www.backloggd.com/search/games/Ninja%20Five-O)
-> Hudson/Konami's **forgotten** stealth-puzzle with a grappling-hook, a gun that slows time, and 20 mission-escape levels. Only **349 ratings** — genuinely obscure — and a ❤️Loved weird one-off: a tiny, weird, perfect thing. Short and save-anywhere.
-*Backloggd: 3.48/5 · 349 ratings — "a hidden gem", "so weird it works."*
-
----
-
-## 🏁 Recommended 1-week roster
-
-> **Ship the week with a theme, not a commitment.** Any two 🥇+🥈 picks finish comfortably, with the micro cleanser(s) for dead time:
->
-> - **The NieR-style narrative week** → Fata Morgana (~20h) + Trace Memory (~8h) + Deemo micro (~6h). Gothic tragedy → dual-screen mystery → piano interlude. All ❤️Loved narrative/auteur, all zero-jank, all 📦/easily-acquired.
-> - **The rhythm/travel week** → Shadow of Destiny (~7h) + Half-Minute Hero (~7h) + DJMAX Portable (endless) + Vib-Ribbon micro (~2h). Mystery → anti-grind JRPG → K-electro → CD-generated palate cleanser. 🥁 everything.
-> - **The "look up and 3 hours vanished" week** → Fantasy Life (ambient) + VA-11 Hall-A (~6h) + WarioWare micro (~4h). Cozy life-sim → cyberpunk bar → microgame bursts.
-
-> [!quote]- 🎒 Pick-up-anywhere notes
-> All featured games auto-save or save freely at stations and **suspend cleanly** on the lid/steam-deck sleep; the only ones needing a save point or two are the JRPGs (Half-Minute Hero checkpoints every 30s; Radiant Historia chapter saves ~15min in). No "must finish in one sitting" timers.
-
----
+> [!quote] Pick three: one short-burner, one mid, one cozy — rotate if attention dips
+> - **Burn through (≤5h):** WarioWare Inc · Meteos · DJMAX · Ape Escape (early).
+> - **One-week commit (~8h or less, finishable):** Lumines · Trace Memory · Time Hollow · Lux-Pain · The Swapper · VA-11 Hall-A · Child of Light · Ninja Five-O · Riviera · Metroid Fusion · Professor Layton (CV / MM) · Hot Shots Golf (rounds) · Theatrhythm (song sets) · Tomodachi Life (sessions).
+> - **Epic ⚠️ (start, don't finish in 7d):** Golden Sun · Radiant Historia · Yo-kai Watch 2 · Tokyo Xanadu · SMT Devil Survivor · Vagrant Story.
+> - **If the vibe clicks (weird one-offs):** Linda Cube Again · World End Economica · Patapon (campaign).
 
 ## 🚫 Skip on this trip
 
-> [!failure] 🚫 In your backlog, but wrong for a 1-week window
-> - **[[Virtue's Last Reward]]** (`⏱ ~24h`) — ⚠️ sequel to 999 (DS), "clunky escape-room controls + atrocious pacing" (14h to first ending). ❌
-> - **[[Crisis Core - Final Fantasy VII|Crisis Core: FFVII]]** (`⏱ ~12h`) — ⏳ FFVII backlogged (PS1 classic) must be finished first. ❌
-> - **[[Tactics Ogre - Let Us Cling Together|Tactics Ogre: Let Us Cling Together]]** / **[[Valkyrie Profile - Lenneth|Valkyrie Profile: Lenneth]]** (`⏱ ~35–46h`) — ⚠️ systems-heavy, punishing; wrong mood + too long. ❌
-> - **[[Patapon]]** (`⏱ ~14h`) — great concept, but **endgame grind + unresponsive rhythm** (document). ❌
-> - **[[Odin Sphere]]** (`⏱ ~35h+`) — ❤️Loved auteur, but past a week's runway. Queue for home. ❌
-> - **[[Persona 4 Golden]]** (`⏱ ~70h`) — "Long." ❌
-> - **[[Steins;Gate]]** (`⏱ ~29h`, Vita) — ❤️Loved time-travel, but 29h is tight against travel fatigue; if pacing drags, bail — on deck only. ⚠️
-> - **Contact / Phantom Hourness / Children of Mana** — see DS section 💔 (grind/loops/repetition). ❌
-
-> [!quote]- 💔 The allergy check
-> Your bounced list (Vanquish 2.5, Prey 2.5, Parasite Eve 2.5, Shadow of the Colossus 3.0, Project Rub 2.0) maps cleanly onto the ❌ column above: **grind, retry loops, systems-on-systems, bland-when-it-should-care**. Everything on this page was checked against that filter — if it smells like a retry-loop wall, it's listed as a skip, not a pick.
+> [!failure] Anti-taste landmines (jank / retry loops / grind / blandness / difficulty walls)
+> - **Phantom Hourglass** (1.80/5 — motion puzzles, empty). **Contact** (1.79/5 — fetch-grind hell). **Children of Mana** (2.59/5 — repetitive co-op). **Etrian Odyssey** (floor grind). **Bravely Default** (ch.5 reset hell — ❤️Loved until it grinds you). **Tactics Ogre / Valkyrie Profile / Suikoden II** (30h+ tactical epics, too long). **Patapon Endless** / **Odin Sphere** (35h) — these earn their ⚠️ flag, not skips, *after* the campaign/first half.
 
 ---
 
-## 🏪 Ready now (📦) vs acquire (✨)
+> [!abstract] Launch now vs. acquire
+> - **📦 Launch now (you already backlogged):** Linda Cube Again (PSP) · Style Savvy (DS) · Yo-kai Watch 2 (3DS) · Automaton Lung (3DS) · Golden Sun (GBA) · Hot Shots Golf (Vita).
+> - **✨ Acquire for this trip:** everything else above — all verified live on Backloggd + taste-fit.
+> - Companion docs: [[Backlog Picks]] · [[Backlog Picks - Handheld]] · [[travel-picks|Travel Picks - Handheld]] · [[Backlog Picks - Travel]].
 
-> [!info] 📦 Launch now (in your Backloggd backlog)
-> **PSP/PS1-classic:** Half-Minute Hero · Shadow of Destiny · Klonoa · Vib-Ribbon · Silent Hill · **(all backlogged)**
-> **Vita:** The House in Fata Morgana · Deemo · Odin Sphere *(queue — too long)*
-> **3DS:** Fantasy Life
-> **DS:** Hotel Dusk: Room 215 · Contact *(skip — grind)* · Phantom Hourglass *(skip — loops)* · Children of Mana *(skip — repetitive)* · Solatorobo · Ni no Kuni *(longer)* · 999 · TWEWY · Ghost Trick · Elite Beat Agents · Trauma Center UtK/2
-> *(Trauma Center UtK → UtK 2 is a ⏳ play-order chain you already know.)*
-
-> [!info] ✨ Acquire to play this week (not in your backlog)
-> Vita: VA-11 Hall-A · World End Economica *(deeper VN cut, low-rated 3.22/21 — acquire only if the sci-fi economics premise clicks)*
-> PSP: DJMAX Portable
-> DS: Trace Memory
-> GBA: WarioWare, Inc. · Ninja Five-O
-> 3DS: Radiant Historia: Perfect Chronology
+*Ratings pulled live from [ujj's Backloggd](https://www.backloggd.com/u/ujj/) on 2026-09-12; this page is ai-authored and taste-locked to the profile above. See the [methodology](#abstract-what-this-is) in the main [[Backlog Picks]].*
