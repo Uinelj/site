@@ -3,7 +3,7 @@ tags: [gaming, backlog, recommendations, travel, ai-authored]
 source: "https://www.backloggd.com/u/ujj/"
 updated: 2026-09-12
 cssclasses: [game-cards]
-aliases: [Travel Picks - Handheld, travel-picks, "travel-onsite-friendly-picks", "games/travel-picks"]
+aliases: [Travel Picks - Handheld, travel-picks, travel-onsite-friendly-picks]
 ---
 
 # ✈️ Backlog Picks — Travel / Onsite Friendly (Handhelds)

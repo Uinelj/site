@@ -966,4 +966,4 @@ aliases: [Backlog Picks, backlog-picks, "backlog-picks-—-platform-top-10s", "g
 > - **[[Persona 4 Golden]]** (`⏱ ~70h`) — the doc's own word: "Long."
 > - **[[Odin Sphere]]** (`⏱ ~35h+`) — Vanillaware auteur (4.02/5), but ~35h puts it past a 1-week travel window. Queue for home.
 
-*Companion docs: [[Backlog Picks]] · [[Backlog Picks - Handheld]] · [[Travel Picks - Handheld]]*
+*Companion docs: [[Backlog Picks]] · [[Backlog Picks - Handheld]] · [[travel-picks|Travel Picks - Handheld]]*
