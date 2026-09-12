@@ -941,4 +941,29 @@ aliases: [Backlog Picks, backlog-picks, "backlog-picks-—-platform-top-10s", "g
 > 4. [[Silent Hill]] → [[Silent Hill 3]] `~13h total` (PS1→PS2) — the newly-opened horror door
 > 5. [[No More Heroes]] `~12h` (Wii) — the standing console #1, unbeaten
 
+---
+
+## ✈️ Backlog Picks — Travel (1 week, PSP/Vita)
+
+> For a week on the move. Two tiers below: games **already in your Backloggd backlog (📦)** you can launch right now, and **curated picks (✨)** worth acquiring. All filtered to the taste profile (**auteur vision · narrative gut-punches · rhythm/music · weird one-offs · cozy vibes**) and away from the allergies (**jank · retry loops · grind · blandness · difficulty walls**), cross-checked against recent Backloggd reviews. **Ties broken toward the niche option.** Aggregate ratings pulled live from the Backloggd server.
+
+> [!tip] 🎯 📦 Ready now — in your backlog, finishable in a week
+> 🥇 **[[Half-Minute Hero]]** (`⏱ ~7h`, PSP) — JRPG deconstruction in 30-second bursts with a rewind button that **literally deletes retry loops**. Zero friction, constant novelty, "not crazy difficult." Your 🥇 PSP pick and the safest 1-week lock. *Backloggd: 3.47/5 · 455 ratings — popular reviews love the "time rewind mechanic", call it "underrated af".*
+> 🥈 **[The House in Fata Morgana: Dreams of the Revenants Edition](https://www.backloggd.com/search/games/The%20House%20in%20Fata%20Morgana%3A%20Dreams%20of%20the%20Revenants%20Edition)** (`⏱ ~20h`, Vita) — gothic, millennium-spanning VN about tragedy & human nature. Niche (only 1,209 ratings) but acclaimed; daily-chapter structure is handheld-perfect and ~20h is finishable at ~3h/day. **The niche standout on Vita right now.** *Backloggd: 4.52/5 · 1,209 ratings.*
+> 🥉 **[Deemo](https://www.backloggd.com/search/games/Deemo)** (`⏱ ~6h`, Vita) — piano-driven music/rhythm VN with hand-drawn art: cozy vibes + the ❤️Loved music/rhythm axis, zero jank. Short enough to pair with one longer game. *Backloggd: 3.85/5 · 751 ratings.*
+> *(micro cleanser):* **[[Vib-Ribbon (PS1 Classic)]]** (`⏱ ~2h`, PSP/Vita) — CD-generated rhythm oddity, the ❤️Loved heritage pick (Guitar Hero got 5★). A 2h palate cleanser, not a "main" finish. *Backloggd: 3.79/5 · 1,730 ratings.*
+> *PSP narrative alt:* **[[Shadow of Destiny]]** (`⏱ ~7h`, PSP) — time-loop murder mystery, all narrative, no combat/health bar (no jank at all), "Ghost Trick precursor in spirit," and genuinely obscure (3.56/5 · only 251 ratings). Niche-over-Klonoa if you want the weirder pick; **[[Klonoa - Door to Phantomile|Klonoa: Door to Phantomile]]** (~5h, 4.11/5 · 5,023 ratings) is the charm + NieR-grade gut-punch alternative if you'd rather the emotional ending.
+
+> [!quote] If you'd rather sink the week into one story
+> **[[Steins;Gate]]** (`⏱ ~29h`, Vita) — time-travel VN, near-unanimous 5★ ("blew my mind," "cried several times," "masterpiece"). 29h is tight against travel fatigue but the daily-bite chapter structure is handheld-perfect. The niche-over-mainstream call vs anime-mainstream Danganronpa. On deck if Steins;Gate's pacing feels too slow: **[[Danganronpa - Trigger Happy Havoc|Danganronpa: Trigger Happy Havoc]]** (`~26h`) — courtroom VN, "unhinged energy," 999-receptor, but mixed-jank ("clumsy trials," "predictable," "hasn't aged well").
+
+> [!failure] Skip on this trip
+> - **[[Virtue's Last Reward]]** (`⏱ ~24h`) — ⚠️ sequel to 999 (backlogged on DS); reviews flag "clunky escape-room controls" + "atrociously bad pacing" (14h to first ending). The caution flag is earned.
+> - **[[Crisis Core - Final Fantasy VII|Crisis Core: Final Fantasy VII]]** (`⏱ ~12h`) — ⏳ needs FF VII (backlogged, PS1) first; payoff is "because of FF VII context."
+> - **[[Metal Gear Solid - Peace Walker|Metal Gear Solid: Peace Walker]]** (`⏱ ~18h`) — ⏳ deep in the MGS chain (after 1, 2, 3).
+> - **[[Tactics Ogre - Let Us Cling Together|Tactics Ogre: Let Us Cling Together]]** / **[[Valkyrie Profile - Lenneth|Valkyrie Profile: Lenneth]]** (`⏱ ~35–46h`) — both ⚠️: systems-heavy, punishing, "strategic season, not casual." Wrong mood + too long.
+> - **[[Patapon]]** (`⏱ ~14h`) — great concept, but reviews flag endgame **grind** + unresponsive rhythm ("doesn't always feel responsive"). Square against the grain.
+> - **[[Persona 4 Golden]]** (`⏱ ~70h`) — the doc's own word: "Long."
+> - **[[Odin Sphere]]** (`⏱ ~35h+`) — Vanillaware auteur (4.02/5), but ~35h puts it past a 1-week travel window. Queue for home.
+
 *Companion docs: [[Backlog Picks]] · [[Backlog Picks - Handheld]]*
