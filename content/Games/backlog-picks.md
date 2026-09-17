@@ -1,7 +1,7 @@
 ---
 tags: [gaming, backlog, recommendations, ai-authored]
 source: "https://www.backloggd.com/u/ujj/"
-updated: 2026-09-12
+updated: 2026-09-17
 cssclasses: [game-cards]
 aliases: [Backlog Picks, backlog-picks, "backlog-picks-—-platform-top-10s", "games/backlog-picks-—-platform-top-10s"]
 ---
@@ -25,6 +25,7 @@ aliases: [Backlog Picks, backlog-picks, "backlog-picks-—-platform-top-10s", "g
 > **Nintendo home**: [[#🕹️ SNES]] · [[#🟣 GameCube]] · [[#🔵 Wii]] · [[#🔵 Wii U]] · [[#🔴 Switch]]
 > **PlayStation**: [[#💿 PlayStation 1]] · [[#💿 PlayStation 2]] · [[#💿 PlayStation 3]] · [[#💿 PlayStation 4]]
 > **Xbox**: [[#🟢 Xbox (Original)]] · [[#🟢 Xbox 360]] · [[#🟢 Xbox One]]
+> **Sega**: [[#🟦 Sega Genesis]] · [[#⚫ Sega Saturn]] · [[#⚪ Dreamcast]]
 > **Handhelds**: [[#🎒 Game Boy Advance]] · [[#🎒 Nintendo DS]] · [[#🎒 Nintendo 3DS]] · [[#🎒 PlayStation Portable]] · [[#🎒 PlayStation Vita]]
 
 > [!note]- ⏳ Play-order chains (don't break these)
@@ -929,6 +930,164 @@ aliases: [Backlog Picks, backlog-picks, "backlog-picks-—-platform-top-10s", "g
 > 3. [**Borderlands 2 (Vita)**](https://www.backloggd.com/search/games/Borderlands%202) `⏱ ~30h` `🏷 Looter Shooter` — A good game ported to a machine that can't run it. Technical misery.
 > 4. [**Ridge Racer (2011)**](https://www.backloggd.com/search/games/Ridge%20Racer%202011) `⏱ ~5h` `🏷 Racing` — Sold nearly content-free with DLC for the rest. Hostile by design.
 > 5. [**Parasite Eve (PS1 Classic re-attempt)**](https://www.backloggd.com/search/games/Parasite%20Eve) `⏱ ~14h` `🏷 Survival Horror RPG` 📦 ⚠️ — Already abandoned at the T-Rex; the survival layer won't have changed. If the itch returns, watch the rest — the vibes were the good part.
+
+---
+
+## 🟦 Sega Genesis
+
+> [!tip] 🥇 [[Phantasy Star IV|Phantasy Star IV: The End of the Millennium]] ✨
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co2g92.jpg) `⏱ ~28h` `🏷 JRPG` [Backloggd ↗](https://www.backloggd.com/search/games/Phantasy%20Star%20IV%3A%20The%20End%20of%20the%20Millennium)
+> The JRPG your SNES Chrono Trigger love maps onto directly: a tight sci-fi saga about fathers, sacrifice, and a galaxy-spanning menace, with a cast that feels lived-in and almost no filler. The anti-grind JRPG, 16-bit edition.
+
+> [!tip] 🥈 [[Beyond Oasis]] ✨
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co25nd.jpg) `⏱ ~8h` `🏷 Action RPG · Adventure` [Backloggd ↗](https://www.backloggd.com/search/games/Beyond%20Oasis)
+> A fairy-tale adventure where you command four elemental spirits in combat and traversal. Studio Ghibli warmth in a Genesis cart: sincere, short, and quietly devastating when it commits to its final image. (Ported everywhere if the hardware's awkward.)
+
+> [!tip] 🥉 [[Landstalker]] ✨
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co2kb9.jpg) `⏱ ~18h` `🏷 RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Landstalker)
+> An elf treasure-hunter in a toy-box world of tiny villages and talking animals — told with the patient pacing that suits cozy vibes over JRPG spectacle. The isometric perspective is an acquired taste, but the exploration loop (find a new screen, a new tune) is pure comfort.
+
+> [!quote] #4 [[Ecco the Dolphin]] ✨ ⚠️
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co23oy.jpg) `⏱ ~8h` `🏷 Adventure · Puzzle` [Backloggd ↗](https://www.backloggd.com/search/games/Ecco%20the%20Dolphin)
+> A wordless odyssey: a dolphin's family is snatched across alien oceans and time, resolving into one of gaming's most melancholy, NieR-grade concepts. ⚠️ The payoff only comes by tolerating obtuse puzzle design and underwater navigation that frustrated a generation — that obtuseness here is *not* a vessel, so expect to bounce. Slot it knowing that.
+
+> [!quote] #5 [[ToeJam & Earl]] ✨
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co6yry.jpg) `⏱ ~6h` `🏷 Action RPG · Roguelike` [Backloggd ↗](https://www.backloggd.com/search/games/ToeJam%20%26%20Earl)
+> Two alien rappers shipwrecked on Earth: a roguelike dungeon where every floor is a new mixtape and the loot is pure '90s weirdness (an I-pad that plays the whole game for you, a 'funeral' item that kills you outright). Equal parts jazzy comfort and sudden death — a weird one-off that never stops surprising.
+
+> [!quote] #6 [[Shining Force II]] ✨
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co97f0.jpg) `⏱ ~22h` `🏷 Tactical RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Shining%20Force%20II)
+> Camelot's turn-based tactics with the warmth of a bedtime story and the depth of chess. If Pikmin 2's 'tiny world wonder' clicked, SFII is the grid-based cousin: methodical, forgiving, full of little discoveries that keep the grind away.
+
+> [!quote] #7 [[Gunstar Heroes]] ✨ ⚠️
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co3wad.jpg) `⏱ ~2h` `🏷 Run and Gun` [Backloggd ↗](https://www.backloggd.com/search/games/Gunstar%20Heroes)
+> Treasure's bullet-hell run-and-gun where every weapon is a different flavor of chaos (lightning + fire = microwave beam). Pure arcade auteurism: two hours of ideas fired from a cannon. ⚠️ The 16-hit death limit means it will punch back hard — crank the difficulty down.
+
+> [!quote] #8 [[Dynamite Headdy]] ✨
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co3s82.jpg) `⏱ ~10h` `🏷 Platformer` [Backloggd ↗](https://www.backloggd.com/search/games/Dynamite%20Headdy)
+> A puppet with a detachable head who swaps heads like weapons: one shrinks you, one sucks up everything on screen, one puts you to sleep to heal. Treasure's most ideas-per-level platformer — every screen discards a new mechanic, Kirby-Super-Star-style.
+
+> [!quote] #9 [[Comix Zone]] ✨ ⚠️
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co21sx.jpg) `⏱ ~3h` `🏷 Brawler · Puzzle` [Backloggd ↗](https://www.backloggd.com/search/games/Comix%20Zone)
+> Drawn in living comic-book panels, inked in real-time as you fight. A genuinely one-off concept (you die, the comic continues without you) with a scratchy-vinyl soundtrack. ⚠️ Short and brawler-heavy — best as a 90-minute palate cleanser between JRPGs.
+
+> [!quote] #10 [[Streets of Rage 2]] ✨
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co49sn.jpg) `⏱ ~6h` `🏷 Brawler · Co-op` [Backloggd ↗](https://www.backloggd.com/search/games/Streets%20of%20Rage%202)
+> The coziest beat-'em-up ever made: Yuzo Koshiro's all-timer synth, couch co-op that turns button-mashing into bonding, and a cast (Axel, Blaze, Skate, Max) that each plays completely differently. The 'warmth-over-spectacle' brawler your Friday Monsters comfort side will thank you for.
+
+
+> [!failure]- 🚫 Top 5 to Avoid
+> 1. [**Golden Axe**](https://www.backloggd.com/search/games/Golden%20Axe) `⏱ ~5h` `🏷 Beat 'em Up` — The 'bland combat works wonders / emptiness of it all' test, failed: repetitive arcade brawling with weapon durability for flavor only and no vision to bind it.
+> 2. [**Altered Beast**](https://www.backloggd.com/search/games/Altered%20Beast) `⏱ ~1½h` `🏷 Action Platformer` — Three minutes of concept (werewolf transformation) padded with filler stages. The 'fascinating idea, catastrophic execution' problem, minus the fascinating idea.
+> 3. [**Sonic the Hedgehog**](https://www.backloggd.com/search/games/Sonic%20the%20Hedgehog) `⏱ ~1½h` `🏷 Platformer` — The 1991 original: genuinely iconic speed, but it's all momentum and no narrative — retry-heavy platforming with nothing underneath but the sensation of going fast. The 'emptiness of it all' in mascot form.
+> 4. [**Shinobi (1987)**](https://www.backloggd.com/search/games/Shinobi) `⏱ ~2h` `🏷 Action Platformer` — Brutal trial-and-error with one-hit kills and pixel-precise platforming. The Armstrong wall as an entire genre exercise — exactly what OOT taught you to avoid.
+> 5. [**R-Type**](https://www.backloggd.com/search/games/R-Type) `⏱ ~2h` `🏷 Shooter` — 'I get why it mattered, minus the highs': a shmup built on pattern memorization and respawn-retry loops. The Star Fox feeling without a franchise to soften the edges.
+
+---
+
+## ⚫ Sega Saturn
+
+> [!tip] 🥇 [[NiGHTS into Dreams|NiGHTS into Dreams...]] ✨
+> ![|110](https://thumbnails.libretro.com/Sega%20-%20Saturn/Named_Boxarts/NiGHTS%20into%20Dreams...%20(Japan).png) `⏱ ~6h` `🏷 Platform · Arcade` [Backloggd ↗](https://www.backloggd.com/search/games/NiGHTS%20into%20Dreams)
+> Sonic Team's fever dream of swooping through hand-painted nightscapes, collecting your way through three kingdoms of pure kinetic geometry. If Tearaway's paper-craft wonder and NieR's dream-logic routes had a child, this is it: short, beautiful, and structurally unlike anything else on the console.
+
+> [!tip] 🥈 [[Panzer Dragoon Saga]] ✨
+> ![|110](https://thumbnails.libretro.com/Sega%20-%20Saturn/Named_Boxarts/Panzer%20Dragoon%20Saga%20(USA).png) `⏱ ~20h` `🏷 JRPG` [Backloggd ↗](https://www.backloggd.com/search/games/Panzer%20Dragoon%20Saga)
+> A rail shooter that grew a four-CD RPG soul. The most narratively confident thing on the Saturn: you ride a morphing dragon and slowly uncover a world that remembers you. The auteur-JRPG apex — NieR-grade 'completely itself.'
+
+> [!tip] 🥉 [[Burning Rangers]] ✨
+> ![|110](https://thumbnails.libretro.com/Sega%20-%20Saturn/Named_Boxarts/Burning%20Rangers%20(USA).png) `⏱ ~6h` `🏷 Platform · Shooter` [Backloggd ↗](https://www.backloggd.com/search/games/Burning%20Rangers)
+> Sonic Team's firefighting heroes: short, bright where NiGHTS is dreamy, and built for pass-the-mic co-op. The page on 'cozy vibes' doesn't cover a lot of orange neon, but this is the warm-blanket action game that lets you save civilians instead of grinding.
+
+> [!quote] #4 [[Grandia]] ✨ ⚠️
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/coafk6.jpg) `⏱ ~45h` `🏷 JRPG` [Backloggd ↗](https://www.backloggd.com/search/games/Grandia)
+> Game Arts' JRPG that your Chrono Trigger/NieR muscle-memory trains you for: story-first, turn-based combat with real-time movement, and a cast that grows on you. ⚠️ Japan-only on Saturn — the PS1 port (remastered in the Grandia HD Collection) is the smooth way to play the 45-hour commitment.
+
+> [!quote] #5 [[Shining Force III]] ✨ ⚠️
+> ![|110](https://thumbnails.libretro.com/Sega%20-%20Saturn/Named_Boxarts/Shining%20Force%20III%20(USA).png) `⏱ ~22h` `🏷 Tactical RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Shining%20Force%20III)
+> Camelot's turn-based tactics with the warmth of a bedtime story and the depth of chess. ⚠️ Only Scenario 1 shipped in English on Saturn; the full story lives in the Japan-only Scenarios 2–3 (or fan-restored versions). Cozy grid sessions either way.
+
+> [!quote] #6 [[Lunar - Silver Star Story|Lunar: Silver Star Story]] ✨
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/co8n6f.jpg) `⏱ ~30h` `🏷 JRPG` [Backloggd ↗](https://www.backloggd.com/search/games/Lunar%3A%20Silver%20Star%20Story)
+> The JRPG that defined 'warm': a hero's journey with a ragtag party, anime cutscenes, and a soundtrack that set the template. ⚠️ Japan-only on Saturn — the English PS1 'Complete' or 2009 PSP 'Harmony' is the smooth way in.
+
+> [!quote] #7 [[Mr. Bones]] ✨
+> ![|110](https://thumbnails.libretro.com/Sega%20-%20Saturn/Named_Boxarts/Mr.%20Bones%20(USA).png) `⏱ ~7h` `🏷 Platform · Oddball` [Backloggd ↗](https://www.backloggd.com/search/games/Mr.%20Bones)
+> A skeletal guitarist reanimated to avenge his band — yes, really. The Saturn's weirdest one-off: a platformer whose entire premise is 'what if a 1990s metal album cover was a game?' Equal parts spooky and silly, with a metal soundtrack that leans into the gimmick.
+
+> [!quote] #8 [[Dark Savior]] ✨
+> ![|110](https://thumbnails.libretro.com/Sega%20-%20Saturn/Named_Boxarts/Dark%20Savior%20(USA).png) `⏱ ~15h` `🏷 Action RPG` [Backloggd ↗](https://www.backloggd.com/search/games/Dark%20Savior)
+> A shape-shifting vampire RPG that changes mechanics every time you take damage. The Saturn's 'completely itself' candidate: ambitious, buggy-as-vision, and narratively unbothered by genre. If Drakengard's 'gameplay as vessel' clicked, this is the same church, different pew.
+
+> [!quote] #9 [[Shining the Holy Ark]] ✨
+> ![|110](https://thumbnails.libretro.com/Sega%20-%20Saturn/Named_Boxarts/Shining%20the%20Holy%20Ark%20(USA).png) `⏱ ~35h` `🏷 Dungeon Crawler` [Backloggd ↗](https://www.backloggd.com/search/games/Shining%20the%20Holy%20Ark)
+> First-person turn-based dungeon crawling through a fairy-tale forest of traps — pure comfort if you like methodical exploration and loot loops without the live-service weight. (Yes, it actually got a US Saturn release, which is a minor miracle.)
+
+> [!quote] #10 [[Radiant Silvergun]] ✨ ⚠️
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/coa5e6.jpg) `⏱ ~8h` `🏷 Shooter · Arcade` [Backloggd ↗](https://www.backloggd.com/search/games/Radiant%20Silvergun)
+> Treasure's genre-perfect score-attack shmup: seven weapons, no power-ups, just you and bullet patterns that feel like choreography — wrapped in a 20-minute story about angels and sacrifice. ⚠️ It's a high-score shmup (and Japan-only on Saturn; the Xbox 360 Arcade re-release is the smooth way), but if Quake III's 'craft as art' ethos appealed, this is that same philosophy.
+
+
+> [!failure]- 🚫 Top 5 to Avoid
+> 1. [**Baroque** 📦](https://www.backloggd.com/search/games/Baroque) `⏱ ~14h` `🏷 Roguelike RPG` 📦 — In your backlog (good call flagging it), but it's the purest form of the 'survival-layer fatigue' you dropped Parasite Eve and the PS2 Baroque for: permadeath, resource starvation, and a loop that punishes every mistake you have to re-earn. Skip this one.
+> 2. [**Daytona USA**](https://www.backloggd.com/search/games/Daytona%20USA) `⏱ ~4h` `🏷 Arcade Racing` — Arcade racing distilled to lap-time perfection with nothing to chew on narratively. The 'mechanical excellence serving nothing' case study.
+> 3. [**Virtua Fighter Remix**](https://www.backloggd.com/search/games/Virtua%20Fighter%20Remix) `⏱ ~varies` `🏷 Fighting` — The serious fighting game on a console full of weirdos. Polished, but all frame-data and no vision.
+> 4. [**Panzer Dragoon (1995)**](https://www.backloggd.com/search/games/Panzer%20Dragoon) `⏱ ~2h` `🏷 Rail Shooter` — The atmospheric rail-shooter predecessor to Saga, and the 'I get why it mattered, minus the highs' Star Fox feeling: repetitive aim-and-shoot with no mechanical depth beyond the novelty.
+> 5. [**Fighters Megamix**](https://www.backloggd.com/search/games/Fighters%20Megamix) `⏱ ~varies` `🏷 Fighting` — A character roster mash-up that's all speed and no personality. The Vanquish-tier 'so so bland' of fighting games.
+
+---
+
+## ⚪ Dreamcast
+
+> [!tip] 🥇 [[Shenmue]] ✨ ⚠️
+> ![|110](https://thumbnails.libretro.com/Sega%20-%20Dreamcast/Named_Boxarts/Shenmue%20(USA).png) `⏱ ~18h` `🏷 Adventure · Life Sim` [Backloggd ↗](https://www.backloggd.com/search/games/Shenmue)
+> Yu Suzuki's 'cinematic tour-de-force': a slow-burn detective saga set in a one-block model of Yokosuka where every shopfront is interactive and time moves with your daily routine. The auteur-lifestyle sim your Deadly-Premonition/Twin-Peaks side craves. ⚠️ Deliberate to the point of grind; only start it in a patient season, and lean into the weird mundane as the point — 'auteur jank in service of vibe,' pre-Deadly-Premonition.
+
+> [!tip] 🥈 [[Jet Set Radio]] ✨
+> ![|110](https://thumbnails.libretro.com/Sega%20-%20Dreamcast/Named_Boxarts/Jet%20Grind%20Radio%20(USA).png) `⏱ ~3h` `🏷 Action Sports · Style` [Backloggd ↗](https://www.backloggd.com/search/games/Jet%20Set%20Radio)
+> (North American release titled *Jet Grind Radio*.) Tokyo-to on inline skates with a spray-can: a one-off aesthetic machine where every surface begs to be tagged and every level is a different artistic statement. If Tearaway's 'every level discards an idea' energy clicked, this is its cel-shaded ancestor that never stops moving.
+
+> [!tip] 🥉 [[Napple Tale - Arsia in Daydream|Napple Tale: Arsia in Daydream]] 📦
+> ![|110](https://thumbnails.libretro.com/Sega%20-%20Dreamcast/Named_Boxarts/Napple%20Tale%20-%20Arsia%20in%20Daydream%20(Japan).png) `⏱ ~6h` `🏷 Platform · Anthology` [Backloggd ↗](https://www.backloggd.com/search/games/Napple%20Tale%3A%20Arsia%20in%20Daydream)
+> A seasonal platformer where you're a shy girl collecting her scattered 'Petals' across spring/summer/autumn/winter vignettes. Pure comfort: short, hand-crafted, and soaked in the same daydream logic that made NieR's routes sing. 📦 in your backlog and exactly your vibe.
+
+> [!quote] #4 [[Seaman]] ✨ ⚠️
+> ![|110](https://thumbnails.libretro.com/Sega%20-%20Dreamcast/Named_Boxarts/Seaman%20(USA).png) `⏱ ~4h` `🏷 Life Sim · Oddball` [Backloggd ↗](https://www.backloggd.com/search/games/Seaman)
+> Leonard Nimoy narrates your relationship with an amphibious larva you raise via microphone. Sega's most aggressively 'weird one-off' — part aquarium sim, part philosophy pet, part gentle roast. ⚠️ Time-gated and mic-dependent, so slot it between heavier games as an intermission you actually have to wait on.
+
+> [!quote] #5 [[Grandia II]] ✨
+> ![|110](https://thumbnails.libretro.com/Sega%20-%20Dreamcast/Named_Boxarts/Grandia%20II%20(USA).png) `⏱ ~40h` `🏷 JRPG` [Backloggd ↗](https://www.backloggd.com/search/games/Grandia%20II)
+> Game Arts' follow-up to Lunar: story-first JRPG whose real-time combat moves with your timing and never demands mindless grind. The shortest 'great' JRPG on the console.
+
+> [!quote] #6 [[Skies of Arcadia]] ✨
+> ![|110](https://thumbnails.libretro.com/Sega%20-%20Dreamcast/Named_Boxarts/Skies%20of%20Arcadia%20(USA).png) `⏱ ~45h` `🏷 JRPG · Adventure` [Backloggd ↗](https://www.backloggd.com/search/games/Skies%20of%20Arcadia)
+> Sky-pirates and floating continents wrapped in sequel-proof optimism. Where Shenmue broods, this soars; where JRPGs grind, this keeps its story moving. The warmest comfort JRPG on the console — Friday-Monsters-meets-final-fantasy warmth.
+
+> [!quote] #7 [[Illbleed]] ✨
+> ![|110](https://thumbnails.libretro.com/Sega%20-%20Dreamcast/Named_Boxarts/Illbleed%20(USA).png) `⏱ ~6h` `🏷 Survival Horror · Comedy` [Backloggd ↗](https://www.backloggd.com/search/games/Illbleed)
+> A B-movie survival horror that winks at its own clichés: you *feel* the traps coming and can bluff your way out of scares. If Rule of Rose's 'flaws as vessel' logic clicked, Illbleed is its cult cousin — disturbing ideas with a comedy valve. (Cult classic: expect jank in service of vision.)
+
+> [!quote] #8 [[Rez]] ✨
+> ![|110](https://images.igdb.com/igdb/image/upload/t_cover_big/cobyl9.jpg) `⏱ ~2h` `🏷 Rail Shooter · Synesthesia` [Backloggd ↕](https://www.backloggd.com/search/games/Rez)
+> A rail shooter turned audiovisual poem: shooting locks to a techno score as the HUD becomes the art. United Game Artists' 'one true idea, executed to the hilt' — exactly the singular auteur vision your top ratings reward, and the blueprint for everything that came after (Child of Eden).
+
+> [!quote] #9 [[Legacy of Kain - Soul Reaver|Legacy of Kain: Soul Reaver]] ✨
+> ![|110](https://thumbnails.libretro.com/Sega%20-%20Dreamcast/Named_Boxarts/Legacy%20of%20Kain%20-%20Soul%20Reaver%20(USA).png) `⏱ ~10h` `🏷 Action Adventure · Horror` [Backloggd ↗](https://www.backloggd.com/search/games/Legacy%20of%20Kain%3A%20Soul%20Reaver)
+> Necromantic melodrama with a movement system that *feels* like vampiric flight through a biopunk cathedral. If you liked NieR's 'flawed thing that is completely itself' quality, Soul Reaver is its third-person sibling: claustrophobic, gorgeous, and narratively unbothered by genre. Dreamcast version is the best-cut option.
+
+> [!quote] #10 [[Sonic Adventure]] 📦 ⚠️
+> ![|110](https://thumbnails.libretro.com/Sega%20-%20Dreamcast/Named_Boxarts/Sonic%20Adventure%20(USA).png) `⏱ ~6h` `🏷 Adventure · Platform` [Backloggd ↗](https://www.backloggd.com/search/games/Sonic%20Adventure)
+> 📦 in your backlog, and honestly a little of everything: you're six characters in six genres, one story. It's the exact 'uneven quality, camera jank, aimless wandering between the good bits' trap your taste flags — but the Adventure Fields (open hubs to lose yourself in) are the cozy Exploration-as-Pacing counterweight. ⚠️ Cherry-pick the field exploration; bail on Gamma's stages guilt-free.
+
+> [!info] 🕹️ Gunvalkyrie (backlog)
+> 📦 in your backlog tagged Dreamcast, but Smilebit's elec-punk jetpack shooter never shipped on the console — it's covered (with the ⚠️ its control scheme earns) in the [[#🟢 Xbox (Original)]] section.
+
+> [!failure]- 🚫 Top 5 to Avoid
+> 1. [**Soul Calibur**](https://www.backloggd.com/search/games/Soul%20Calibur) `⏱ ~varies` `🏷 3D Fighter` — Technically masterful, but pure competitive 1v1 with no narrative spine and a skill floor that dwarfs the Armstrong wall. Not your 'flaws-served-by-vision' zone.
+> 2. [**Crazy Taxi**](https://www.backloggd.com/search/games/Crazy%20Taxi) `⏱ ~4h` `🏷 Arcade` — The 'emptiness of it all' test, failed: five minutes of pure time-pressure arcade with a killer soundtrack and exactly zero reason to keep playing past the high-score loop.
+> 3. [**Virtua Fighter 3**](https://www.backloggd.com/search/games/Virtua%20Fighter%203) `⏱ ~varies` `🏷 Fighting` — The serious fighting game on a console full of weirdos. Polished, but all frame-data and no vision — the opposite of 'auteur.'
+> 4. [**Daytona USA**](https://www.backloggd.com/search/games/Daytona%20USA) `⏱ ~4h` `🏷 Arcade Racing` — Arcade racing distilled to lap-time optimization. 'Mechanical excellence serving nothing,' case study.
+> 5. [**Phantasy Star Online**](https://www.backloggd.com/search/games/Phantasy%20Star%20Online) `⏱ ~40h` `🏷 Action RPG · Online` — Grind-as-lifestyle: RNG loot, endless endgame loops, and a story that exists to justify repetition. Parasite-Eve-level survival-layer fatigue spread across 40 hours.
 
 ---
 
